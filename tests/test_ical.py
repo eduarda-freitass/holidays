@@ -417,12 +417,12 @@ class TestIcalExporter(TestCase):
 
     def test_crlf_line_endings(self):
         output = self.th_exporter.generate()
-
         lines = output.splitlines(keepends=True)
-        for line in lines:
-            self.assertTrue(
-                line.endswith(CONTENT_LINE_DELIMITER), f"Line did not end with CRLF: {repr(line)}"
-            )
+
+        self.assertTrue(
+            all(line.endswith(CONTENT_LINE_DELIMITER) for line in lines),
+            "At least one line did not end with CRLF.",
+        )
 
     def test_unique_uid_generation(self):
         # 1st generation should yield unique UUIDs for each VEVENT.
