@@ -148,6 +148,7 @@ class TestIcalExporter(TestCase):
         self.assertIn("DURATION:P1D", output)
         self.assertIn("END:VEVENT", output)
 
+
     @patch("holidays.ical.datetime", MockDatetime)
     def test_ical_timestamp(self):
         # The whole .ics output should use the same DTSTAMP.
@@ -155,14 +156,21 @@ class TestIcalExporter(TestCase):
 
         exporter = ICalExporter(self.us_holidays)
         output = exporter.generate()
-        lines = output.splitlines()
-        for line in lines:
-            if line.startswith("DTSTAMP:"):
-                self.assertIn(
-                    expected_timestamp,
-                    line,
-                    f"Expected DTSTAMP to contain {expected_timestamp}, but got {line}",
-                )
+
+        timestamp_count = output.count("DTSTAMP:")
+        expected_count = output.count(f"DTSTAMP:{expected_timestamp}")
+
+        self.assertGreater(
+            timestamp_count,
+            0,
+            "No DTSTAMP lines found in the iCalendar output.",
+        )
+        self.assertEqual(
+            expected_count,
+            timestamp_count,
+            "Not all DTSTAMP lines contain the expected timestamp.",
+        )
+
 
     def test_valid_language_code(self):
         # Primary Code.
