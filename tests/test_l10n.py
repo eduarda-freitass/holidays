@@ -54,7 +54,7 @@ class TestLocalization(TestCase):
         for po_path in sorted(locale_dir.rglob("*.po")):
             try:
                 po_file = create_po_file(po_path, check_for_duplicates=True)
-            except Exception as e:
+            except ValueError as e:
                 # Make sure no duplicated entries added.
                 if match := re.match(r"Entry (.*) already exists", str(e.__context__)):
                     self.assertEqual(
