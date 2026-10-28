@@ -808,7 +808,6 @@ class TestKeyTransforms(TestCase):
         class CustomDateType(date):
             pass
 
-        self.assertTrue(issubclass(CustomDateType, date))
         self.assertIn(CustomDateType(2014, 1, 1), self.hb)
         self.assertNotIn(CustomDateType(2014, 1, 3), self.hb)
 
