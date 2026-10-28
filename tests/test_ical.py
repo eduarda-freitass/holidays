@@ -457,25 +457,22 @@ class TestIcalExporter(TestCase):
             self.us_exporter.save_ics(file_path=file_path)
             self.assertTrue(file_path.exists(), f"File should be created at {file_path}")
 
+
     def test_save_ics_pathlib_path(self):
         with tempfile.TemporaryDirectory() as valid_path:
             file_path_1 = Path(valid_path) / "test_calendar_1.ics"
-            self.us_exporter.save_ics(file_path=file_path_1)
-            content_1 = [
-                line
-                for line in file_path_1.read_text().splitlines()
-                if not line.startswith(("UID:", "DTSTAMP:"))
-            ]
-
             file_path_2 = Path(valid_path) / "test_calendar_2.ics"
-            self.us_exporter.save_ics(file_path=str(file_path_2))
-            content_2 = [
-                line
-                for line in file_path_2.read_text().splitlines()
-                if not line.startswith(("UID:", "DTSTAMP:"))
-            ]
 
-            self.assertEqual(content_1, content_2)
+            self.us_exporter.save_ics(file_path=file_path_1)
+            self.us_exporter.save_ics(file_path=str(file_path_2))
+
+            content_1 = file_path_1.read_text().splitlines()
+            content_2 = file_path_2.read_text().splitlines()
+
+            self.assertEqual(
+                [line for line in content_1 if not line.startswith(("UID:", "DTSTAMP:"))],
+                [line for line in content_2 if not line.startswith(("UID:", "DTSTAMP:"))],
+            )
 
     def test_save_ics_empty_content(self):
         self.exporter.generate = MagicMock(return_value=b"")
