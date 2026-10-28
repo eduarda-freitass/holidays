@@ -17,6 +17,7 @@ from unittest import TestCase
 from unittest.mock import patch, MagicMock
 
 from holidays import country_holidays, financial_holidays
+import holidays
 from holidays.constants import HALF_DAY, SCHOOL, UNOFFICIAL
 from holidays.holiday_base import HolidayBase
 from holidays.ical import CONTENT_LINE_DELIMITER, CONTENT_LINE_MAX_LENGTH, ICalExporter
@@ -110,16 +111,24 @@ class TestIcalExporter(TestCase):
             ),
         )
 
+
     def _assert_holidaysum_language(self, holidays, language_name):
         exporter = ICalExporter(holidays, show_language=True)
         lines = exporter.generate().split(CONTENT_LINE_DELIMITER)
-        for line in lines:
-            if line.startswith("SUMMARY"):
-                self.assertIn(
-                    f"SUMMARY;LANGUAGE={language_name}:",
-                    line,
-                    f"Failed to find holiday with language name: {language_name}",
-                )
+        summary_lines = [line for line in lines if line.startswith("SUMMARY")]
+
+        self.assertTrue(
+            summary_lines,
+            "No SUMMARY lines found in the iCalendar output.",
+        )
+        self.assertTrue(
+            all(
+                f"SUMMARY;LANGUAGE={language_name}:" in line
+                for line in summary_lines
+            ),
+            f"Not all SUMMARY lines contain language {language_name}.",
+        )
+
 
     def _assert_language_not_provided(self, holidays):
         with self.assertRaises(ValueError) as context:
