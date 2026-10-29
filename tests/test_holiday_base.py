@@ -497,8 +497,18 @@ class TestGetNamed(TestCase):
 
     def test_icontains(self):
         hb = CountryStub1(years=2022)
-        for name in ("Thanksgiving", "thanksgiving", "Thanksgivi"):
-            self.assertListEqual(hb.get_named(name, lookup="icontains"), [date(2022, 11, 24)])
+        self.assertListEqual(
+            hb.get_named("Thanksgiving", lookup="icontains"),
+            [date(2022, 11, 24)],
+        )
+        self.assertListEqual(
+            hb.get_named("thanksgiving", lookup="icontains"),
+            [date(2022, 11, 24)],
+        )
+        self.assertListEqual(
+            hb.get_named("Thanksgivi", lookup="icontains"),
+            [date(2022, 11, 24)],
+        )
         self.assertListEqual(
             hb.get_named("Independence Day", lookup="icontains"),
             [date(2022, 6, 19), date(2022, 6, 20), date(2022, 7, 4)],
