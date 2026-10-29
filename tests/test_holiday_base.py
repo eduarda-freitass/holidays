@@ -484,8 +484,8 @@ class TestGetNamed(TestCase):
 
     def test_exact(self):
         hb = CountryStub1(years=2022)
-        for name in ("New", "Day"):
-            self.assertListEqual(hb.get_named(name, lookup="exact"), [])
+        self.assertListEqual(hb.get_named("New", lookup="exact"), [])
+        self.assertListEqual(hb.get_named("Day", lookup="exact"), [])
         self.assertListEqual(hb.get_named("Independence Day", lookup="exact"), [date(2022, 7, 4)])
         self.assertListEqual(hb.get_named("Thanksgiving", lookup="exact"), [date(2022, 11, 24)])
         self.assertListEqual(hb.get_named("thanksgiving", lookup="exact"), [])
