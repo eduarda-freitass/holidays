@@ -1209,12 +1209,13 @@ class TestStandardMethods(TestCase):
         )
         self.assertRaises(AttributeError, lambda: self.hb._add_holiday_1st_sat_from_fe_10(name))
 
-    def test_getitem(self):
+    def test_getitem_basic_lookup(self):
         self.assertEqual(self.hb["2014-01-01"], "New Year's Day")
         self.assertEqual(self.hb.get("2014-01-01"), "New Year's Day")
         self.assertIsNone(self.hb.get("2014-01-03"))
         self.assertRaises(KeyError, lambda: self.hb["2014-01-03"])
 
+    def test_getitem(self):
         self.assertListEqual(self.hb["2013-12-31":"2014-01-02"], [date(2014, 1, 1)])
         self.assertListEqual(
             self.hb["2013-12-24":"2014-01-02"], [date(2013, 12, 25), date(2014, 1, 1)]
@@ -1243,14 +1244,7 @@ class TestStandardMethods(TestCase):
         )
         self.assertListEqual(self.hb["2013-12-31" : "2014-01-02" : timedelta(days=3)], [])
 
-        self.assertRaises(ValueError, lambda: self.hb["2014-01-01":])
-        self.assertRaises(ValueError, lambda: self.hb[:"2014-01-01"])
-        self.assertRaises(TypeError, lambda: self.hb["2014-01-01":"2014-01-02":""])
-        self.assertRaises(ValueError, lambda: self.hb["2014-01-01":"2014-01-02":0])
-        self.assertRaises(
-            ValueError, lambda: self.hb["2014-01-01" : "2014-01-02" : timedelta(hours=12)]
-        )
-
+    def test_getitem_year_expansion(self):
         hb_1 = CountryStub1(years=(2013, 2015), expand=False)
         self.assertListEqual(
             hb_1["2013-12-24":"2015-01-02"],
@@ -1259,6 +1253,7 @@ class TestStandardMethods(TestCase):
                 date(2015, 1, 1),
             ],
         )
+
         hb_2 = CountryStub1(years=(2013, 2015))
         self.assertListEqual(
             hb_2["2013-12-24":"2015-01-02"],
@@ -1271,6 +1266,15 @@ class TestStandardMethods(TestCase):
                 date(2014, 12, 25),
                 date(2015, 1, 1),
             ],
+        )
+
+    def test_getitem_invalid_slices(self):
+        self.assertRaises(ValueError, lambda: self.hb["2014-01-01":])
+        self.assertRaises(ValueError, lambda: self.hb[:"2014-01-01"])
+        self.assertRaises(TypeError, lambda: self.hb["2014-01-01":"2014-01-02":""])
+        self.assertRaises(ValueError, lambda: self.hb["2014-01-01":"2014-01-02":0])
+        self.assertRaises(
+            ValueError, lambda: self.hb["2014-01-01" : "2014-01-02" : timedelta(hours=12)]
         )
 
     def test_radd(self):
