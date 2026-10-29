@@ -524,10 +524,19 @@ class TestGetNamed(TestCase):
 
     def test_iexact(self):
         hb = CountryStub1(years=2022)
-        for name in ("new year's day", "New Year's Day"):
-            self.assertListEqual(hb.get_named(name, lookup="iexact"), [date(2022, 1, 1)])
-        for name in ("New Year Day", "New Year", "year", "NEW Year"):
-            self.assertListEqual(hb.get_named(name, lookup="iexact"), [])
+        self.assertListEqual(
+            hb.get_named("new year's day", lookup="iexact"),
+            [date(2022, 1, 1)],
+        )
+        self.assertListEqual(
+            hb.get_named("New Year's Day", lookup="iexact"),
+            [date(2022, 1, 1)],
+        )
+
+        self.assertListEqual(hb.get_named("New Year Day", lookup="iexact"), [])
+        self.assertListEqual(hb.get_named("New Year", lookup="iexact"), [])
+        self.assertListEqual(hb.get_named("year", lookup="iexact"), [])
+        self.assertListEqual(hb.get_named("NEW Year", lookup="iexact"), [])
         self.assertListEqual(hb.get_named("independence day", lookup="iexact"), [date(2022, 7, 4)])
         self.assertListEqual(hb.get_named("thanksgiving", lookup="iexact"), [date(2022, 11, 24)])
         self.assertListEqual(hb.get_named("Thanksgivin", lookup="iexact"), [])
