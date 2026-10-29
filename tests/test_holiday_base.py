@@ -318,15 +318,17 @@ class TestCategories(TestCase):
         self.assertIn("2024-05-15", ccc)
 
     def test_non_default_categories(self):
-        for categories in (
-            {"CC_1": ("2024-05-16",)},
-            {"CC_2": ("2024-06-15",)},
-        ):
-            for category in categories:
-                ccc = TestCategories.CustomCategoryClass(years=2024, categories=category)
-                self.assertEqual(ccc.categories, set(categories), category)
-                for dt in categories[category]:
-                    self.assertIn(dt, ccc)
+        ccc_1 = TestCategories.CustomCategoryClass(
+            years=2024, categories="CC_1"
+        )
+        self.assertEqual(ccc_1.categories, {"CC_1"})
+        self.assertIn("2024-05-16", ccc_1)
+
+        ccc_2 = TestCategories.CustomCategoryClass(
+            years=2024, categories="CC_2"
+        )
+        self.assertEqual(ccc_2.categories, {"CC_2"})
+        self.assertIn("2024-06-15", ccc_2)
 
 
 class TestDeprecationWarnings(TestCase):
