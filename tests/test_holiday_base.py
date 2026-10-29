@@ -456,8 +456,14 @@ class TestGetList(TestCase):
 class TestGetNamed(TestCase):
     def test_contains(self):
         hb = CountryStub1(years=2022)
-        for name in ("New", "Year"):
-            self.assertListEqual(hb.get_named(name, lookup="contains"), [date(2022, 1, 1)])
+        self.assertListEqual(
+            hb.get_named("New", lookup="contains"),
+            [date(2022, 1, 1)],
+        )
+        self.assertListEqual(
+            hb.get_named("Year", lookup="contains"),
+            [date(2022, 1, 1)],
+        )
         self.assertListEqual(
             hb.get_named("Independence Day", lookup="contains"),
             [date(2022, 6, 19), date(2022, 6, 20), date(2022, 7, 4)],
