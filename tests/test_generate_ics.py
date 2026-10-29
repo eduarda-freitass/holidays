@@ -245,7 +245,9 @@ class TestGenerateIcs(TestCase):
         with self.argv("US", "--language", "en_US"):
             generator = IcsGenerator()
         generator.validate_code()
-        generator.validate_language()
+
+        self.assertIn("en_US", generator.entity.supported_languages)
+        self.assertIsNone(generator.validate_language())
 
     def test_validate_language_invalid(self):
         with self.argv("US", "--language", "xx_XX"):
