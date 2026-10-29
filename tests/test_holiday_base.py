@@ -208,14 +208,21 @@ class TestArgs(TestCase):
         self.assertEqual(CountryStub1(subdiv=3).subdiv, "3")
 
     def test_subdivisions_aliases(self):
-        subdivisions_aliases = {
-            "Subdiv_1": ("S1", "S_1"),
-            "Subdiv_2": ("S2", "S_2"),
-            "3": ("S3", "S_3"),
+        expected_subdivisions = {
+            "S1": "Subdiv_1",
+            "S_1": "Subdiv_1",
+            "S2": "Subdiv_2",
+            "S_2": "Subdiv_2",
+            "S3": "3",
+            "S_3": "3",
         }
-        for subdiv, aliases in subdivisions_aliases.items():
-            for alias in aliases:
-                self.assertEqual(subdiv, CountryStub1(subdiv=alias)._normalized_subdiv)
+
+        for alias, expected in expected_subdivisions.items():
+            with self.subTest(alias=alias):
+                self.assertEqual(
+                    CountryStub1(subdiv=alias)._normalized_subdiv,
+                    expected,
+                )
 
         self.assertEqual(
             CountryStub1.get_subdivision_aliases(),
