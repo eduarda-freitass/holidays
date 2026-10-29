@@ -225,7 +225,9 @@ class TestGenerateIcs(TestCase):
         with self.argv("US", "--categories", "government"):
             generator = IcsGenerator()
         generator.validate_code()
-        generator.validate_categories()
+
+        self.assertIn("government", generator.entity.supported_categories)
+        self.assertIsNone(generator.validate_categories())
 
     def test_validate_categories_invalid(self):
         with self.argv("US", "--categories", "foo"):
