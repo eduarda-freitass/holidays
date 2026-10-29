@@ -805,8 +805,7 @@ class TestKeyTransforms(TestCase):
         self.assertNotIn(dt, self.hb)
 
     def test_date_subclass(self):
-        class CustomDateType(date):
-            pass
+        CustomDateType = type("CustomDateType", (date,), {})
 
         self.assertIn(CustomDateType(2014, 1, 1), self.hb)
         self.assertNotIn(CustomDateType(2014, 1, 3), self.hb)
