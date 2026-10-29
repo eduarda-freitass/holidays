@@ -281,19 +281,29 @@ class TestCategories(TestCase):
 
     def test_default_category(self):
         ccc = TestCategories.CustomCategoryClass(years=2024)
-        self.assertEqual(ccc.categories, {TestCategories.CustomCategoryClass.default_category})
-        for name in ("CC Holiday",):
-            self.assertTrue(ccc.get_named(name, lookup="exact"))
-        for name in ("CC1 Holiday", "CC2 Holiday", "SD_1 CC_1 Holiday", "SD_2 CC Holiday"):
-            self.assertFalse(ccc.get_named(name, lookup="exact"))
+        self.assertEqual(
+            ccc.categories,
+            {TestCategories.CustomCategoryClass.default_category},
+        )
+
+        self.assertTrue(ccc.get_named("CC Holiday", lookup="exact"))
+        self.assertFalse(ccc.get_named("CC1 Holiday", lookup="exact"))
+        self.assertFalse(ccc.get_named("CC2 Holiday", lookup="exact"))
+        self.assertFalse(ccc.get_named("SD_1 CC_1 Holiday", lookup="exact"))
+        self.assertFalse(ccc.get_named("SD_2 CC Holiday", lookup="exact"))
 
         # Default category with subdiv.
         ccc_sd2 = TestCategories.CustomCategoryClass(years=2024, subdiv="SD_2")
-        self.assertEqual(ccc_sd2.categories, {TestCategories.CustomCategoryClass.default_category})
-        for name in ("CC Holiday", "SD_2 CC Holiday"):
-            self.assertTrue(ccc_sd2.get_named(name, lookup="exact"), name)
-        for name in ("CC1 Holiday", "CC2 Holiday", "SD_1 CC_1 Holiday"):
-            self.assertFalse(ccc_sd2.get_named(name, lookup="exact"), name)
+        self.assertEqual(
+            ccc_sd2.categories,
+            {TestCategories.CustomCategoryClass.default_category},
+        )
+
+        self.assertTrue(ccc_sd2.get_named("CC Holiday", lookup="exact"))
+        self.assertTrue(ccc_sd2.get_named("SD_2 CC Holiday", lookup="exact"))
+        self.assertFalse(ccc_sd2.get_named("CC1 Holiday", lookup="exact"))
+        self.assertFalse(ccc_sd2.get_named("CC2 Holiday", lookup="exact"))
+        self.assertFalse(ccc_sd2.get_named("SD_1 CC_1 Holiday", lookup="exact"))
 
     def test_no_default_category(self):
         TestCategories.CustomCategoryClass.default_category = None
