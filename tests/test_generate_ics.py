@@ -198,7 +198,8 @@ class TestGenerateIcs(TestCase):
         with self.argv("US", "--subdiv", "CA"):
             generator = IcsGenerator()
         generator.validate_code()
-        generator.validate_subdiv()
+
+        self.assertIsNone(generator.validate_subdiv())
 
     def test_validate_subdiv_alias(self):
         with self.argv("AT", "--subdiv", "Burgenland"):
