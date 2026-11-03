@@ -1,0 +1,5834 @@
+{
+  "holidays/constants.py": {
+    "loc": 71,
+    "lloc": 32,
+    "sloc": 53,
+    "comments": 13,
+    "multi": 0,
+    "blank": 6,
+    "single_comments": 12
+  },
+  "holidays/generate_ics.py": {
+    "loc": 301,
+    "lloc": 160,
+    "sloc": 240,
+    "comments": 14,
+    "multi": 0,
+    "blank": 49,
+    "single_comments": 12
+  },
+  "holidays/helpers.py": {
+    "loc": 54,
+    "lloc": 16,
+    "sloc": 13,
+    "comments": 12,
+    "multi": 15,
+    "blank": 14,
+    "single_comments": 12
+  },
+  "holidays/holiday_base.py": {
+    "loc": 1489,
+    "lloc": 590,
+    "sloc": 708,
+    "comments": 79,
+    "multi": 421,
+    "blank": 265,
+    "single_comments": 95
+  },
+  "holidays/ical.py": {
+    "loc": 245,
+    "lloc": 102,
+    "sloc": 113,
+    "comments": 26,
+    "multi": 63,
+    "blank": 45,
+    "single_comments": 24
+  },
+  "holidays/no_holiday_base.py": {
+    "loc": 24,
+    "lloc": 8,
+    "sloc": 6,
+    "comments": 11,
+    "multi": 0,
+    "blank": 5,
+    "single_comments": 13
+  },
+  "holidays/observed_holiday_base.py": {
+    "loc": 440,
+    "lloc": 211,
+    "sloc": 190,
+    "comments": 20,
+    "multi": 143,
+    "blank": 86,
+    "single_comments": 21
+  },
+  "holidays/registry.py": {
+    "loc": 426,
+    "lloc": 64,
+    "sloc": 366,
+    "comments": 19,
+    "multi": 10,
+    "blank": 25,
+    "single_comments": 25
+  },
+  "holidays/utils.py": {
+    "loc": 499,
+    "lloc": 80,
+    "sloc": 129,
+    "comments": 12,
+    "multi": 243,
+    "blank": 116,
+    "single_comments": 11
+  },
+  "holidays/version.py": {
+    "loc": 15,
+    "lloc": 2,
+    "sloc": 2,
+    "comments": 11,
+    "multi": 0,
+    "blank": 2,
+    "single_comments": 11
+  },
+  "holidays/__init__.py": {
+    "loc": 26,
+    "lloc": 11,
+    "sloc": 11,
+    "comments": 13,
+    "multi": 0,
+    "blank": 4,
+    "single_comments": 11
+  },
+  "holidays/calendars/australia_school.py": {
+    "loc": 312,
+    "lloc": 4,
+    "sloc": 256,
+    "comments": 11,
+    "multi": 35,
+    "blank": 10,
+    "single_comments": 11
+  },
+  "holidays/calendars/balinese_saka.py": {
+    "loc": 111,
+    "lloc": 13,
+    "sloc": 79,
+    "comments": 11,
+    "multi": 12,
+    "blank": 9,
+    "single_comments": 11
+  },
+  "holidays/calendars/buddhist.py": {
+    "loc": 443,
+    "lloc": 21,
+    "sloc": 421,
+    "comments": 11,
+    "multi": 0,
+    "blank": 11,
+    "single_comments": 11
+  },
+  "holidays/calendars/burmese.py": {
+    "loc": 321,
+    "lloc": 83,
+    "sloc": 135,
+    "comments": 18,
+    "multi": 102,
+    "blank": 71,
+    "single_comments": 13
+  },
+  "holidays/calendars/chinese.py": {
+    "loc": 1439,
+    "lloc": 98,
+    "sloc": 1381,
+    "comments": 17,
+    "multi": 8,
+    "blank": 38,
+    "single_comments": 12
+  },
+  "holidays/calendars/custom.py": {
+    "loc": 34,
+    "lloc": 10,
+    "sloc": 9,
+    "comments": 11,
+    "multi": 5,
+    "blank": 9,
+    "single_comments": 11
+  },
+  "holidays/calendars/ethiopian.py": {
+    "loc": 31,
+    "lloc": 4,
+    "sloc": 3,
+    "comments": 11,
+    "multi": 10,
+    "blank": 7,
+    "single_comments": 11
+  },
+  "holidays/calendars/germany_school.py": {
+    "loc": 5579,
+    "lloc": 5,
+    "sloc": 5563,
+    "comments": 11,
+    "multi": 0,
+    "blank": 4,
+    "single_comments": 12
+  },
+  "holidays/calendars/gregorian.py": {
+    "loc": 130,
+    "lloc": 53,
+    "sloc": 61,
+    "comments": 13,
+    "multi": 26,
+    "blank": 30,
+    "single_comments": 13
+  },
+  "holidays/calendars/hebrew.py": {
+    "loc": 1632,
+    "lloc": 56,
+    "sloc": 1596,
+    "comments": 11,
+    "multi": 0,
+    "blank": 25,
+    "single_comments": 11
+  },
+  "holidays/calendars/hindu.py": {
+    "loc": 3204,
+    "lloc": 354,
+    "sloc": 2959,
+    "comments": 103,
+    "multi": 0,
+    "blank": 142,
+    "single_comments": 103
+  },
+  "holidays/calendars/islamic.py": {
+    "loc": 5421,
+    "lloc": 175,
+    "sloc": 5274,
+    "comments": 11,
+    "multi": 50,
+    "blank": 86,
+    "single_comments": 11
+  },
+  "holidays/calendars/julian.py": {
+    "loc": 27,
+    "lloc": 4,
+    "sloc": 3,
+    "comments": 11,
+    "multi": 7,
+    "blank": 6,
+    "single_comments": 11
+  },
+  "holidays/calendars/julian_revised.py": {
+    "loc": 13,
+    "lloc": 1,
+    "sloc": 1,
+    "comments": 11,
+    "multi": 0,
+    "blank": 1,
+    "single_comments": 11
+  },
+  "holidays/calendars/mandaean.py": {
+    "loc": 58,
+    "lloc": 26,
+    "sloc": 23,
+    "comments": 12,
+    "multi": 12,
+    "blank": 11,
+    "single_comments": 12
+  },
+  "holidays/calendars/mongolian.py": {
+    "loc": 341,
+    "lloc": 26,
+    "sloc": 317,
+    "comments": 11,
+    "multi": 0,
+    "blank": 13,
+    "single_comments": 11
+  },
+  "holidays/calendars/persian.py": {
+    "loc": 63,
+    "lloc": 27,
+    "sloc": 28,
+    "comments": 11,
+    "multi": 13,
+    "blank": 11,
+    "single_comments": 11
+  },
+  "holidays/calendars/sinhala.py": {
+    "loc": 425,
+    "lloc": 82,
+    "sloc": 368,
+    "comments": 11,
+    "multi": 9,
+    "blank": 37,
+    "single_comments": 11
+  },
+  "holidays/calendars/thai.py": {
+    "loc": 850,
+    "lloc": 190,
+    "sloc": 338,
+    "comments": 28,
+    "multi": 312,
+    "blank": 171,
+    "single_comments": 29
+  },
+  "holidays/calendars/tibetan.py": {
+    "loc": 1892,
+    "lloc": 56,
+    "sloc": 1856,
+    "comments": 11,
+    "multi": 0,
+    "blank": 25,
+    "single_comments": 11
+  },
+  "holidays/calendars/__init__.py": {
+    "loc": 33,
+    "lloc": 16,
+    "sloc": 21,
+    "comments": 11,
+    "multi": 0,
+    "blank": 1,
+    "single_comments": 11
+  },
+  "holidays/countries/afghanistan.py": {
+    "loc": 170,
+    "lloc": 69,
+    "sloc": 99,
+    "comments": 28,
+    "multi": 12,
+    "blank": 31,
+    "single_comments": 28
+  },
+  "holidays/countries/aland_islands.py": {
+    "loc": 47,
+    "lloc": 14,
+    "sloc": 13,
+    "comments": 12,
+    "multi": 9,
+    "blank": 13,
+    "single_comments": 12
+  },
+  "holidays/countries/albania.py": {
+    "loc": 151,
+    "lloc": 63,
+    "sloc": 77,
+    "comments": 31,
+    "multi": 12,
+    "blank": 32,
+    "single_comments": 30
+  },
+  "holidays/countries/algeria.py": {
+    "loc": 169,
+    "lloc": 67,
+    "sloc": 78,
+    "comments": 42,
+    "multi": 17,
+    "blank": 34,
+    "single_comments": 40
+  },
+  "holidays/countries/american_samoa.py": {
+    "loc": 41,
+    "lloc": 15,
+    "sloc": 14,
+    "comments": 12,
+    "multi": 4,
+    "blank": 11,
+    "single_comments": 12
+  },
+  "holidays/countries/andorra.py": {
+    "loc": 232,
+    "lloc": 75,
+    "sloc": 95,
+    "comments": 50,
+    "multi": 54,
+    "blank": 42,
+    "single_comments": 41
+  },
+  "holidays/countries/angola.py": {
+    "loc": 186,
+    "lloc": 64,
+    "sloc": 103,
+    "comments": 47,
+    "multi": 15,
+    "blank": 31,
+    "single_comments": 37
+  },
+  "holidays/countries/anguilla.py": {
+    "loc": 174,
+    "lloc": 50,
+    "sloc": 96,
+    "comments": 35,
+    "multi": 24,
+    "blank": 29,
+    "single_comments": 25
+  },
+  "holidays/countries/antarctica.py": {
+    "loc": 58,
+    "lloc": 24,
+    "sloc": 23,
+    "comments": 16,
+    "multi": 5,
+    "blank": 14,
+    "single_comments": 16
+  },
+  "holidays/countries/antigua_and_barbuda.py": {
+    "loc": 146,
+    "lloc": 50,
+    "sloc": 70,
+    "comments": 27,
+    "multi": 25,
+    "blank": 28,
+    "single_comments": 23
+  },
+  "holidays/countries/argentina.py": {
+    "loc": 1016,
+    "lloc": 270,
+    "sloc": 522,
+    "comments": 242,
+    "multi": 143,
+    "blank": 152,
+    "single_comments": 199
+  },
+  "holidays/countries/armenia.py": {
+    "loc": 541,
+    "lloc": 118,
+    "sloc": 307,
+    "comments": 108,
+    "multi": 98,
+    "blank": 56,
+    "single_comments": 80
+  },
+  "holidays/countries/aruba.py": {
+    "loc": 158,
+    "lloc": 34,
+    "sloc": 62,
+    "comments": 59,
+    "multi": 11,
+    "blank": 32,
+    "single_comments": 53
+  },
+  "holidays/countries/australia.py": {
+    "loc": 1016,
+    "lloc": 409,
+    "sloc": 568,
+    "comments": 286,
+    "multi": 38,
+    "blank": 162,
+    "single_comments": 248
+  },
+  "holidays/countries/austria.py": {
+    "loc": 213,
+    "lloc": 69,
+    "sloc": 103,
+    "comments": 61,
+    "multi": 19,
+    "blank": 39,
+    "single_comments": 52
+  },
+  "holidays/countries/azerbaijan.py": {
+    "loc": 335,
+    "lloc": 113,
+    "sloc": 220,
+    "comments": 43,
+    "multi": 34,
+    "blank": 45,
+    "single_comments": 36
+  },
+  "holidays/countries/bahamas.py": {
+    "loc": 142,
+    "lloc": 39,
+    "sloc": 64,
+    "comments": 42,
+    "multi": 13,
+    "blank": 26,
+    "single_comments": 39
+  },
+  "holidays/countries/bahrain.py": {
+    "loc": 103,
+    "lloc": 49,
+    "sloc": 51,
+    "comments": 21,
+    "multi": 10,
+    "blank": 21,
+    "single_comments": 21
+  },
+  "holidays/countries/bangladesh.py": {
+    "loc": 188,
+    "lloc": 68,
+    "sloc": 87,
+    "comments": 36,
+    "multi": 24,
+    "blank": 41,
+    "single_comments": 36
+  },
+  "holidays/countries/barbados.py": {
+    "loc": 107,
+    "lloc": 37,
+    "sloc": 48,
+    "comments": 27,
+    "multi": 10,
+    "blank": 24,
+    "single_comments": 25
+  },
+  "holidays/countries/belarus.py": {
+    "loc": 304,
+    "lloc": 69,
+    "sloc": 219,
+    "comments": 35,
+    "multi": 18,
+    "blank": 35,
+    "single_comments": 32
+  },
+  "holidays/countries/belgium.py": {
+    "loc": 92,
+    "lloc": 35,
+    "sloc": 34,
+    "comments": 26,
+    "multi": 7,
+    "blank": 25,
+    "single_comments": 26
+  },
+  "holidays/countries/belize.py": {
+    "loc": 114,
+    "lloc": 36,
+    "sloc": 51,
+    "comments": 31,
+    "multi": 7,
+    "blank": 25,
+    "single_comments": 31
+  },
+  "holidays/countries/benin.py": {
+    "loc": 198,
+    "lloc": 68,
+    "sloc": 66,
+    "comments": 49,
+    "multi": 50,
+    "blank": 33,
+    "single_comments": 49
+  },
+  "holidays/countries/bermuda.py": {
+    "loc": 151,
+    "lloc": 53,
+    "sloc": 83,
+    "comments": 29,
+    "multi": 24,
+    "blank": 25,
+    "single_comments": 19
+  },
+  "holidays/countries/bhutan.py": {
+    "loc": 239,
+    "lloc": 72,
+    "sloc": 144,
+    "comments": 50,
+    "multi": 28,
+    "blank": 35,
+    "single_comments": 32
+  },
+  "holidays/countries/bolivia.py": {
+    "loc": 174,
+    "lloc": 65,
+    "sloc": 93,
+    "comments": 48,
+    "multi": 12,
+    "blank": 31,
+    "single_comments": 38
+  },
+  "holidays/countries/bonaire_sint_eustatius_and_saba.py": {
+    "loc": 133,
+    "lloc": 48,
+    "sloc": 64,
+    "comments": 33,
+    "multi": 12,
+    "blank": 30,
+    "single_comments": 27
+  },
+  "holidays/countries/bosnia_and_herzegovina.py": {
+    "loc": 291,
+    "lloc": 101,
+    "sloc": 162,
+    "comments": 60,
+    "multi": 17,
+    "blank": 58,
+    "single_comments": 54
+  },
+  "holidays/countries/botswana.py": {
+    "loc": 91,
+    "lloc": 41,
+    "sloc": 50,
+    "comments": 11,
+    "multi": 7,
+    "blank": 23,
+    "single_comments": 11
+  },
+  "holidays/countries/bouvet_island.py": {
+    "loc": 34,
+    "lloc": 8,
+    "sloc": 7,
+    "comments": 11,
+    "multi": 6,
+    "blank": 10,
+    "single_comments": 11
+  },
+  "holidays/countries/brazil.py": {
+    "loc": 455,
+    "lloc": 187,
+    "sloc": 248,
+    "comments": 97,
+    "multi": 21,
+    "blank": 90,
+    "single_comments": 96
+  },
+  "holidays/countries/british_indian_ocean_territory.py": {
+    "loc": 34,
+    "lloc": 8,
+    "sloc": 7,
+    "comments": 11,
+    "multi": 6,
+    "blank": 10,
+    "single_comments": 11
+  },
+  "holidays/countries/british_virgin_islands.py": {
+    "loc": 204,
+    "lloc": 70,
+    "sloc": 130,
+    "comments": 36,
+    "multi": 23,
+    "blank": 30,
+    "single_comments": 21
+  },
+  "holidays/countries/brunei.py": {
+    "loc": 281,
+    "lloc": 83,
+    "sloc": 152,
+    "comments": 38,
+    "multi": 53,
+    "blank": 43,
+    "single_comments": 33
+  },
+  "holidays/countries/bulgaria.py": {
+    "loc": 301,
+    "lloc": 78,
+    "sloc": 172,
+    "comments": 50,
+    "multi": 44,
+    "blank": 43,
+    "single_comments": 42
+  },
+  "holidays/countries/burkina_faso.py": {
+    "loc": 142,
+    "lloc": 53,
+    "sloc": 69,
+    "comments": 32,
+    "multi": 12,
+    "blank": 29,
+    "single_comments": 32
+  },
+  "holidays/countries/burundi.py": {
+    "loc": 154,
+    "lloc": 54,
+    "sloc": 86,
+    "comments": 29,
+    "multi": 15,
+    "blank": 29,
+    "single_comments": 24
+  },
+  "holidays/countries/cabo_verde.py": {
+    "loc": 292,
+    "lloc": 111,
+    "sloc": 155,
+    "comments": 98,
+    "multi": 9,
+    "blank": 52,
+    "single_comments": 76
+  },
+  "holidays/countries/cambodia.py": {
+    "loc": 315,
+    "lloc": 74,
+    "sloc": 129,
+    "comments": 114,
+    "multi": 19,
+    "blank": 60,
+    "single_comments": 107
+  },
+  "holidays/countries/cameroon.py": {
+    "loc": 170,
+    "lloc": 55,
+    "sloc": 102,
+    "comments": 26,
+    "multi": 12,
+    "blank": 30,
+    "single_comments": 26
+  },
+  "holidays/countries/canada.py": {
+    "loc": 604,
+    "lloc": 264,
+    "sloc": 361,
+    "comments": 108,
+    "multi": 34,
+    "blank": 127,
+    "single_comments": 82
+  },
+  "holidays/countries/cayman_islands.py": {
+    "loc": 161,
+    "lloc": 50,
+    "sloc": 86,
+    "comments": 33,
+    "multi": 23,
+    "blank": 26,
+    "single_comments": 26
+  },
+  "holidays/countries/central_african_republic.py": {
+    "loc": 129,
+    "lloc": 52,
+    "sloc": 61,
+    "comments": 27,
+    "multi": 14,
+    "blank": 27,
+    "single_comments": 27
+  },
+  "holidays/countries/chad.py": {
+    "loc": 135,
+    "lloc": 50,
+    "sloc": 69,
+    "comments": 27,
+    "multi": 11,
+    "blank": 28,
+    "single_comments": 27
+  },
+  "holidays/countries/chile.py": {
+    "loc": 283,
+    "lloc": 99,
+    "sloc": 170,
+    "comments": 58,
+    "multi": 34,
+    "blank": 41,
+    "single_comments": 38
+  },
+  "holidays/countries/china.py": {
+    "loc": 479,
+    "lloc": 79,
+    "sloc": 313,
+    "comments": 255,
+    "multi": 45,
+    "blank": 45,
+    "single_comments": 76
+  },
+  "holidays/countries/christmas_island.py": {
+    "loc": 209,
+    "lloc": 68,
+    "sloc": 119,
+    "comments": 28,
+    "multi": 31,
+    "blank": 33,
+    "single_comments": 26
+  },
+  "holidays/countries/cocos_islands.py": {
+    "loc": 240,
+    "lloc": 79,
+    "sloc": 140,
+    "comments": 32,
+    "multi": 37,
+    "blank": 35,
+    "single_comments": 28
+  },
+  "holidays/countries/colombia.py": {
+    "loc": 126,
+    "lloc": 46,
+    "sloc": 54,
+    "comments": 31,
+    "multi": 14,
+    "blank": 30,
+    "single_comments": 28
+  },
+  "holidays/countries/comoros.py": {
+    "loc": 121,
+    "lloc": 45,
+    "sloc": 54,
+    "comments": 24,
+    "multi": 16,
+    "blank": 27,
+    "single_comments": 24
+  },
+  "holidays/countries/congo.py": {
+    "loc": 78,
+    "lloc": 29,
+    "sloc": 28,
+    "comments": 22,
+    "multi": 7,
+    "blank": 21,
+    "single_comments": 22
+  },
+  "holidays/countries/cook_islands.py": {
+    "loc": 147,
+    "lloc": 48,
+    "sloc": 72,
+    "comments": 35,
+    "multi": 13,
+    "blank": 32,
+    "single_comments": 30
+  },
+  "holidays/countries/costa_rica.py": {
+    "loc": 127,
+    "lloc": 58,
+    "sloc": 69,
+    "comments": 26,
+    "multi": 11,
+    "blank": 23,
+    "single_comments": 24
+  },
+  "holidays/countries/croatia.py": {
+    "loc": 111,
+    "lloc": 43,
+    "sloc": 54,
+    "comments": 27,
+    "multi": 7,
+    "blank": 26,
+    "single_comments": 24
+  },
+  "holidays/countries/cuba.py": {
+    "loc": 105,
+    "lloc": 37,
+    "sloc": 36,
+    "comments": 27,
+    "multi": 21,
+    "blank": 21,
+    "single_comments": 27
+  },
+  "holidays/countries/curacao.py": {
+    "loc": 173,
+    "lloc": 42,
+    "sloc": 57,
+    "comments": 71,
+    "multi": 8,
+    "blank": 40,
+    "single_comments": 68
+  },
+  "holidays/countries/cyprus.py": {
+    "loc": 103,
+    "lloc": 42,
+    "sloc": 41,
+    "comments": 29,
+    "multi": 5,
+    "blank": 28,
+    "single_comments": 29
+  },
+  "holidays/countries/czechia.py": {
+    "loc": 107,
+    "lloc": 43,
+    "sloc": 48,
+    "comments": 29,
+    "multi": 7,
+    "blank": 25,
+    "single_comments": 27
+  },
+  "holidays/countries/denmark.py": {
+    "loc": 104,
+    "lloc": 39,
+    "sloc": 38,
+    "comments": 30,
+    "multi": 11,
+    "blank": 25,
+    "single_comments": 30
+  },
+  "holidays/countries/djibouti.py": {
+    "loc": 89,
+    "lloc": 36,
+    "sloc": 34,
+    "comments": 26,
+    "multi": 6,
+    "blank": 22,
+    "single_comments": 27
+  },
+  "holidays/countries/dominica.py": {
+    "loc": 129,
+    "lloc": 40,
+    "sloc": 51,
+    "comments": 27,
+    "multi": 24,
+    "blank": 30,
+    "single_comments": 24
+  },
+  "holidays/countries/dominican_republic.py": {
+    "loc": 91,
+    "lloc": 33,
+    "sloc": 41,
+    "comments": 24,
+    "multi": 5,
+    "blank": 22,
+    "single_comments": 23
+  },
+  "holidays/countries/dr_congo.py": {
+    "loc": 138,
+    "lloc": 48,
+    "sloc": 77,
+    "comments": 35,
+    "multi": 8,
+    "blank": 26,
+    "single_comments": 27
+  },
+  "holidays/countries/ecuador.py": {
+    "loc": 116,
+    "lloc": 34,
+    "sloc": 58,
+    "comments": 33,
+    "multi": 10,
+    "blank": 20,
+    "single_comments": 28
+  },
+  "holidays/countries/egypt.py": {
+    "loc": 232,
+    "lloc": 99,
+    "sloc": 137,
+    "comments": 38,
+    "multi": 20,
+    "blank": 41,
+    "single_comments": 34
+  },
+  "holidays/countries/el_salvador.py": {
+    "loc": 120,
+    "lloc": 38,
+    "sloc": 66,
+    "comments": 40,
+    "multi": 6,
+    "blank": 22,
+    "single_comments": 26
+  },
+  "holidays/countries/equatorial_guinea.py": {
+    "loc": 149,
+    "lloc": 44,
+    "sloc": 77,
+    "comments": 36,
+    "multi": 19,
+    "blank": 28,
+    "single_comments": 25
+  },
+  "holidays/countries/eritrea.py": {
+    "loc": 104,
+    "lloc": 38,
+    "sloc": 36,
+    "comments": 29,
+    "multi": 13,
+    "blank": 26,
+    "single_comments": 29
+  },
+  "holidays/countries/estonia.py": {
+    "loc": 121,
+    "lloc": 48,
+    "sloc": 53,
+    "comments": 31,
+    "multi": 12,
+    "blank": 27,
+    "single_comments": 29
+  },
+  "holidays/countries/eswatini.py": {
+    "loc": 95,
+    "lloc": 42,
+    "sloc": 52,
+    "comments": 12,
+    "multi": 5,
+    "blank": 27,
+    "single_comments": 11
+  },
+  "holidays/countries/ethiopia.py": {
+    "loc": 141,
+    "lloc": 56,
+    "sloc": 65,
+    "comments": 31,
+    "multi": 15,
+    "blank": 31,
+    "single_comments": 30
+  },
+  "holidays/countries/falkland_islands.py": {
+    "loc": 140,
+    "lloc": 50,
+    "sloc": 75,
+    "comments": 28,
+    "multi": 16,
+    "blank": 26,
+    "single_comments": 23
+  },
+  "holidays/countries/faroe_islands.py": {
+    "loc": 101,
+    "lloc": 38,
+    "sloc": 37,
+    "comments": 29,
+    "multi": 8,
+    "blank": 27,
+    "single_comments": 29
+  },
+  "holidays/countries/fiji.py": {
+    "loc": 181,
+    "lloc": 57,
+    "sloc": 95,
+    "comments": 31,
+    "multi": 28,
+    "blank": 29,
+    "single_comments": 29
+  },
+  "holidays/countries/finland.py": {
+    "loc": 352,
+    "lloc": 112,
+    "sloc": 204,
+    "comments": 121,
+    "multi": 0,
+    "blank": 53,
+    "single_comments": 95
+  },
+  "holidays/countries/france.py": {
+    "loc": 342,
+    "lloc": 106,
+    "sloc": 151,
+    "comments": 126,
+    "multi": 31,
+    "blank": 49,
+    "single_comments": 111
+  },
+  "holidays/countries/french_guiana.py": {
+    "loc": 44,
+    "lloc": 14,
+    "sloc": 13,
+    "comments": 12,
+    "multi": 7,
+    "blank": 12,
+    "single_comments": 12
+  },
+  "holidays/countries/french_polynesia.py": {
+    "loc": 43,
+    "lloc": 13,
+    "sloc": 12,
+    "comments": 12,
+    "multi": 7,
+    "blank": 12,
+    "single_comments": 12
+  },
+  "holidays/countries/french_southern_territories.py": {
+    "loc": 48,
+    "lloc": 13,
+    "sloc": 12,
+    "comments": 12,
+    "multi": 11,
+    "blank": 13,
+    "single_comments": 12
+  },
+  "holidays/countries/gabon.py": {
+    "loc": 200,
+    "lloc": 62,
+    "sloc": 104,
+    "comments": 32,
+    "multi": 26,
+    "blank": 38,
+    "single_comments": 32
+  },
+  "holidays/countries/gambia.py": {
+    "loc": 167,
+    "lloc": 69,
+    "sloc": 90,
+    "comments": 34,
+    "multi": 12,
+    "blank": 31,
+    "single_comments": 34
+  },
+  "holidays/countries/georgia.py": {
+    "loc": 119,
+    "lloc": 46,
+    "sloc": 46,
+    "comments": 30,
+    "multi": 11,
+    "blank": 32,
+    "single_comments": 30
+  },
+  "holidays/countries/germany.py": {
+    "loc": 379,
+    "lloc": 130,
+    "sloc": 216,
+    "comments": 87,
+    "multi": 36,
+    "blank": 70,
+    "single_comments": 57
+  },
+  "holidays/countries/ghana.py": {
+    "loc": 267,
+    "lloc": 59,
+    "sloc": 118,
+    "comments": 41,
+    "multi": 66,
+    "blank": 42,
+    "single_comments": 41
+  },
+  "holidays/countries/gibraltar.py": {
+    "loc": 218,
+    "lloc": 77,
+    "sloc": 139,
+    "comments": 35,
+    "multi": 33,
+    "blank": 26,
+    "single_comments": 20
+  },
+  "holidays/countries/greece.py": {
+    "loc": 103,
+    "lloc": 42,
+    "sloc": 48,
+    "comments": 26,
+    "multi": 5,
+    "blank": 24,
+    "single_comments": 26
+  },
+  "holidays/countries/greenland.py": {
+    "loc": 97,
+    "lloc": 38,
+    "sloc": 37,
+    "comments": 28,
+    "multi": 6,
+    "blank": 26,
+    "single_comments": 28
+  },
+  "holidays/countries/grenada.py": {
+    "loc": 142,
+    "lloc": 46,
+    "sloc": 54,
+    "comments": 29,
+    "multi": 30,
+    "blank": 30,
+    "single_comments": 28
+  },
+  "holidays/countries/guadeloupe.py": {
+    "loc": 44,
+    "lloc": 14,
+    "sloc": 13,
+    "comments": 12,
+    "multi": 7,
+    "blank": 12,
+    "single_comments": 12
+  },
+  "holidays/countries/guam.py": {
+    "loc": 41,
+    "lloc": 15,
+    "sloc": 14,
+    "comments": 12,
+    "multi": 4,
+    "blank": 11,
+    "single_comments": 12
+  },
+  "holidays/countries/guatemala.py": {
+    "loc": 90,
+    "lloc": 37,
+    "sloc": 36,
+    "comments": 22,
+    "multi": 8,
+    "blank": 24,
+    "single_comments": 22
+  },
+  "holidays/countries/guernsey.py": {
+    "loc": 330,
+    "lloc": 80,
+    "sloc": 165,
+    "comments": 83,
+    "multi": 45,
+    "blank": 51,
+    "single_comments": 69
+  },
+  "holidays/countries/guinea.py": {
+    "loc": 159,
+    "lloc": 62,
+    "sloc": 80,
+    "comments": 29,
+    "multi": 19,
+    "blank": 31,
+    "single_comments": 29
+  },
+  "holidays/countries/guinea_bissau.py": {
+    "loc": 95,
+    "lloc": 36,
+    "sloc": 36,
+    "comments": 25,
+    "multi": 10,
+    "blank": 24,
+    "single_comments": 25
+  },
+  "holidays/countries/guyana.py": {
+    "loc": 255,
+    "lloc": 68,
+    "sloc": 149,
+    "comments": 35,
+    "multi": 36,
+    "blank": 38,
+    "single_comments": 32
+  },
+  "holidays/countries/haiti.py": {
+    "loc": 128,
+    "lloc": 46,
+    "sloc": 45,
+    "comments": 40,
+    "multi": 6,
+    "blank": 37,
+    "single_comments": 40
+  },
+  "holidays/countries/heard_island_and_mcdonald_islands.py": {
+    "loc": 34,
+    "lloc": 8,
+    "sloc": 7,
+    "comments": 11,
+    "multi": 6,
+    "blank": 10,
+    "single_comments": 11
+  },
+  "holidays/countries/honduras.py": {
+    "loc": 84,
+    "lloc": 34,
+    "sloc": 33,
+    "comments": 25,
+    "multi": 5,
+    "blank": 21,
+    "single_comments": 25
+  },
+  "holidays/countries/hongkong.py": {
+    "loc": 435,
+    "lloc": 212,
+    "sloc": 272,
+    "comments": 81,
+    "multi": 11,
+    "blank": 71,
+    "single_comments": 81
+  },
+  "holidays/countries/hungary.py": {
+    "loc": 286,
+    "lloc": 56,
+    "sloc": 190,
+    "comments": 30,
+    "multi": 39,
+    "blank": 29,
+    "single_comments": 28
+  },
+  "holidays/countries/iceland.py": {
+    "loc": 97,
+    "lloc": 38,
+    "sloc": 37,
+    "comments": 28,
+    "multi": 5,
+    "blank": 27,
+    "single_comments": 28
+  },
+  "holidays/countries/india.py": {
+    "loc": 1879,
+    "lloc": 614,
+    "sloc": 808,
+    "comments": 540,
+    "multi": 85,
+    "blank": 490,
+    "single_comments": 496
+  },
+  "holidays/countries/indonesia.py": {
+    "loc": 660,
+    "lloc": 115,
+    "sloc": 466,
+    "comments": 80,
+    "multi": 64,
+    "blank": 53,
+    "single_comments": 77
+  },
+  "holidays/countries/iran.py": {
+    "loc": 405,
+    "lloc": 108,
+    "sloc": 280,
+    "comments": 42,
+    "multi": 23,
+    "blank": 61,
+    "single_comments": 41
+  },
+  "holidays/countries/iraq.py": {
+    "loc": 275,
+    "lloc": 125,
+    "sloc": 165,
+    "comments": 48,
+    "multi": 14,
+    "blank": 48,
+    "single_comments": 48
+  },
+  "holidays/countries/ireland.py": {
+    "loc": 103,
+    "lloc": 50,
+    "sloc": 52,
+    "comments": 23,
+    "multi": 5,
+    "blank": 23,
+    "single_comments": 23
+  },
+  "holidays/countries/isle_of_man.py": {
+    "loc": 61,
+    "lloc": 27,
+    "sloc": 26,
+    "comments": 22,
+    "multi": 0,
+    "blank": 14,
+    "single_comments": 21
+  },
+  "holidays/countries/israel.py": {
+    "loc": 151,
+    "lloc": 59,
+    "sloc": 87,
+    "comments": 33,
+    "multi": 5,
+    "blank": 30,
+    "single_comments": 29
+  },
+  "holidays/countries/italy.py": {
+    "loc": 1047,
+    "lloc": 335,
+    "sloc": 599,
+    "comments": 350,
+    "multi": 39,
+    "blank": 181,
+    "single_comments": 228
+  },
+  "holidays/countries/ivory_coast.py": {
+    "loc": 155,
+    "lloc": 52,
+    "sloc": 63,
+    "comments": 33,
+    "multi": 30,
+    "blank": 32,
+    "single_comments": 30
+  },
+  "holidays/countries/jamaica.py": {
+    "loc": 79,
+    "lloc": 27,
+    "sloc": 33,
+    "comments": 21,
+    "multi": 5,
+    "blank": 20,
+    "single_comments": 21
+  },
+  "holidays/countries/japan.py": {
+    "loc": 265,
+    "lloc": 121,
+    "sloc": 180,
+    "comments": 49,
+    "multi": 5,
+    "blank": 39,
+    "single_comments": 41
+  },
+  "holidays/countries/jersey.py": {
+    "loc": 239,
+    "lloc": 61,
+    "sloc": 107,
+    "comments": 54,
+    "multi": 36,
+    "blank": 44,
+    "single_comments": 52
+  },
+  "holidays/countries/jordan.py": {
+    "loc": 98,
+    "lloc": 41,
+    "sloc": 39,
+    "comments": 26,
+    "multi": 11,
+    "blank": 22,
+    "single_comments": 26
+  },
+  "holidays/countries/kazakhstan.py": {
+    "loc": 304,
+    "lloc": 76,
+    "sloc": 176,
+    "comments": 31,
+    "multi": 67,
+    "blank": 33,
+    "single_comments": 28
+  },
+  "holidays/countries/kenya.py": {
+    "loc": 252,
+    "lloc": 78,
+    "sloc": 153,
+    "comments": 39,
+    "multi": 25,
+    "blank": 40,
+    "single_comments": 34
+  },
+  "holidays/countries/kiribati.py": {
+    "loc": 124,
+    "lloc": 46,
+    "sloc": 53,
+    "comments": 28,
+    "multi": 16,
+    "blank": 27,
+    "single_comments": 28
+  },
+  "holidays/countries/kosovo.py": {
+    "loc": 103,
+    "lloc": 41,
+    "sloc": 45,
+    "comments": 26,
+    "multi": 11,
+    "blank": 23,
+    "single_comments": 24
+  },
+  "holidays/countries/kuwait.py": {
+    "loc": 93,
+    "lloc": 37,
+    "sloc": 35,
+    "comments": 25,
+    "multi": 12,
+    "blank": 21,
+    "single_comments": 25
+  },
+  "holidays/countries/kyrgyzstan.py": {
+    "loc": 488,
+    "lloc": 101,
+    "sloc": 284,
+    "comments": 64,
+    "multi": 99,
+    "blank": 50,
+    "single_comments": 55
+  },
+  "holidays/countries/laos.py": {
+    "loc": 389,
+    "lloc": 97,
+    "sloc": 103,
+    "comments": 166,
+    "multi": 27,
+    "blank": 93,
+    "single_comments": 166
+  },
+  "holidays/countries/latvia.py": {
+    "loc": 250,
+    "lloc": 52,
+    "sloc": 131,
+    "comments": 41,
+    "multi": 43,
+    "blank": 37,
+    "single_comments": 39
+  },
+  "holidays/countries/lebanon.py": {
+    "loc": 367,
+    "lloc": 98,
+    "sloc": 264,
+    "comments": 46,
+    "multi": 18,
+    "blank": 43,
+    "single_comments": 42
+  },
+  "holidays/countries/lesotho.py": {
+    "loc": 92,
+    "lloc": 38,
+    "sloc": 38,
+    "comments": 24,
+    "multi": 6,
+    "blank": 24,
+    "single_comments": 24
+  },
+  "holidays/countries/liberia.py": {
+    "loc": 80,
+    "lloc": 29,
+    "sloc": 28,
+    "comments": 23,
+    "multi": 6,
+    "blank": 23,
+    "single_comments": 23
+  },
+  "holidays/countries/libya.py": {
+    "loc": 194,
+    "lloc": 76,
+    "sloc": 96,
+    "comments": 42,
+    "multi": 16,
+    "blank": 41,
+    "single_comments": 41
+  },
+  "holidays/countries/liechtenstein.py": {
+    "loc": 111,
+    "lloc": 42,
+    "sloc": 41,
+    "comments": 33,
+    "multi": 5,
+    "blank": 32,
+    "single_comments": 33
+  },
+  "holidays/countries/lithuania.py": {
+    "loc": 96,
+    "lloc": 37,
+    "sloc": 39,
+    "comments": 27,
+    "multi": 5,
+    "blank": 26,
+    "single_comments": 26
+  },
+  "holidays/countries/luxembourg.py": {
+    "loc": 88,
+    "lloc": 35,
+    "sloc": 34,
+    "comments": 25,
+    "multi": 5,
+    "blank": 24,
+    "single_comments": 25
+  },
+  "holidays/countries/macau.py": {
+    "loc": 482,
+    "lloc": 152,
+    "sloc": 248,
+    "comments": 126,
+    "multi": 39,
+    "blank": 88,
+    "single_comments": 107
+  },
+  "holidays/countries/madagascar.py": {
+    "loc": 98,
+    "lloc": 38,
+    "sloc": 41,
+    "comments": 27,
+    "multi": 5,
+    "blank": 26,
+    "single_comments": 26
+  },
+  "holidays/countries/malawi.py": {
+    "loc": 68,
+    "lloc": 28,
+    "sloc": 31,
+    "comments": 11,
+    "multi": 5,
+    "blank": 21,
+    "single_comments": 11
+  },
+  "holidays/countries/malaysia.py": {
+    "loc": 1054,
+    "lloc": 347,
+    "sloc": 729,
+    "comments": 148,
+    "multi": 63,
+    "blank": 150,
+    "single_comments": 112
+  },
+  "holidays/countries/maldives.py": {
+    "loc": 104,
+    "lloc": 41,
+    "sloc": 39,
+    "comments": 27,
+    "multi": 13,
+    "blank": 25,
+    "single_comments": 27
+  },
+  "holidays/countries/mali.py": {
+    "loc": 145,
+    "lloc": 50,
+    "sloc": 80,
+    "comments": 28,
+    "multi": 13,
+    "blank": 26,
+    "single_comments": 26
+  },
+  "holidays/countries/malta.py": {
+    "loc": 150,
+    "lloc": 40,
+    "sloc": 39,
+    "comments": 64,
+    "multi": 9,
+    "blank": 38,
+    "single_comments": 64
+  },
+  "holidays/countries/marshall_islands.py": {
+    "loc": 111,
+    "lloc": 36,
+    "sloc": 43,
+    "comments": 31,
+    "multi": 16,
+    "blank": 23,
+    "single_comments": 29
+  },
+  "holidays/countries/martinique.py": {
+    "loc": 44,
+    "lloc": 14,
+    "sloc": 13,
+    "comments": 12,
+    "multi": 7,
+    "blank": 12,
+    "single_comments": 12
+  },
+  "holidays/countries/mauritania.py": {
+    "loc": 83,
+    "lloc": 34,
+    "sloc": 32,
+    "comments": 21,
+    "multi": 11,
+    "blank": 19,
+    "single_comments": 21
+  },
+  "holidays/countries/mauritius.py": {
+    "loc": 196,
+    "lloc": 58,
+    "sloc": 99,
+    "comments": 32,
+    "multi": 28,
+    "blank": 37,
+    "single_comments": 32
+  },
+  "holidays/countries/mayotte.py": {
+    "loc": 44,
+    "lloc": 14,
+    "sloc": 13,
+    "comments": 12,
+    "multi": 7,
+    "blank": 12,
+    "single_comments": 12
+  },
+  "holidays/countries/mexico.py": {
+    "loc": 92,
+    "lloc": 46,
+    "sloc": 45,
+    "comments": 21,
+    "multi": 8,
+    "blank": 18,
+    "single_comments": 21
+  },
+  "holidays/countries/micronesia.py": {
+    "loc": 204,
+    "lloc": 64,
+    "sloc": 78,
+    "comments": 45,
+    "multi": 45,
+    "blank": 41,
+    "single_comments": 40
+  },
+  "holidays/countries/moldova.py": {
+    "loc": 100,
+    "lloc": 39,
+    "sloc": 53,
+    "comments": 25,
+    "multi": 5,
+    "blank": 22,
+    "single_comments": 20
+  },
+  "holidays/countries/monaco.py": {
+    "loc": 119,
+    "lloc": 40,
+    "sloc": 43,
+    "comments": 27,
+    "multi": 24,
+    "blank": 27,
+    "single_comments": 25
+  },
+  "holidays/countries/mongolia.py": {
+    "loc": 202,
+    "lloc": 78,
+    "sloc": 105,
+    "comments": 59,
+    "multi": 9,
+    "blank": 37,
+    "single_comments": 51
+  },
+  "holidays/countries/montenegro.py": {
+    "loc": 187,
+    "lloc": 85,
+    "sloc": 108,
+    "comments": 33,
+    "multi": 12,
+    "blank": 34,
+    "single_comments": 33
+  },
+  "holidays/countries/montserrat.py": {
+    "loc": 176,
+    "lloc": 54,
+    "sloc": 105,
+    "comments": 31,
+    "multi": 23,
+    "blank": 27,
+    "single_comments": 21
+  },
+  "holidays/countries/morocco.py": {
+    "loc": 114,
+    "lloc": 53,
+    "sloc": 51,
+    "comments": 28,
+    "multi": 11,
+    "blank": 24,
+    "single_comments": 28
+  },
+  "holidays/countries/mozambique.py": {
+    "loc": 71,
+    "lloc": 30,
+    "sloc": 32,
+    "comments": 21,
+    "multi": 0,
+    "blank": 18,
+    "single_comments": 21
+  },
+  "holidays/countries/myanmar.py": {
+    "loc": 193,
+    "lloc": 70,
+    "sloc": 100,
+    "comments": 35,
+    "multi": 22,
+    "blank": 38,
+    "single_comments": 33
+  },
+  "holidays/countries/namibia.py": {
+    "loc": 160,
+    "lloc": 43,
+    "sloc": 75,
+    "comments": 34,
+    "multi": 27,
+    "blank": 31,
+    "single_comments": 27
+  },
+  "holidays/countries/nauru.py": {
+    "loc": 128,
+    "lloc": 38,
+    "sloc": 65,
+    "comments": 28,
+    "multi": 16,
+    "blank": 25,
+    "single_comments": 22
+  },
+  "holidays/countries/nepal.py": {
+    "loc": 424,
+    "lloc": 117,
+    "sloc": 255,
+    "comments": 66,
+    "multi": 30,
+    "blank": 73,
+    "single_comments": 66
+  },
+  "holidays/countries/netherlands.py": {
+    "loc": 103,
+    "lloc": 36,
+    "sloc": 42,
+    "comments": 28,
+    "multi": 12,
+    "blank": 23,
+    "single_comments": 26
+  },
+  "holidays/countries/new_caledonia.py": {
+    "loc": 43,
+    "lloc": 13,
+    "sloc": 12,
+    "comments": 12,
+    "multi": 7,
+    "blank": 12,
+    "single_comments": 12
+  },
+  "holidays/countries/new_zealand.py": {
+    "loc": 352,
+    "lloc": 112,
+    "sloc": 271,
+    "comments": 92,
+    "multi": 0,
+    "blank": 37,
+    "single_comments": 44
+  },
+  "holidays/countries/nicaragua.py": {
+    "loc": 120,
+    "lloc": 35,
+    "sloc": 69,
+    "comments": 40,
+    "multi": 6,
+    "blank": 22,
+    "single_comments": 23
+  },
+  "holidays/countries/niger.py": {
+    "loc": 259,
+    "lloc": 72,
+    "sloc": 168,
+    "comments": 34,
+    "multi": 24,
+    "blank": 35,
+    "single_comments": 32
+  },
+  "holidays/countries/nigeria.py": {
+    "loc": 261,
+    "lloc": 64,
+    "sloc": 154,
+    "comments": 39,
+    "multi": 33,
+    "blank": 37,
+    "single_comments": 37
+  },
+  "holidays/countries/niue.py": {
+    "loc": 114,
+    "lloc": 40,
+    "sloc": 50,
+    "comments": 27,
+    "multi": 15,
+    "blank": 25,
+    "single_comments": 24
+  },
+  "holidays/countries/norfolk_island.py": {
+    "loc": 128,
+    "lloc": 42,
+    "sloc": 61,
+    "comments": 29,
+    "multi": 16,
+    "blank": 27,
+    "single_comments": 24
+  },
+  "holidays/countries/northern_mariana_islands.py": {
+    "loc": 41,
+    "lloc": 15,
+    "sloc": 14,
+    "comments": 12,
+    "multi": 4,
+    "blank": 11,
+    "single_comments": 12
+  },
+  "holidays/countries/north_korea.py": {
+    "loc": 160,
+    "lloc": 62,
+    "sloc": 79,
+    "comments": 37,
+    "multi": 18,
+    "blank": 32,
+    "single_comments": 31
+  },
+  "holidays/countries/north_macedonia.py": {
+    "loc": 283,
+    "lloc": 105,
+    "sloc": 159,
+    "comments": 45,
+    "multi": 34,
+    "blank": 48,
+    "single_comments": 42
+  },
+  "holidays/countries/norway.py": {
+    "loc": 152,
+    "lloc": 41,
+    "sloc": 82,
+    "comments": 46,
+    "multi": 15,
+    "blank": 26,
+    "single_comments": 29
+  },
+  "holidays/countries/oman.py": {
+    "loc": 167,
+    "lloc": 71,
+    "sloc": 98,
+    "comments": 27,
+    "multi": 15,
+    "blank": 27,
+    "single_comments": 27
+  },
+  "holidays/countries/pakistan.py": {
+    "loc": 180,
+    "lloc": 59,
+    "sloc": 112,
+    "comments": 28,
+    "multi": 13,
+    "blank": 27,
+    "single_comments": 28
+  },
+  "holidays/countries/palau.py": {
+    "loc": 127,
+    "lloc": 47,
+    "sloc": 48,
+    "comments": 28,
+    "multi": 20,
+    "blank": 31,
+    "single_comments": 28
+  },
+  "holidays/countries/palestine.py": {
+    "loc": 173,
+    "lloc": 70,
+    "sloc": 70,
+    "comments": 46,
+    "multi": 12,
+    "blank": 45,
+    "single_comments": 46
+  },
+  "holidays/countries/panama.py": {
+    "loc": 118,
+    "lloc": 50,
+    "sloc": 52,
+    "comments": 30,
+    "multi": 9,
+    "blank": 27,
+    "single_comments": 30
+  },
+  "holidays/countries/papua_new_guinea.py": {
+    "loc": 179,
+    "lloc": 46,
+    "sloc": 64,
+    "comments": 47,
+    "multi": 31,
+    "blank": 41,
+    "single_comments": 43
+  },
+  "holidays/countries/paraguay.py": {
+    "loc": 284,
+    "lloc": 60,
+    "sloc": 202,
+    "comments": 68,
+    "multi": 24,
+    "blank": 30,
+    "single_comments": 28
+  },
+  "holidays/countries/peru.py": {
+    "loc": 101,
+    "lloc": 38,
+    "sloc": 37,
+    "comments": 30,
+    "multi": 7,
+    "blank": 27,
+    "single_comments": 30
+  },
+  "holidays/countries/philippines.py": {
+    "loc": 345,
+    "lloc": 95,
+    "sloc": 225,
+    "comments": 45,
+    "multi": 33,
+    "blank": 44,
+    "single_comments": 43
+  },
+  "holidays/countries/pitcairn_islands.py": {
+    "loc": 85,
+    "lloc": 33,
+    "sloc": 32,
+    "comments": 24,
+    "multi": 8,
+    "blank": 21,
+    "single_comments": 24
+  },
+  "holidays/countries/poland.py": {
+    "loc": 135,
+    "lloc": 57,
+    "sloc": 66,
+    "comments": 33,
+    "multi": 6,
+    "blank": 33,
+    "single_comments": 30
+  },
+  "holidays/countries/portugal.py": {
+    "loc": 283,
+    "lloc": 104,
+    "sloc": 149,
+    "comments": 79,
+    "multi": 22,
+    "blank": 55,
+    "single_comments": 57
+  },
+  "holidays/countries/puerto_rico.py": {
+    "loc": 39,
+    "lloc": 13,
+    "sloc": 12,
+    "comments": 12,
+    "multi": 4,
+    "blank": 11,
+    "single_comments": 12
+  },
+  "holidays/countries/qatar.py": {
+    "loc": 132,
+    "lloc": 56,
+    "sloc": 69,
+    "comments": 22,
+    "multi": 17,
+    "blank": 25,
+    "single_comments": 21
+  },
+  "holidays/countries/reunion.py": {
+    "loc": 44,
+    "lloc": 14,
+    "sloc": 13,
+    "comments": 12,
+    "multi": 7,
+    "blank": 12,
+    "single_comments": 12
+  },
+  "holidays/countries/romania.py": {
+    "loc": 113,
+    "lloc": 46,
+    "sloc": 48,
+    "comments": 31,
+    "multi": 12,
+    "blank": 23,
+    "single_comments": 30
+  },
+  "holidays/countries/russia.py": {
+    "loc": 500,
+    "lloc": 73,
+    "sloc": 433,
+    "comments": 96,
+    "multi": 5,
+    "blank": 37,
+    "single_comments": 25
+  },
+  "holidays/countries/rwanda.py": {
+    "loc": 167,
+    "lloc": 66,
+    "sloc": 87,
+    "comments": 36,
+    "multi": 12,
+    "blank": 34,
+    "single_comments": 34
+  },
+  "holidays/countries/saint_barthelemy.py": {
+    "loc": 43,
+    "lloc": 13,
+    "sloc": 12,
+    "comments": 12,
+    "multi": 7,
+    "blank": 12,
+    "single_comments": 12
+  },
+  "holidays/countries/saint_helena_ascension_and_tristan_da_cunha.py": {
+    "loc": 196,
+    "lloc": 66,
+    "sloc": 114,
+    "comments": 36,
+    "multi": 26,
+    "blank": 31,
+    "single_comments": 25
+  },
+  "holidays/countries/saint_kitts_and_nevis.py": {
+    "loc": 183,
+    "lloc": 46,
+    "sloc": 83,
+    "comments": 42,
+    "multi": 34,
+    "blank": 34,
+    "single_comments": 32
+  },
+  "holidays/countries/saint_lucia.py": {
+    "loc": 88,
+    "lloc": 33,
+    "sloc": 32,
+    "comments": 25,
+    "multi": 8,
+    "blank": 23,
+    "single_comments": 25
+  },
+  "holidays/countries/saint_martin.py": {
+    "loc": 43,
+    "lloc": 13,
+    "sloc": 12,
+    "comments": 12,
+    "multi": 7,
+    "blank": 12,
+    "single_comments": 12
+  },
+  "holidays/countries/saint_pierre_and_miquelon.py": {
+    "loc": 43,
+    "lloc": 13,
+    "sloc": 12,
+    "comments": 12,
+    "multi": 7,
+    "blank": 12,
+    "single_comments": 12
+  },
+  "holidays/countries/saint_vincent_and_the_grenadines.py": {
+    "loc": 129,
+    "lloc": 44,
+    "sloc": 59,
+    "comments": 26,
+    "multi": 17,
+    "blank": 27,
+    "single_comments": 26
+  },
+  "holidays/countries/samoa.py": {
+    "loc": 71,
+    "lloc": 25,
+    "sloc": 24,
+    "comments": 20,
+    "multi": 7,
+    "blank": 20,
+    "single_comments": 20
+  },
+  "holidays/countries/san_marino.py": {
+    "loc": 114,
+    "lloc": 42,
+    "sloc": 50,
+    "comments": 31,
+    "multi": 7,
+    "blank": 29,
+    "single_comments": 28
+  },
+  "holidays/countries/sao_tome_and_principe.py": {
+    "loc": 111,
+    "lloc": 40,
+    "sloc": 56,
+    "comments": 35,
+    "multi": 7,
+    "blank": 22,
+    "single_comments": 26
+  },
+  "holidays/countries/saudi_arabia.py": {
+    "loc": 153,
+    "lloc": 64,
+    "sloc": 82,
+    "comments": 26,
+    "multi": 20,
+    "blank": 28,
+    "single_comments": 23
+  },
+  "holidays/countries/senegal.py": {
+    "loc": 183,
+    "lloc": 71,
+    "sloc": 92,
+    "comments": 37,
+    "multi": 19,
+    "blank": 35,
+    "single_comments": 37
+  },
+  "holidays/countries/serbia.py": {
+    "loc": 84,
+    "lloc": 36,
+    "sloc": 38,
+    "comments": 22,
+    "multi": 4,
+    "blank": 20,
+    "single_comments": 22
+  },
+  "holidays/countries/seychelles.py": {
+    "loc": 168,
+    "lloc": 46,
+    "sloc": 80,
+    "comments": 34,
+    "multi": 26,
+    "blank": 34,
+    "single_comments": 28
+  },
+  "holidays/countries/sierra_leone.py": {
+    "loc": 132,
+    "lloc": 54,
+    "sloc": 58,
+    "comments": 27,
+    "multi": 17,
+    "blank": 30,
+    "single_comments": 27
+  },
+  "holidays/countries/singapore.py": {
+    "loc": 270,
+    "lloc": 74,
+    "sloc": 167,
+    "comments": 36,
+    "multi": 28,
+    "blank": 41,
+    "single_comments": 34
+  },
+  "holidays/countries/sint_maarten.py": {
+    "loc": 117,
+    "lloc": 41,
+    "sloc": 55,
+    "comments": 31,
+    "multi": 8,
+    "blank": 25,
+    "single_comments": 29
+  },
+  "holidays/countries/slovakia.py": {
+    "loc": 137,
+    "lloc": 54,
+    "sloc": 59,
+    "comments": 39,
+    "multi": 9,
+    "blank": 33,
+    "single_comments": 36
+  },
+  "holidays/countries/slovenia.py": {
+    "loc": 139,
+    "lloc": 55,
+    "sloc": 68,
+    "comments": 36,
+    "multi": 7,
+    "blank": 33,
+    "single_comments": 31
+  },
+  "holidays/countries/solomon_islands.py": {
+    "loc": 220,
+    "lloc": 70,
+    "sloc": 117,
+    "comments": 42,
+    "multi": 37,
+    "blank": 38,
+    "single_comments": 28
+  },
+  "holidays/countries/somalia.py": {
+    "loc": 79,
+    "lloc": 27,
+    "sloc": 25,
+    "comments": 23,
+    "multi": 11,
+    "blank": 20,
+    "single_comments": 23
+  },
+  "holidays/countries/south_africa.py": {
+    "loc": 202,
+    "lloc": 77,
+    "sloc": 117,
+    "comments": 49,
+    "multi": 10,
+    "blank": 32,
+    "single_comments": 43
+  },
+  "holidays/countries/south_georgia_and_the_south_sandwich_islands.py": {
+    "loc": 159,
+    "lloc": 60,
+    "sloc": 88,
+    "comments": 29,
+    "multi": 17,
+    "blank": 27,
+    "single_comments": 27
+  },
+  "holidays/countries/south_korea.py": {
+    "loc": 622,
+    "lloc": 144,
+    "sloc": 452,
+    "comments": 173,
+    "multi": 36,
+    "blank": 65,
+    "single_comments": 69
+  },
+  "holidays/countries/south_sudan.py": {
+    "loc": 133,
+    "lloc": 45,
+    "sloc": 55,
+    "comments": 30,
+    "multi": 18,
+    "blank": 30,
+    "single_comments": 30
+  },
+  "holidays/countries/spain.py": {
+    "loc": 1004,
+    "lloc": 380,
+    "sloc": 501,
+    "comments": 243,
+    "multi": 79,
+    "blank": 215,
+    "single_comments": 209
+  },
+  "holidays/countries/sri_lanka.py": {
+    "loc": 480,
+    "lloc": 99,
+    "sloc": 308,
+    "comments": 65,
+    "multi": 53,
+    "blank": 62,
+    "single_comments": 57
+  },
+  "holidays/countries/sudan.py": {
+    "loc": 118,
+    "lloc": 58,
+    "sloc": 63,
+    "comments": 23,
+    "multi": 6,
+    "blank": 26,
+    "single_comments": 23
+  },
+  "holidays/countries/suriname.py": {
+    "loc": 217,
+    "lloc": 62,
+    "sloc": 131,
+    "comments": 34,
+    "multi": 20,
+    "blank": 35,
+    "single_comments": 31
+  },
+  "holidays/countries/svalbard_and_jan_mayen.py": {
+    "loc": 41,
+    "lloc": 13,
+    "sloc": 12,
+    "comments": 11,
+    "multi": 6,
+    "blank": 12,
+    "single_comments": 11
+  },
+  "holidays/countries/sweden.py": {
+    "loc": 234,
+    "lloc": 70,
+    "sloc": 106,
+    "comments": 50,
+    "multi": 35,
+    "blank": 52,
+    "single_comments": 41
+  },
+  "holidays/countries/switzerland.py": {
+    "loc": 831,
+    "lloc": 297,
+    "sloc": 389,
+    "comments": 247,
+    "multi": 13,
+    "blank": 216,
+    "single_comments": 213
+  },
+  "holidays/countries/syrian_arab_republic.py": {
+    "loc": 138,
+    "lloc": 59,
+    "sloc": 61,
+    "comments": 33,
+    "multi": 13,
+    "blank": 31,
+    "single_comments": 33
+  },
+  "holidays/countries/taiwan.py": {
+    "loc": 459,
+    "lloc": 139,
+    "sloc": 259,
+    "comments": 75,
+    "multi": 60,
+    "blank": 73,
+    "single_comments": 67
+  },
+  "holidays/countries/tajikistan.py": {
+    "loc": 115,
+    "lloc": 46,
+    "sloc": 51,
+    "comments": 27,
+    "multi": 13,
+    "blank": 25,
+    "single_comments": 26
+  },
+  "holidays/countries/tanzania.py": {
+    "loc": 443,
+    "lloc": 109,
+    "sloc": 264,
+    "comments": 80,
+    "multi": 69,
+    "blank": 54,
+    "single_comments": 56
+  },
+  "holidays/countries/thailand.py": {
+    "loc": 1151,
+    "lloc": 290,
+    "sloc": 566,
+    "comments": 358,
+    "multi": 128,
+    "blank": 124,
+    "single_comments": 333
+  },
+  "holidays/countries/timor_leste.py": {
+    "loc": 487,
+    "lloc": 79,
+    "sloc": 350,
+    "comments": 156,
+    "multi": 19,
+    "blank": 56,
+    "single_comments": 62
+  },
+  "holidays/countries/togo.py": {
+    "loc": 156,
+    "lloc": 53,
+    "sloc": 68,
+    "comments": 28,
+    "multi": 30,
+    "blank": 30,
+    "single_comments": 28
+  },
+  "holidays/countries/tokelau.py": {
+    "loc": 65,
+    "lloc": 26,
+    "sloc": 25,
+    "comments": 18,
+    "multi": 6,
+    "blank": 16,
+    "single_comments": 18
+  },
+  "holidays/countries/tonga.py": {
+    "loc": 234,
+    "lloc": 86,
+    "sloc": 104,
+    "comments": 46,
+    "multi": 45,
+    "blank": 43,
+    "single_comments": 42
+  },
+  "holidays/countries/trinidad_and_tobago.py": {
+    "loc": 195,
+    "lloc": 66,
+    "sloc": 107,
+    "comments": 31,
+    "multi": 21,
+    "blank": 36,
+    "single_comments": 31
+  },
+  "holidays/countries/tunisia.py": {
+    "loc": 92,
+    "lloc": 38,
+    "sloc": 36,
+    "comments": 27,
+    "multi": 6,
+    "blank": 22,
+    "single_comments": 28
+  },
+  "holidays/countries/turkey.py": {
+    "loc": 231,
+    "lloc": 65,
+    "sloc": 165,
+    "comments": 31,
+    "multi": 13,
+    "blank": 29,
+    "single_comments": 24
+  },
+  "holidays/countries/turkmenistan.py": {
+    "loc": 191,
+    "lloc": 81,
+    "sloc": 108,
+    "comments": 31,
+    "multi": 23,
+    "blank": 31,
+    "single_comments": 29
+  },
+  "holidays/countries/turks_and_caicos_islands.py": {
+    "loc": 143,
+    "lloc": 47,
+    "sloc": 80,
+    "comments": 30,
+    "multi": 18,
+    "blank": 23,
+    "single_comments": 22
+  },
+  "holidays/countries/tuvalu.py": {
+    "loc": 174,
+    "lloc": 61,
+    "sloc": 93,
+    "comments": 51,
+    "multi": 12,
+    "blank": 31,
+    "single_comments": 38
+  },
+  "holidays/countries/uganda.py": {
+    "loc": 128,
+    "lloc": 42,
+    "sloc": 50,
+    "comments": 28,
+    "multi": 21,
+    "blank": 29,
+    "single_comments": 28
+  },
+  "holidays/countries/ukraine.py": {
+    "loc": 382,
+    "lloc": 75,
+    "sloc": 260,
+    "comments": 42,
+    "multi": 54,
+    "blank": 34,
+    "single_comments": 34
+  },
+  "holidays/countries/united_arab_emirates.py": {
+    "loc": 230,
+    "lloc": 80,
+    "sloc": 124,
+    "comments": 31,
+    "multi": 38,
+    "blank": 39,
+    "single_comments": 29
+  },
+  "holidays/countries/united_kingdom.py": {
+    "loc": 219,
+    "lloc": 84,
+    "sloc": 140,
+    "comments": 45,
+    "multi": 14,
+    "blank": 39,
+    "single_comments": 26
+  },
+  "holidays/countries/united_states.py": {
+    "loc": 1774,
+    "lloc": 616,
+    "sloc": 1076,
+    "comments": 412,
+    "multi": 138,
+    "blank": 259,
+    "single_comments": 301
+  },
+  "holidays/countries/united_states_minor_outlying_islands.py": {
+    "loc": 41,
+    "lloc": 15,
+    "sloc": 14,
+    "comments": 12,
+    "multi": 4,
+    "blank": 11,
+    "single_comments": 12
+  },
+  "holidays/countries/united_states_virgin_islands.py": {
+    "loc": 41,
+    "lloc": 15,
+    "sloc": 14,
+    "comments": 12,
+    "multi": 4,
+    "blank": 11,
+    "single_comments": 12
+  },
+  "holidays/countries/uruguay.py": {
+    "loc": 180,
+    "lloc": 77,
+    "sloc": 96,
+    "comments": 38,
+    "multi": 10,
+    "blank": 38,
+    "single_comments": 36
+  },
+  "holidays/countries/uzbekistan.py": {
+    "loc": 235,
+    "lloc": 57,
+    "sloc": 155,
+    "comments": 28,
+    "multi": 24,
+    "blank": 31,
+    "single_comments": 25
+  },
+  "holidays/countries/vanuatu.py": {
+    "loc": 106,
+    "lloc": 38,
+    "sloc": 47,
+    "comments": 26,
+    "multi": 6,
+    "blank": 27,
+    "single_comments": 26
+  },
+  "holidays/countries/vatican_city.py": {
+    "loc": 198,
+    "lloc": 74,
+    "sloc": 76,
+    "comments": 62,
+    "multi": 17,
+    "blank": 44,
+    "single_comments": 61
+  },
+  "holidays/countries/venezuela.py": {
+    "loc": 201,
+    "lloc": 49,
+    "sloc": 101,
+    "comments": 43,
+    "multi": 29,
+    "blank": 32,
+    "single_comments": 39
+  },
+  "holidays/countries/vietnam.py": {
+    "loc": 199,
+    "lloc": 68,
+    "sloc": 122,
+    "comments": 32,
+    "multi": 16,
+    "blank": 34,
+    "single_comments": 27
+  },
+  "holidays/countries/wallis_and_futuna.py": {
+    "loc": 43,
+    "lloc": 13,
+    "sloc": 12,
+    "comments": 12,
+    "multi": 7,
+    "blank": 12,
+    "single_comments": 12
+  },
+  "holidays/countries/western_sahara.py": {
+    "loc": 91,
+    "lloc": 32,
+    "sloc": 30,
+    "comments": 25,
+    "multi": 15,
+    "blank": 21,
+    "single_comments": 25
+  },
+  "holidays/countries/yemen.py": {
+    "loc": 166,
+    "lloc": 76,
+    "sloc": 77,
+    "comments": 36,
+    "multi": 17,
+    "blank": 36,
+    "single_comments": 36
+  },
+  "holidays/countries/zambia.py": {
+    "loc": 180,
+    "lloc": 50,
+    "sloc": 77,
+    "comments": 41,
+    "multi": 33,
+    "blank": 35,
+    "single_comments": 35
+  },
+  "holidays/countries/zimbabwe.py": {
+    "loc": 87,
+    "lloc": 31,
+    "sloc": 37,
+    "comments": 24,
+    "multi": 5,
+    "blank": 23,
+    "single_comments": 22
+  },
+  "holidays/countries/__init__.py": {
+    "loc": 298,
+    "lloc": 250,
+    "sloc": 286,
+    "comments": 11,
+    "multi": 0,
+    "blank": 1,
+    "single_comments": 11
+  },
+  "holidays/deprecations/v1_incompatibility.py": {
+    "loc": 43,
+    "lloc": 6,
+    "sloc": 22,
+    "comments": 11,
+    "multi": 0,
+    "blank": 10,
+    "single_comments": 11
+  },
+  "holidays/financial/australian_securities_exchange.py": {
+    "loc": 203,
+    "lloc": 54,
+    "sloc": 110,
+    "comments": 35,
+    "multi": 33,
+    "blank": 38,
+    "single_comments": 22
+  },
+  "holidays/financial/bolsas_y_mercados_argentinos.py": {
+    "loc": 110,
+    "lloc": 41,
+    "sloc": 54,
+    "comments": 22,
+    "multi": 16,
+    "blank": 22,
+    "single_comments": 18
+  },
+  "holidays/financial/bolsas_y_mercados_espanoles.py": {
+    "loc": 91,
+    "lloc": 31,
+    "sloc": 36,
+    "comments": 20,
+    "multi": 18,
+    "blank": 19,
+    "single_comments": 18
+  },
+  "holidays/financial/bolsa_de_valores_de_colombia.py": {
+    "loc": 104,
+    "lloc": 29,
+    "sloc": 36,
+    "comments": 16,
+    "multi": 34,
+    "blank": 21,
+    "single_comments": 13
+  },
+  "holidays/financial/bolsa_mexicana_de_valores.py": {
+    "loc": 144,
+    "lloc": 55,
+    "sloc": 57,
+    "comments": 26,
+    "multi": 35,
+    "blank": 27,
+    "single_comments": 25
+  },
+  "holidays/financial/bombay_stock_exchange.py": {
+    "loc": 33,
+    "lloc": 10,
+    "sloc": 9,
+    "comments": 11,
+    "multi": 4,
+    "blank": 9,
+    "single_comments": 11
+  },
+  "holidays/financial/borsa_istanbul.py": {
+    "loc": 90,
+    "lloc": 27,
+    "sloc": 36,
+    "comments": 16,
+    "multi": 24,
+    "blank": 17,
+    "single_comments": 13
+  },
+  "holidays/financial/brasil_bolsa_balcao.py": {
+    "loc": 108,
+    "lloc": 39,
+    "sloc": 38,
+    "comments": 33,
+    "multi": 13,
+    "blank": 24,
+    "single_comments": 33
+  },
+  "holidays/financial/chicago_mercantile_exchange.py": {
+    "loc": 178,
+    "lloc": 49,
+    "sloc": 93,
+    "comments": 32,
+    "multi": 34,
+    "blank": 31,
+    "single_comments": 20
+  },
+  "holidays/financial/european_central_bank.py": {
+    "loc": 66,
+    "lloc": 29,
+    "sloc": 30,
+    "comments": 11,
+    "multi": 9,
+    "blank": 16,
+    "single_comments": 11
+  },
+  "holidays/financial/germany_exchange.py": {
+    "loc": 90,
+    "lloc": 35,
+    "sloc": 35,
+    "comments": 24,
+    "multi": 7,
+    "blank": 24,
+    "single_comments": 24
+  },
+  "holidays/financial/hong_kong_stock_exchange.py": {
+    "loc": 71,
+    "lloc": 29,
+    "sloc": 31,
+    "comments": 16,
+    "multi": 7,
+    "blank": 19,
+    "single_comments": 14
+  },
+  "holidays/financial/ice_futures_europe.py": {
+    "loc": 49,
+    "lloc": 19,
+    "sloc": 18,
+    "comments": 11,
+    "multi": 7,
+    "blank": 13,
+    "single_comments": 11
+  },
+  "holidays/financial/japan_exchange.py": {
+    "loc": 51,
+    "lloc": 19,
+    "sloc": 18,
+    "comments": 13,
+    "multi": 6,
+    "blank": 16,
+    "single_comments": 11
+  },
+  "holidays/financial/johannesburg_stock_exchange.py": {
+    "loc": 68,
+    "lloc": 25,
+    "sloc": 31,
+    "comments": 16,
+    "multi": 11,
+    "blank": 14,
+    "single_comments": 12
+  },
+  "holidays/financial/korea_exchange.py": {
+    "loc": 54,
+    "lloc": 23,
+    "sloc": 25,
+    "comments": 15,
+    "multi": 4,
+    "blank": 13,
+    "single_comments": 12
+  },
+  "holidays/financial/london_stock_exchange.py": {
+    "loc": 74,
+    "lloc": 26,
+    "sloc": 37,
+    "comments": 15,
+    "multi": 10,
+    "blank": 15,
+    "single_comments": 12
+  },
+  "holidays/financial/nasdaq.py": {
+    "loc": 29,
+    "lloc": 8,
+    "sloc": 7,
+    "comments": 11,
+    "multi": 4,
+    "blank": 7,
+    "single_comments": 11
+  },
+  "holidays/financial/national_stock_exchange_of_india.py": {
+    "loc": 273,
+    "lloc": 89,
+    "sloc": 146,
+    "comments": 38,
+    "multi": 39,
+    "blank": 52,
+    "single_comments": 36
+  },
+  "holidays/financial/new_zealand_exchange.py": {
+    "loc": 67,
+    "lloc": 25,
+    "sloc": 31,
+    "comments": 16,
+    "multi": 10,
+    "blank": 14,
+    "single_comments": 12
+  },
+  "holidays/financial/ny_stock_exchange.py": {
+    "loc": 905,
+    "lloc": 154,
+    "sloc": 708,
+    "comments": 179,
+    "multi": 13,
+    "blank": 88,
+    "single_comments": 96
+  },
+  "holidays/financial/shanghai_stock_exchange.py": {
+    "loc": 69,
+    "lloc": 23,
+    "sloc": 26,
+    "comments": 15,
+    "multi": 14,
+    "blank": 16,
+    "single_comments": 13
+  },
+  "holidays/financial/shenzhen_stock_exchange.py": {
+    "loc": 37,
+    "lloc": 8,
+    "sloc": 7,
+    "comments": 11,
+    "multi": 9,
+    "blank": 10,
+    "single_comments": 11
+  },
+  "holidays/financial/singapore_exchange.py": {
+    "loc": 60,
+    "lloc": 26,
+    "sloc": 27,
+    "comments": 17,
+    "multi": 4,
+    "blank": 15,
+    "single_comments": 14
+  },
+  "holidays/financial/six_swiss_exchange.py": {
+    "loc": 67,
+    "lloc": 29,
+    "sloc": 27,
+    "comments": 15,
+    "multi": 11,
+    "blank": 15,
+    "single_comments": 14
+  },
+  "holidays/financial/taiwan_stock_exchange.py": {
+    "loc": 69,
+    "lloc": 28,
+    "sloc": 30,
+    "comments": 17,
+    "multi": 13,
+    "blank": 12,
+    "single_comments": 14
+  },
+  "holidays/financial/toronto_stock_exchange.py": {
+    "loc": 141,
+    "lloc": 41,
+    "sloc": 63,
+    "comments": 24,
+    "multi": 32,
+    "blank": 26,
+    "single_comments": 20
+  },
+  "holidays/financial/warsaw_stock_exchange.py": {
+    "loc": 85,
+    "lloc": 31,
+    "sloc": 35,
+    "comments": 19,
+    "multi": 13,
+    "blank": 21,
+    "single_comments": 16
+  },
+  "holidays/financial/__init__.py": {
+    "loc": 48,
+    "lloc": 28,
+    "sloc": 36,
+    "comments": 11,
+    "multi": 0,
+    "blank": 1,
+    "single_comments": 11
+  },
+  "holidays/groups/balinese_saka.py": {
+    "loc": 44,
+    "lloc": 14,
+    "sloc": 13,
+    "comments": 11,
+    "multi": 12,
+    "blank": 8,
+    "single_comments": 11
+  },
+  "holidays/groups/buddhist.py": {
+    "loc": 62,
+    "lloc": 17,
+    "sloc": 21,
+    "comments": 11,
+    "multi": 19,
+    "blank": 11,
+    "single_comments": 11
+  },
+  "holidays/groups/burmese.py": {
+    "loc": 269,
+    "lloc": 52,
+    "sloc": 73,
+    "comments": 15,
+    "multi": 121,
+    "blank": 58,
+    "single_comments": 17
+  },
+  "holidays/groups/chinese.py": {
+    "loc": 285,
+    "lloc": 86,
+    "sloc": 104,
+    "comments": 11,
+    "multi": 123,
+    "blank": 47,
+    "single_comments": 11
+  },
+  "holidays/groups/christian.py": {
+    "loc": 528,
+    "lloc": 169,
+    "sloc": 151,
+    "comments": 11,
+    "multi": 272,
+    "blank": 94,
+    "single_comments": 11
+  },
+  "holidays/groups/custom.py": {
+    "loc": 78,
+    "lloc": 29,
+    "sloc": 34,
+    "comments": 20,
+    "multi": 14,
+    "blank": 12,
+    "single_comments": 18
+  },
+  "holidays/groups/eastern.py": {
+    "loc": 74,
+    "lloc": 14,
+    "sloc": 42,
+    "comments": 11,
+    "multi": 11,
+    "blank": 10,
+    "single_comments": 11
+  },
+  "holidays/groups/hebrew.py": {
+    "loc": 150,
+    "lloc": 35,
+    "sloc": 61,
+    "comments": 18,
+    "multi": 56,
+    "blank": 22,
+    "single_comments": 11
+  },
+  "holidays/groups/hindu.py": {
+    "loc": 1245,
+    "lloc": 285,
+    "sloc": 376,
+    "comments": 11,
+    "multi": 636,
+    "blank": 222,
+    "single_comments": 11
+  },
+  "holidays/groups/international.py": {
+    "loc": 227,
+    "lloc": 71,
+    "sloc": 57,
+    "comments": 11,
+    "multi": 118,
+    "blank": 41,
+    "single_comments": 11
+  },
+  "holidays/groups/islamic.py": {
+    "loc": 477,
+    "lloc": 129,
+    "sloc": 177,
+    "comments": 11,
+    "multi": 202,
+    "blank": 87,
+    "single_comments": 11
+  },
+  "holidays/groups/mandaean.py": {
+    "loc": 106,
+    "lloc": 49,
+    "sloc": 45,
+    "comments": 11,
+    "multi": 29,
+    "blank": 21,
+    "single_comments": 11
+  },
+  "holidays/groups/mongolian.py": {
+    "loc": 105,
+    "lloc": 26,
+    "sloc": 36,
+    "comments": 11,
+    "multi": 40,
+    "blank": 18,
+    "single_comments": 11
+  },
+  "holidays/groups/persian.py": {
+    "loc": 168,
+    "lloc": 53,
+    "sloc": 65,
+    "comments": 11,
+    "multi": 66,
+    "blank": 26,
+    "single_comments": 11
+  },
+  "holidays/groups/sinhala.py": {
+    "loc": 189,
+    "lloc": 51,
+    "sloc": 71,
+    "comments": 11,
+    "multi": 71,
+    "blank": 36,
+    "single_comments": 11
+  },
+  "holidays/groups/thai.py": {
+    "loc": 205,
+    "lloc": 47,
+    "sloc": 56,
+    "comments": 11,
+    "multi": 83,
+    "blank": 55,
+    "single_comments": 11
+  },
+  "holidays/groups/tibetan.py": {
+    "loc": 138,
+    "lloc": 47,
+    "sloc": 64,
+    "comments": 11,
+    "multi": 44,
+    "blank": 19,
+    "single_comments": 11
+  },
+  "holidays/groups/__init__.py": {
+    "loc": 29,
+    "lloc": 17,
+    "sloc": 17,
+    "comments": 11,
+    "multi": 0,
+    "blank": 1,
+    "single_comments": 11
+  },
+  "holidays/mixins/child_entity.py": {
+    "loc": 44,
+    "lloc": 19,
+    "sloc": 9,
+    "comments": 13,
+    "multi": 6,
+    "blank": 11,
+    "single_comments": 18
+  },
+  "holidays/mixins/preferred_discretionary_holidays.py": {
+    "loc": 28,
+    "lloc": 7,
+    "sloc": 8,
+    "comments": 11,
+    "multi": 3,
+    "blank": 5,
+    "single_comments": 12
+  },
+  "holidays/mixins/__init__.py": {
+    "loc": 16,
+    "lloc": 3,
+    "sloc": 2,
+    "comments": 11,
+    "multi": 0,
+    "blank": 2,
+    "single_comments": 12
+  },
+  "tests/common.py": {
+    "loc": 811,
+    "lloc": 435,
+    "sloc": 609,
+    "comments": 48,
+    "multi": 6,
+    "blank": 131,
+    "single_comments": 65
+  },
+  "tests/test_docs.py": {
+    "loc": 353,
+    "lloc": 148,
+    "sloc": 271,
+    "comments": 38,
+    "multi": 0,
+    "blank": 45,
+    "single_comments": 37
+  },
+  "tests/test_generate_ics.py": {
+    "loc": 562,
+    "lloc": 366,
+    "sloc": 447,
+    "comments": 11,
+    "multi": 0,
+    "blank": 104,
+    "single_comments": 11
+  },
+  "tests/test_helpers.py": {
+    "loc": 65,
+    "lloc": 13,
+    "sloc": 48,
+    "comments": 11,
+    "multi": 0,
+    "blank": 6,
+    "single_comments": 11
+  },
+  "tests/test_holiday_base.py": {
+    "loc": 1639,
+    "lloc": 1084,
+    "sloc": 1319,
+    "comments": 31,
+    "multi": 0,
+    "blank": 292,
+    "single_comments": 28
+  },
+  "tests/test_ical.py": {
+    "loc": 531,
+    "lloc": 296,
+    "sloc": 366,
+    "comments": 62,
+    "multi": 0,
+    "blank": 103,
+    "single_comments": 62
+  },
+  "tests/test_imports.py": {
+    "loc": 40,
+    "lloc": 14,
+    "sloc": 22,
+    "comments": 12,
+    "multi": 0,
+    "blank": 7,
+    "single_comments": 11
+  },
+  "tests/test_l10n.py": {
+    "loc": 121,
+    "lloc": 47,
+    "sloc": 85,
+    "comments": 20,
+    "multi": 0,
+    "blank": 16,
+    "single_comments": 20
+  },
+  "tests/test_observed_holiday_base.py": {
+    "loc": 56,
+    "lloc": 23,
+    "sloc": 36,
+    "comments": 11,
+    "multi": 0,
+    "blank": 9,
+    "single_comments": 11
+  },
+  "tests/test_package.py": {
+    "loc": 53,
+    "lloc": 16,
+    "sloc": 35,
+    "comments": 11,
+    "multi": 0,
+    "blank": 7,
+    "single_comments": 11
+  },
+  "tests/test_registry.py": {
+    "loc": 164,
+    "lloc": 95,
+    "sloc": 130,
+    "comments": 11,
+    "multi": 0,
+    "blank": 23,
+    "single_comments": 11
+  },
+  "tests/test_utils.py": {
+    "loc": 388,
+    "lloc": 192,
+    "sloc": 290,
+    "comments": 17,
+    "multi": 6,
+    "blank": 76,
+    "single_comments": 16
+  },
+  "tests/__init__.py": {
+    "loc": 11,
+    "lloc": 0,
+    "sloc": 0,
+    "comments": 11,
+    "multi": 0,
+    "blank": 0,
+    "single_comments": 11
+  },
+  "tests/calendars/test_burmese.py": {
+    "loc": 56,
+    "lloc": 16,
+    "sloc": 38,
+    "comments": 11,
+    "multi": 0,
+    "blank": 7,
+    "single_comments": 11
+  },
+  "tests/calendars/test_chinese.py": {
+    "loc": 174,
+    "lloc": 37,
+    "sloc": 150,
+    "comments": 11,
+    "multi": 0,
+    "blank": 13,
+    "single_comments": 11
+  },
+  "tests/calendars/test_ethiopian.py": {
+    "loc": 37,
+    "lloc": 8,
+    "sloc": 22,
+    "comments": 13,
+    "multi": 0,
+    "blank": 4,
+    "single_comments": 11
+  },
+  "tests/calendars/test_gregorian.py": {
+    "loc": 93,
+    "lloc": 45,
+    "sloc": 60,
+    "comments": 21,
+    "multi": 0,
+    "blank": 12,
+    "single_comments": 21
+  },
+  "tests/calendars/test_islamic.py": {
+    "loc": 88,
+    "lloc": 51,
+    "sloc": 61,
+    "comments": 11,
+    "multi": 0,
+    "blank": 13,
+    "single_comments": 14
+  },
+  "tests/calendars/test_julian.py": {
+    "loc": 36,
+    "lloc": 8,
+    "sloc": 21,
+    "comments": 11,
+    "multi": 0,
+    "blank": 4,
+    "single_comments": 11
+  },
+  "tests/calendars/test_persian.py": {
+    "loc": 46,
+    "lloc": 15,
+    "sloc": 29,
+    "comments": 11,
+    "multi": 0,
+    "blank": 6,
+    "single_comments": 11
+  },
+  "tests/calendars/test_thai.py": {
+    "loc": 580,
+    "lloc": 90,
+    "sloc": 543,
+    "comments": 170,
+    "multi": 0,
+    "blank": 18,
+    "single_comments": 19
+  },
+  "tests/calendars/__init__.py": {
+    "loc": 11,
+    "lloc": 0,
+    "sloc": 0,
+    "comments": 11,
+    "multi": 0,
+    "blank": 0,
+    "single_comments": 11
+  },
+  "tests/countries/test_afghanistan.py": {
+    "loc": 338,
+    "lloc": 86,
+    "sloc": 304,
+    "comments": 11,
+    "multi": 0,
+    "blank": 23,
+    "single_comments": 11
+  },
+  "tests/countries/test_aland_islands.py": {
+    "loc": 229,
+    "lloc": 25,
+    "sloc": 206,
+    "comments": 11,
+    "multi": 0,
+    "blank": 12,
+    "single_comments": 11
+  },
+  "tests/countries/test_albania.py": {
+    "loc": 382,
+    "lloc": 117,
+    "sloc": 347,
+    "comments": 13,
+    "multi": 0,
+    "blank": 24,
+    "single_comments": 11
+  },
+  "tests/countries/test_algeria.py": {
+    "loc": 363,
+    "lloc": 102,
+    "sloc": 324,
+    "comments": 27,
+    "multi": 0,
+    "blank": 28,
+    "single_comments": 11
+  },
+  "tests/countries/test_american_samoa.py": {
+    "loc": 119,
+    "lloc": 28,
+    "sloc": 99,
+    "comments": 11,
+    "multi": 0,
+    "blank": 9,
+    "single_comments": 11
+  },
+  "tests/countries/test_andorra.py": {
+    "loc": 450,
+    "lloc": 160,
+    "sloc": 402,
+    "comments": 11,
+    "multi": 0,
+    "blank": 37,
+    "single_comments": 11
+  },
+  "tests/countries/test_angola.py": {
+    "loc": 350,
+    "lloc": 140,
+    "sloc": 312,
+    "comments": 11,
+    "multi": 0,
+    "blank": 27,
+    "single_comments": 11
+  },
+  "tests/countries/test_anguilla.py": {
+    "loc": 301,
+    "lloc": 104,
+    "sloc": 266,
+    "comments": 11,
+    "multi": 0,
+    "blank": 24,
+    "single_comments": 11
+  },
+  "tests/countries/test_antarctica.py": {
+    "loc": 50,
+    "lloc": 20,
+    "sloc": 30,
+    "comments": 11,
+    "multi": 0,
+    "blank": 9,
+    "single_comments": 11
+  },
+  "tests/countries/test_antigua_and_barbuda.py": {
+    "loc": 212,
+    "lloc": 77,
+    "sloc": 182,
+    "comments": 11,
+    "multi": 0,
+    "blank": 19,
+    "single_comments": 11
+  },
+  "tests/countries/test_argentina.py": {
+    "loc": 1563,
+    "lloc": 555,
+    "sloc": 1459,
+    "comments": 14,
+    "multi": 0,
+    "blank": 90,
+    "single_comments": 14
+  },
+  "tests/countries/test_armenia.py": {
+    "loc": 671,
+    "lloc": 212,
+    "sloc": 590,
+    "comments": 11,
+    "multi": 0,
+    "blank": 70,
+    "single_comments": 11
+  },
+  "tests/countries/test_aruba.py": {
+    "loc": 268,
+    "lloc": 71,
+    "sloc": 236,
+    "comments": 11,
+    "multi": 0,
+    "blank": 21,
+    "single_comments": 11
+  },
+  "tests/countries/test_australia.py": {
+    "loc": 2275,
+    "lloc": 816,
+    "sloc": 2041,
+    "comments": 27,
+    "multi": 0,
+    "blank": 208,
+    "single_comments": 26
+  },
+  "tests/countries/test_austria.py": {
+    "loc": 366,
+    "lloc": 130,
+    "sloc": 319,
+    "comments": 14,
+    "multi": 0,
+    "blank": 33,
+    "single_comments": 14
+  },
+  "tests/countries/test_azerbaijan.py": {
+    "loc": 574,
+    "lloc": 159,
+    "sloc": 529,
+    "comments": 12,
+    "multi": 0,
+    "blank": 34,
+    "single_comments": 11
+  },
+  "tests/countries/test_bahamas.py": {
+    "loc": 221,
+    "lloc": 77,
+    "sloc": 188,
+    "comments": 13,
+    "multi": 0,
+    "blank": 22,
+    "single_comments": 11
+  },
+  "tests/countries/test_bahrain.py": {
+    "loc": 214,
+    "lloc": 49,
+    "sloc": 188,
+    "comments": 11,
+    "multi": 0,
+    "blank": 15,
+    "single_comments": 11
+  },
+  "tests/countries/test_bangladesh.py": {
+    "loc": 286,
+    "lloc": 72,
+    "sloc": 250,
+    "comments": 11,
+    "multi": 0,
+    "blank": 25,
+    "single_comments": 11
+  },
+  "tests/countries/test_barbados.py": {
+    "loc": 216,
+    "lloc": 79,
+    "sloc": 186,
+    "comments": 11,
+    "multi": 0,
+    "blank": 19,
+    "single_comments": 11
+  },
+  "tests/countries/test_belarus.py": {
+    "loc": 507,
+    "lloc": 92,
+    "sloc": 451,
+    "comments": 16,
+    "multi": 0,
+    "blank": 40,
+    "single_comments": 16
+  },
+  "tests/countries/test_belgium.py": {
+    "loc": 301,
+    "lloc": 73,
+    "sloc": 262,
+    "comments": 11,
+    "multi": 0,
+    "blank": 28,
+    "single_comments": 11
+  },
+  "tests/countries/test_belize.py": {
+    "loc": 241,
+    "lloc": 84,
+    "sloc": 207,
+    "comments": 13,
+    "multi": 0,
+    "blank": 21,
+    "single_comments": 13
+  },
+  "tests/countries/test_benin.py": {
+    "loc": 260,
+    "lloc": 106,
+    "sloc": 219,
+    "comments": 11,
+    "multi": 0,
+    "blank": 30,
+    "single_comments": 11
+  },
+  "tests/countries/test_bermuda.py": {
+    "loc": 261,
+    "lloc": 84,
+    "sloc": 227,
+    "comments": 11,
+    "multi": 0,
+    "blank": 23,
+    "single_comments": 11
+  },
+  "tests/countries/test_bhutan.py": {
+    "loc": 319,
+    "lloc": 82,
+    "sloc": 284,
+    "comments": 11,
+    "multi": 0,
+    "blank": 24,
+    "single_comments": 11
+  },
+  "tests/countries/test_bolivia.py": {
+    "loc": 320,
+    "lloc": 117,
+    "sloc": 281,
+    "comments": 11,
+    "multi": 0,
+    "blank": 28,
+    "single_comments": 11
+  },
+  "tests/countries/test_bonaire_sint_eustatius_and_saba.py": {
+    "loc": 306,
+    "lloc": 111,
+    "sloc": 263,
+    "comments": 11,
+    "multi": 0,
+    "blank": 32,
+    "single_comments": 11
+  },
+  "tests/countries/test_bosnia_and_herzegovina.py": {
+    "loc": 584,
+    "lloc": 211,
+    "sloc": 533,
+    "comments": 11,
+    "multi": 0,
+    "blank": 40,
+    "single_comments": 11
+  },
+  "tests/countries/test_botswana.py": {
+    "loc": 240,
+    "lloc": 76,
+    "sloc": 207,
+    "comments": 11,
+    "multi": 0,
+    "blank": 22,
+    "single_comments": 11
+  },
+  "tests/countries/test_bouvet_island.py": {
+    "loc": 23,
+    "lloc": 8,
+    "sloc": 8,
+    "comments": 11,
+    "multi": 0,
+    "blank": 4,
+    "single_comments": 11
+  },
+  "tests/countries/test_brazil.py": {
+    "loc": 970,
+    "lloc": 470,
+    "sloc": 887,
+    "comments": 13,
+    "multi": 0,
+    "blank": 70,
+    "single_comments": 13
+  },
+  "tests/countries/test_british_indian_ocean_territory.py": {
+    "loc": 23,
+    "lloc": 8,
+    "sloc": 8,
+    "comments": 11,
+    "multi": 0,
+    "blank": 4,
+    "single_comments": 11
+  },
+  "tests/countries/test_british_virgin_islands.py": {
+    "loc": 331,
+    "lloc": 113,
+    "sloc": 297,
+    "comments": 11,
+    "multi": 0,
+    "blank": 23,
+    "single_comments": 11
+  },
+  "tests/countries/test_brunei.py": {
+    "loc": 449,
+    "lloc": 111,
+    "sloc": 413,
+    "comments": 11,
+    "multi": 0,
+    "blank": 25,
+    "single_comments": 11
+  },
+  "tests/countries/test_bulgaria.py": {
+    "loc": 393,
+    "lloc": 113,
+    "sloc": 355,
+    "comments": 11,
+    "multi": 0,
+    "blank": 27,
+    "single_comments": 11
+  },
+  "tests/countries/test_burkina_faso.py": {
+    "loc": 224,
+    "lloc": 88,
+    "sloc": 193,
+    "comments": 11,
+    "multi": 0,
+    "blank": 20,
+    "single_comments": 11
+  },
+  "tests/countries/test_burundi.py": {
+    "loc": 304,
+    "lloc": 101,
+    "sloc": 272,
+    "comments": 11,
+    "multi": 0,
+    "blank": 21,
+    "single_comments": 11
+  },
+  "tests/countries/test_cabo_verde.py": {
+    "loc": 686,
+    "lloc": 287,
+    "sloc": 625,
+    "comments": 11,
+    "multi": 0,
+    "blank": 50,
+    "single_comments": 11
+  },
+  "tests/countries/test_cambodia.py": {
+    "loc": 418,
+    "lloc": 100,
+    "sloc": 376,
+    "comments": 14,
+    "multi": 0,
+    "blank": 31,
+    "single_comments": 11
+  },
+  "tests/countries/test_cameroon.py": {
+    "loc": 162,
+    "lloc": 70,
+    "sloc": 136,
+    "comments": 12,
+    "multi": 0,
+    "blank": 15,
+    "single_comments": 11
+  },
+  "tests/countries/test_canada.py": {
+    "loc": 1068,
+    "lloc": 420,
+    "sloc": 979,
+    "comments": 15,
+    "multi": 0,
+    "blank": 78,
+    "single_comments": 11
+  },
+  "tests/countries/test_cayman_islands.py": {
+    "loc": 245,
+    "lloc": 76,
+    "sloc": 214,
+    "comments": 11,
+    "multi": 0,
+    "blank": 20,
+    "single_comments": 11
+  },
+  "tests/countries/test_central_african_republic.py": {
+    "loc": 171,
+    "lloc": 59,
+    "sloc": 140,
+    "comments": 11,
+    "multi": 0,
+    "blank": 20,
+    "single_comments": 11
+  },
+  "tests/countries/test_chad.py": {
+    "loc": 159,
+    "lloc": 68,
+    "sloc": 130,
+    "comments": 11,
+    "multi": 0,
+    "blank": 18,
+    "single_comments": 11
+  },
+  "tests/countries/test_chile.py": {
+    "loc": 475,
+    "lloc": 131,
+    "sloc": 423,
+    "comments": 13,
+    "multi": 0,
+    "blank": 39,
+    "single_comments": 13
+  },
+  "tests/countries/test_china.py": {
+    "loc": 1491,
+    "lloc": 155,
+    "sloc": 1393,
+    "comments": 40,
+    "multi": 0,
+    "blank": 59,
+    "single_comments": 39
+  },
+  "tests/countries/test_christmas_island.py": {
+    "loc": 254,
+    "lloc": 78,
+    "sloc": 224,
+    "comments": 11,
+    "multi": 0,
+    "blank": 19,
+    "single_comments": 11
+  },
+  "tests/countries/test_cocos_islands.py": {
+    "loc": 310,
+    "lloc": 96,
+    "sloc": 278,
+    "comments": 11,
+    "multi": 0,
+    "blank": 21,
+    "single_comments": 11
+  },
+  "tests/countries/test_colombia.py": {
+    "loc": 321,
+    "lloc": 108,
+    "sloc": 285,
+    "comments": 11,
+    "multi": 0,
+    "blank": 25,
+    "single_comments": 11
+  },
+  "tests/countries/test_comoros.py": {
+    "loc": 132,
+    "lloc": 46,
+    "sloc": 104,
+    "comments": 11,
+    "multi": 0,
+    "blank": 17,
+    "single_comments": 11
+  },
+  "tests/countries/test_congo.py": {
+    "loc": 196,
+    "lloc": 49,
+    "sloc": 157,
+    "comments": 18,
+    "multi": 0,
+    "blank": 21,
+    "single_comments": 18
+  },
+  "tests/countries/test_cook_islands.py": {
+    "loc": 351,
+    "lloc": 165,
+    "sloc": 312,
+    "comments": 11,
+    "multi": 0,
+    "blank": 28,
+    "single_comments": 11
+  },
+  "tests/countries/test_costa_rica.py": {
+    "loc": 334,
+    "lloc": 107,
+    "sloc": 290,
+    "comments": 11,
+    "multi": 0,
+    "blank": 33,
+    "single_comments": 11
+  },
+  "tests/countries/test_croatia.py": {
+    "loc": 183,
+    "lloc": 66,
+    "sloc": 150,
+    "comments": 11,
+    "multi": 0,
+    "blank": 22,
+    "single_comments": 11
+  },
+  "tests/countries/test_cuba.py": {
+    "loc": 249,
+    "lloc": 66,
+    "sloc": 210,
+    "comments": 17,
+    "multi": 0,
+    "blank": 22,
+    "single_comments": 17
+  },
+  "tests/countries/test_curacao.py": {
+    "loc": 303,
+    "lloc": 83,
+    "sloc": 266,
+    "comments": 11,
+    "multi": 0,
+    "blank": 26,
+    "single_comments": 11
+  },
+  "tests/countries/test_cyprus.py": {
+    "loc": 253,
+    "lloc": 71,
+    "sloc": 216,
+    "comments": 11,
+    "multi": 0,
+    "blank": 26,
+    "single_comments": 11
+  },
+  "tests/countries/test_czechia.py": {
+    "loc": 195,
+    "lloc": 71,
+    "sloc": 162,
+    "comments": 11,
+    "multi": 0,
+    "blank": 22,
+    "single_comments": 11
+  },
+  "tests/countries/test_denmark.py": {
+    "loc": 235,
+    "lloc": 72,
+    "sloc": 201,
+    "comments": 11,
+    "multi": 0,
+    "blank": 23,
+    "single_comments": 11
+  },
+  "tests/countries/test_djibouti.py": {
+    "loc": 192,
+    "lloc": 52,
+    "sloc": 163,
+    "comments": 11,
+    "multi": 0,
+    "blank": 18,
+    "single_comments": 11
+  },
+  "tests/countries/test_dominica.py": {
+    "loc": 479,
+    "lloc": 105,
+    "sloc": 414,
+    "comments": 26,
+    "multi": 0,
+    "blank": 39,
+    "single_comments": 26
+  },
+  "tests/countries/test_dominican_republic.py": {
+    "loc": 291,
+    "lloc": 64,
+    "sloc": 254,
+    "comments": 11,
+    "multi": 0,
+    "blank": 26,
+    "single_comments": 11
+  },
+  "tests/countries/test_dr_congo.py": {
+    "loc": 239,
+    "lloc": 114,
+    "sloc": 191,
+    "comments": 11,
+    "multi": 0,
+    "blank": 37,
+    "single_comments": 11
+  },
+  "tests/countries/test_ecuador.py": {
+    "loc": 220,
+    "lloc": 69,
+    "sloc": 192,
+    "comments": 11,
+    "multi": 0,
+    "blank": 17,
+    "single_comments": 11
+  },
+  "tests/countries/test_egypt.py": {
+    "loc": 385,
+    "lloc": 117,
+    "sloc": 337,
+    "comments": 11,
+    "multi": 0,
+    "blank": 37,
+    "single_comments": 11
+  },
+  "tests/countries/test_el_salvador.py": {
+    "loc": 190,
+    "lloc": 53,
+    "sloc": 158,
+    "comments": 11,
+    "multi": 0,
+    "blank": 21,
+    "single_comments": 11
+  },
+  "tests/countries/test_equatorial_guinea.py": {
+    "loc": 235,
+    "lloc": 85,
+    "sloc": 203,
+    "comments": 11,
+    "multi": 0,
+    "blank": 21,
+    "single_comments": 11
+  },
+  "tests/countries/test_eritrea.py": {
+    "loc": 161,
+    "lloc": 55,
+    "sloc": 128,
+    "comments": 11,
+    "multi": 0,
+    "blank": 22,
+    "single_comments": 11
+  },
+  "tests/countries/test_estonia.py": {
+    "loc": 187,
+    "lloc": 67,
+    "sloc": 153,
+    "comments": 11,
+    "multi": 0,
+    "blank": 23,
+    "single_comments": 11
+  },
+  "tests/countries/test_eswatini.py": {
+    "loc": 178,
+    "lloc": 78,
+    "sloc": 142,
+    "comments": 11,
+    "multi": 0,
+    "blank": 25,
+    "single_comments": 11
+  },
+  "tests/countries/test_ethiopia.py": {
+    "loc": 248,
+    "lloc": 72,
+    "sloc": 212,
+    "comments": 11,
+    "multi": 0,
+    "blank": 25,
+    "single_comments": 11
+  },
+  "tests/countries/test_falkland_islands.py": {
+    "loc": 221,
+    "lloc": 84,
+    "sloc": 191,
+    "comments": 11,
+    "multi": 0,
+    "blank": 19,
+    "single_comments": 11
+  },
+  "tests/countries/test_faroe_islands.py": {
+    "loc": 290,
+    "lloc": 75,
+    "sloc": 252,
+    "comments": 11,
+    "multi": 0,
+    "blank": 27,
+    "single_comments": 11
+  },
+  "tests/countries/test_fiji.py": {
+    "loc": 325,
+    "lloc": 93,
+    "sloc": 271,
+    "comments": 20,
+    "multi": 0,
+    "blank": 34,
+    "single_comments": 20
+  },
+  "tests/countries/test_finland.py": {
+    "loc": 642,
+    "lloc": 175,
+    "sloc": 574,
+    "comments": 26,
+    "multi": 0,
+    "blank": 49,
+    "single_comments": 19
+  },
+  "tests/countries/test_france.py": {
+    "loc": 522,
+    "lloc": 217,
+    "sloc": 455,
+    "comments": 31,
+    "multi": 0,
+    "blank": 36,
+    "single_comments": 31
+  },
+  "tests/countries/test_french_guiana.py": {
+    "loc": 111,
+    "lloc": 21,
+    "sloc": 90,
+    "comments": 11,
+    "multi": 0,
+    "blank": 10,
+    "single_comments": 11
+  },
+  "tests/countries/test_french_polynesia.py": {
+    "loc": 145,
+    "lloc": 33,
+    "sloc": 121,
+    "comments": 11,
+    "multi": 0,
+    "blank": 13,
+    "single_comments": 11
+  },
+  "tests/countries/test_french_southern_territories.py": {
+    "loc": 101,
+    "lloc": 17,
+    "sloc": 81,
+    "comments": 11,
+    "multi": 0,
+    "blank": 9,
+    "single_comments": 11
+  },
+  "tests/countries/test_gabon.py": {
+    "loc": 225,
+    "lloc": 76,
+    "sloc": 189,
+    "comments": 11,
+    "multi": 0,
+    "blank": 25,
+    "single_comments": 11
+  },
+  "tests/countries/test_gambia.py": {
+    "loc": 288,
+    "lloc": 98,
+    "sloc": 255,
+    "comments": 11,
+    "multi": 0,
+    "blank": 22,
+    "single_comments": 11
+  },
+  "tests/countries/test_georgia.py": {
+    "loc": 206,
+    "lloc": 59,
+    "sloc": 170,
+    "comments": 11,
+    "multi": 0,
+    "blank": 25,
+    "single_comments": 11
+  },
+  "tests/countries/test_germany.py": {
+    "loc": 652,
+    "lloc": 235,
+    "sloc": 573,
+    "comments": 31,
+    "multi": 0,
+    "blank": 48,
+    "single_comments": 31
+  },
+  "tests/countries/test_ghana.py": {
+    "loc": 280,
+    "lloc": 80,
+    "sloc": 244,
+    "comments": 11,
+    "multi": 0,
+    "blank": 25,
+    "single_comments": 11
+  },
+  "tests/countries/test_gibraltar.py": {
+    "loc": 289,
+    "lloc": 94,
+    "sloc": 256,
+    "comments": 11,
+    "multi": 0,
+    "blank": 22,
+    "single_comments": 11
+  },
+  "tests/countries/test_greece.py": {
+    "loc": 204,
+    "lloc": 59,
+    "sloc": 171,
+    "comments": 11,
+    "multi": 0,
+    "blank": 22,
+    "single_comments": 11
+  },
+  "tests/countries/test_greenland.py": {
+    "loc": 240,
+    "lloc": 31,
+    "sloc": 213,
+    "comments": 11,
+    "multi": 0,
+    "blank": 16,
+    "single_comments": 11
+  },
+  "tests/countries/test_grenada.py": {
+    "loc": 269,
+    "lloc": 89,
+    "sloc": 235,
+    "comments": 12,
+    "multi": 0,
+    "blank": 22,
+    "single_comments": 12
+  },
+  "tests/countries/test_guadeloupe.py": {
+    "loc": 159,
+    "lloc": 33,
+    "sloc": 135,
+    "comments": 11,
+    "multi": 0,
+    "blank": 13,
+    "single_comments": 11
+  },
+  "tests/countries/test_guam.py": {
+    "loc": 119,
+    "lloc": 28,
+    "sloc": 97,
+    "comments": 11,
+    "multi": 0,
+    "blank": 11,
+    "single_comments": 11
+  },
+  "tests/countries/test_guatemala.py": {
+    "loc": 291,
+    "lloc": 63,
+    "sloc": 245,
+    "comments": 20,
+    "multi": 0,
+    "blank": 26,
+    "single_comments": 20
+  },
+  "tests/countries/test_guernsey.py": {
+    "loc": 375,
+    "lloc": 80,
+    "sloc": 332,
+    "comments": 26,
+    "multi": 0,
+    "blank": 23,
+    "single_comments": 20
+  },
+  "tests/countries/test_guinea.py": {
+    "loc": 224,
+    "lloc": 69,
+    "sloc": 191,
+    "comments": 12,
+    "multi": 0,
+    "blank": 21,
+    "single_comments": 12
+  },
+  "tests/countries/test_guinea_bissau.py": {
+    "loc": 131,
+    "lloc": 41,
+    "sloc": 102,
+    "comments": 11,
+    "multi": 0,
+    "blank": 18,
+    "single_comments": 11
+  },
+  "tests/countries/test_guyana.py": {
+    "loc": 310,
+    "lloc": 107,
+    "sloc": 275,
+    "comments": 11,
+    "multi": 0,
+    "blank": 24,
+    "single_comments": 11
+  },
+  "tests/countries/test_haiti.py": {
+    "loc": 351,
+    "lloc": 94,
+    "sloc": 306,
+    "comments": 11,
+    "multi": 0,
+    "blank": 34,
+    "single_comments": 11
+  },
+  "tests/countries/test_heard_island_and_mcdonald_islands.py": {
+    "loc": 23,
+    "lloc": 8,
+    "sloc": 8,
+    "comments": 11,
+    "multi": 0,
+    "blank": 4,
+    "single_comments": 11
+  },
+  "tests/countries/test_honduras.py": {
+    "loc": 215,
+    "lloc": 58,
+    "sloc": 180,
+    "comments": 13,
+    "multi": 0,
+    "blank": 22,
+    "single_comments": 13
+  },
+  "tests/countries/test_hongkong.py": {
+    "loc": 1512,
+    "lloc": 292,
+    "sloc": 1414,
+    "comments": 23,
+    "multi": 0,
+    "blank": 75,
+    "single_comments": 23
+  },
+  "tests/countries/test_hungary.py": {
+    "loc": 433,
+    "lloc": 82,
+    "sloc": 397,
+    "comments": 11,
+    "multi": 0,
+    "blank": 25,
+    "single_comments": 11
+  },
+  "tests/countries/test_iceland.py": {
+    "loc": 255,
+    "lloc": 72,
+    "sloc": 219,
+    "comments": 11,
+    "multi": 0,
+    "blank": 25,
+    "single_comments": 11
+  },
+  "tests/countries/test_india.py": {
+    "loc": 4551,
+    "lloc": 1191,
+    "sloc": 4255,
+    "comments": 59,
+    "multi": 26,
+    "blank": 212,
+    "single_comments": 58
+  },
+  "tests/countries/test_indonesia.py": {
+    "loc": 638,
+    "lloc": 134,
+    "sloc": 592,
+    "comments": 13,
+    "multi": 0,
+    "blank": 35,
+    "single_comments": 11
+  },
+  "tests/countries/test_iran.py": {
+    "loc": 517,
+    "lloc": 119,
+    "sloc": 471,
+    "comments": 11,
+    "multi": 0,
+    "blank": 35,
+    "single_comments": 11
+  },
+  "tests/countries/test_iraq.py": {
+    "loc": 468,
+    "lloc": 150,
+    "sloc": 421,
+    "comments": 11,
+    "multi": 0,
+    "blank": 36,
+    "single_comments": 11
+  },
+  "tests/countries/test_ireland.py": {
+    "loc": 190,
+    "lloc": 63,
+    "sloc": 160,
+    "comments": 11,
+    "multi": 0,
+    "blank": 19,
+    "single_comments": 11
+  },
+  "tests/countries/test_isle_of_man.py": {
+    "loc": 144,
+    "lloc": 29,
+    "sloc": 120,
+    "comments": 12,
+    "multi": 0,
+    "blank": 12,
+    "single_comments": 12
+  },
+  "tests/countries/test_israel.py": {
+    "loc": 852,
+    "lloc": 148,
+    "sloc": 804,
+    "comments": 11,
+    "multi": 0,
+    "blank": 37,
+    "single_comments": 11
+  },
+  "tests/countries/test_italy.py": {
+    "loc": 833,
+    "lloc": 168,
+    "sloc": 780,
+    "comments": 11,
+    "multi": 0,
+    "blank": 42,
+    "single_comments": 11
+  },
+  "tests/countries/test_ivory_coast.py": {
+    "loc": 273,
+    "lloc": 81,
+    "sloc": 238,
+    "comments": 11,
+    "multi": 0,
+    "blank": 24,
+    "single_comments": 11
+  },
+  "tests/countries/test_jamaica.py": {
+    "loc": 158,
+    "lloc": 60,
+    "sloc": 133,
+    "comments": 11,
+    "multi": 0,
+    "blank": 14,
+    "single_comments": 11
+  },
+  "tests/countries/test_japan.py": {
+    "loc": 655,
+    "lloc": 95,
+    "sloc": 613,
+    "comments": 13,
+    "multi": 0,
+    "blank": 29,
+    "single_comments": 13
+  },
+  "tests/countries/test_jersey.py": {
+    "loc": 486,
+    "lloc": 96,
+    "sloc": 427,
+    "comments": 31,
+    "multi": 0,
+    "blank": 32,
+    "single_comments": 27
+  },
+  "tests/countries/test_jordan.py": {
+    "loc": 204,
+    "lloc": 54,
+    "sloc": 173,
+    "comments": 19,
+    "multi": 0,
+    "blank": 20,
+    "single_comments": 11
+  },
+  "tests/countries/test_kazakhstan.py": {
+    "loc": 449,
+    "lloc": 114,
+    "sloc": 413,
+    "comments": 11,
+    "multi": 0,
+    "blank": 25,
+    "single_comments": 11
+  },
+  "tests/countries/test_kenya.py": {
+    "loc": 366,
+    "lloc": 123,
+    "sloc": 328,
+    "comments": 11,
+    "multi": 0,
+    "blank": 27,
+    "single_comments": 11
+  },
+  "tests/countries/test_kiribati.py": {
+    "loc": 256,
+    "lloc": 108,
+    "sloc": 223,
+    "comments": 11,
+    "multi": 0,
+    "blank": 22,
+    "single_comments": 11
+  },
+  "tests/countries/test_kosovo.py": {
+    "loc": 277,
+    "lloc": 75,
+    "sloc": 245,
+    "comments": 13,
+    "multi": 0,
+    "blank": 19,
+    "single_comments": 13
+  },
+  "tests/countries/test_kuwait.py": {
+    "loc": 236,
+    "lloc": 56,
+    "sloc": 204,
+    "comments": 20,
+    "multi": 0,
+    "blank": 21,
+    "single_comments": 11
+  },
+  "tests/countries/test_kyrgyzstan.py": {
+    "loc": 654,
+    "lloc": 151,
+    "sloc": 595,
+    "comments": 15,
+    "multi": 0,
+    "blank": 48,
+    "single_comments": 11
+  },
+  "tests/countries/test_laos.py": {
+    "loc": 555,
+    "lloc": 189,
+    "sloc": 491,
+    "comments": 14,
+    "multi": 0,
+    "blank": 50,
+    "single_comments": 14
+  },
+  "tests/countries/test_latvia.py": {
+    "loc": 340,
+    "lloc": 87,
+    "sloc": 299,
+    "comments": 11,
+    "multi": 0,
+    "blank": 30,
+    "single_comments": 11
+  },
+  "tests/countries/test_lebanon.py": {
+    "loc": 411,
+    "lloc": 124,
+    "sloc": 366,
+    "comments": 11,
+    "multi": 0,
+    "blank": 34,
+    "single_comments": 11
+  },
+  "tests/countries/test_lesotho.py": {
+    "loc": 116,
+    "lloc": 46,
+    "sloc": 87,
+    "comments": 11,
+    "multi": 0,
+    "blank": 18,
+    "single_comments": 11
+  },
+  "tests/countries/test_liberia.py": {
+    "loc": 120,
+    "lloc": 45,
+    "sloc": 92,
+    "comments": 11,
+    "multi": 0,
+    "blank": 17,
+    "single_comments": 11
+  },
+  "tests/countries/test_libya.py": {
+    "loc": 286,
+    "lloc": 120,
+    "sloc": 243,
+    "comments": 11,
+    "multi": 0,
+    "blank": 32,
+    "single_comments": 11
+  },
+  "tests/countries/test_liechtenstein.py": {
+    "loc": 290,
+    "lloc": 85,
+    "sloc": 248,
+    "comments": 11,
+    "multi": 0,
+    "blank": 31,
+    "single_comments": 11
+  },
+  "tests/countries/test_lithuania.py": {
+    "loc": 194,
+    "lloc": 59,
+    "sloc": 160,
+    "comments": 11,
+    "multi": 0,
+    "blank": 23,
+    "single_comments": 11
+  },
+  "tests/countries/test_luxembourg.py": {
+    "loc": 278,
+    "lloc": 72,
+    "sloc": 238,
+    "comments": 11,
+    "multi": 0,
+    "blank": 29,
+    "single_comments": 11
+  },
+  "tests/countries/test_macau.py": {
+    "loc": 1373,
+    "lloc": 398,
+    "sloc": 1135,
+    "comments": 112,
+    "multi": 0,
+    "blank": 137,
+    "single_comments": 101
+  },
+  "tests/countries/test_madagascar.py": {
+    "loc": 232,
+    "lloc": 65,
+    "sloc": 197,
+    "comments": 11,
+    "multi": 0,
+    "blank": 24,
+    "single_comments": 11
+  },
+  "tests/countries/test_malawi.py": {
+    "loc": 186,
+    "lloc": 71,
+    "sloc": 159,
+    "comments": 11,
+    "multi": 0,
+    "blank": 16,
+    "single_comments": 11
+  },
+  "tests/countries/test_malaysia.py": {
+    "loc": 1251,
+    "lloc": 483,
+    "sloc": 1170,
+    "comments": 66,
+    "multi": 0,
+    "blank": 70,
+    "single_comments": 11
+  },
+  "tests/countries/test_maldives.py": {
+    "loc": 130,
+    "lloc": 25,
+    "sloc": 106,
+    "comments": 11,
+    "multi": 0,
+    "blank": 13,
+    "single_comments": 11
+  },
+  "tests/countries/test_mali.py": {
+    "loc": 180,
+    "lloc": 62,
+    "sloc": 149,
+    "comments": 11,
+    "multi": 0,
+    "blank": 20,
+    "single_comments": 11
+  },
+  "tests/countries/test_malta.py": {
+    "loc": 145,
+    "lloc": 21,
+    "sloc": 123,
+    "comments": 11,
+    "multi": 0,
+    "blank": 11,
+    "single_comments": 11
+  },
+  "tests/countries/test_marshall_islands.py": {
+    "loc": 213,
+    "lloc": 73,
+    "sloc": 185,
+    "comments": 11,
+    "multi": 0,
+    "blank": 17,
+    "single_comments": 11
+  },
+  "tests/countries/test_martinique.py": {
+    "loc": 140,
+    "lloc": 29,
+    "sloc": 117,
+    "comments": 11,
+    "multi": 0,
+    "blank": 12,
+    "single_comments": 11
+  },
+  "tests/countries/test_mauritania.py": {
+    "loc": 82,
+    "lloc": 23,
+    "sloc": 60,
+    "comments": 11,
+    "multi": 0,
+    "blank": 11,
+    "single_comments": 11
+  },
+  "tests/countries/test_mauritius.py": {
+    "loc": 211,
+    "lloc": 67,
+    "sloc": 176,
+    "comments": 11,
+    "multi": 0,
+    "blank": 24,
+    "single_comments": 11
+  },
+  "tests/countries/test_mayotte.py": {
+    "loc": 111,
+    "lloc": 21,
+    "sloc": 90,
+    "comments": 11,
+    "multi": 0,
+    "blank": 10,
+    "single_comments": 11
+  },
+  "tests/countries/test_mexico.py": {
+    "loc": 146,
+    "lloc": 47,
+    "sloc": 120,
+    "comments": 11,
+    "multi": 0,
+    "blank": 15,
+    "single_comments": 11
+  },
+  "tests/countries/test_micronesia.py": {
+    "loc": 549,
+    "lloc": 243,
+    "sloc": 507,
+    "comments": 12,
+    "multi": 0,
+    "blank": 30,
+    "single_comments": 12
+  },
+  "tests/countries/test_moldova.py": {
+    "loc": 145,
+    "lloc": 35,
+    "sloc": 121,
+    "comments": 11,
+    "multi": 0,
+    "blank": 13,
+    "single_comments": 11
+  },
+  "tests/countries/test_monaco.py": {
+    "loc": 238,
+    "lloc": 79,
+    "sloc": 206,
+    "comments": 11,
+    "multi": 0,
+    "blank": 21,
+    "single_comments": 11
+  },
+  "tests/countries/test_mongolia.py": {
+    "loc": 479,
+    "lloc": 142,
+    "sloc": 420,
+    "comments": 21,
+    "multi": 0,
+    "blank": 38,
+    "single_comments": 21
+  },
+  "tests/countries/test_montenegro.py": {
+    "loc": 507,
+    "lloc": 124,
+    "sloc": 469,
+    "comments": 11,
+    "multi": 0,
+    "blank": 27,
+    "single_comments": 11
+  },
+  "tests/countries/test_montserrat.py": {
+    "loc": 228,
+    "lloc": 93,
+    "sloc": 196,
+    "comments": 11,
+    "multi": 0,
+    "blank": 21,
+    "single_comments": 11
+  },
+  "tests/countries/test_morocco.py": {
+    "loc": 157,
+    "lloc": 28,
+    "sloc": 133,
+    "comments": 15,
+    "multi": 0,
+    "blank": 13,
+    "single_comments": 11
+  },
+  "tests/countries/test_mozambique.py": {
+    "loc": 165,
+    "lloc": 68,
+    "sloc": 138,
+    "comments": 11,
+    "multi": 0,
+    "blank": 16,
+    "single_comments": 11
+  },
+  "tests/countries/test_myanmar.py": {
+    "loc": 428,
+    "lloc": 96,
+    "sloc": 386,
+    "comments": 11,
+    "multi": 0,
+    "blank": 31,
+    "single_comments": 11
+  },
+  "tests/countries/test_namibia.py": {
+    "loc": 282,
+    "lloc": 91,
+    "sloc": 248,
+    "comments": 11,
+    "multi": 0,
+    "blank": 23,
+    "single_comments": 11
+  },
+  "tests/countries/test_nauru.py": {
+    "loc": 283,
+    "lloc": 101,
+    "sloc": 251,
+    "comments": 11,
+    "multi": 0,
+    "blank": 21,
+    "single_comments": 11
+  },
+  "tests/countries/test_nepal.py": {
+    "loc": 689,
+    "lloc": 221,
+    "sloc": 633,
+    "comments": 11,
+    "multi": 0,
+    "blank": 45,
+    "single_comments": 11
+  },
+  "tests/countries/test_netherlands.py": {
+    "loc": 262,
+    "lloc": 69,
+    "sloc": 226,
+    "comments": 13,
+    "multi": 0,
+    "blank": 23,
+    "single_comments": 13
+  },
+  "tests/countries/test_new_caledonia.py": {
+    "loc": 117,
+    "lloc": 24,
+    "sloc": 95,
+    "comments": 11,
+    "multi": 0,
+    "blank": 11,
+    "single_comments": 11
+  },
+  "tests/countries/test_new_zealand.py": {
+    "loc": 479,
+    "lloc": 166,
+    "sloc": 430,
+    "comments": 12,
+    "multi": 0,
+    "blank": 37,
+    "single_comments": 12
+  },
+  "tests/countries/test_nicaragua.py": {
+    "loc": 167,
+    "lloc": 48,
+    "sloc": 137,
+    "comments": 11,
+    "multi": 0,
+    "blank": 19,
+    "single_comments": 11
+  },
+  "tests/countries/test_niger.py": {
+    "loc": 348,
+    "lloc": 143,
+    "sloc": 313,
+    "comments": 11,
+    "multi": 0,
+    "blank": 24,
+    "single_comments": 11
+  },
+  "tests/countries/test_nigeria.py": {
+    "loc": 253,
+    "lloc": 92,
+    "sloc": 223,
+    "comments": 11,
+    "multi": 0,
+    "blank": 19,
+    "single_comments": 11
+  },
+  "tests/countries/test_niue.py": {
+    "loc": 226,
+    "lloc": 85,
+    "sloc": 195,
+    "comments": 11,
+    "multi": 0,
+    "blank": 20,
+    "single_comments": 11
+  },
+  "tests/countries/test_norfolk_island.py": {
+    "loc": 208,
+    "lloc": 76,
+    "sloc": 177,
+    "comments": 11,
+    "multi": 0,
+    "blank": 20,
+    "single_comments": 11
+  },
+  "tests/countries/test_northern_mariana_islands.py": {
+    "loc": 159,
+    "lloc": 41,
+    "sloc": 136,
+    "comments": 11,
+    "multi": 0,
+    "blank": 12,
+    "single_comments": 11
+  },
+  "tests/countries/test_north_korea.py": {
+    "loc": 258,
+    "lloc": 99,
+    "sloc": 216,
+    "comments": 11,
+    "multi": 0,
+    "blank": 31,
+    "single_comments": 11
+  },
+  "tests/countries/test_north_macedonia.py": {
+    "loc": 482,
+    "lloc": 177,
+    "sloc": 432,
+    "comments": 11,
+    "multi": 0,
+    "blank": 39,
+    "single_comments": 11
+  },
+  "tests/countries/test_norway.py": {
+    "loc": 248,
+    "lloc": 70,
+    "sloc": 208,
+    "comments": 15,
+    "multi": 0,
+    "blank": 26,
+    "single_comments": 14
+  },
+  "tests/countries/test_oman.py": {
+    "loc": 269,
+    "lloc": 64,
+    "sloc": 239,
+    "comments": 19,
+    "multi": 0,
+    "blank": 19,
+    "single_comments": 11
+  },
+  "tests/countries/test_pakistan.py": {
+    "loc": 279,
+    "lloc": 63,
+    "sloc": 246,
+    "comments": 11,
+    "multi": 0,
+    "blank": 22,
+    "single_comments": 11
+  },
+  "tests/countries/test_palau.py": {
+    "loc": 235,
+    "lloc": 85,
+    "sloc": 201,
+    "comments": 14,
+    "multi": 0,
+    "blank": 20,
+    "single_comments": 14
+  },
+  "tests/countries/test_palestine.py": {
+    "loc": 460,
+    "lloc": 139,
+    "sloc": 413,
+    "comments": 11,
+    "multi": 0,
+    "blank": 36,
+    "single_comments": 11
+  },
+  "tests/countries/test_panama.py": {
+    "loc": 310,
+    "lloc": 105,
+    "sloc": 274,
+    "comments": 11,
+    "multi": 0,
+    "blank": 25,
+    "single_comments": 11
+  },
+  "tests/countries/test_papua_new_guinea.py": {
+    "loc": 180,
+    "lloc": 26,
+    "sloc": 144,
+    "comments": 24,
+    "multi": 0,
+    "blank": 12,
+    "single_comments": 24
+  },
+  "tests/countries/test_paraguay.py": {
+    "loc": 272,
+    "lloc": 55,
+    "sloc": 239,
+    "comments": 11,
+    "multi": 0,
+    "blank": 22,
+    "single_comments": 11
+  },
+  "tests/countries/test_peru.py": {
+    "loc": 129,
+    "lloc": 25,
+    "sloc": 107,
+    "comments": 11,
+    "multi": 0,
+    "blank": 11,
+    "single_comments": 11
+  },
+  "tests/countries/test_philippines.py": {
+    "loc": 617,
+    "lloc": 116,
+    "sloc": 564,
+    "comments": 14,
+    "multi": 0,
+    "blank": 40,
+    "single_comments": 13
+  },
+  "tests/countries/test_pitcairn_islands.py": {
+    "loc": 129,
+    "lloc": 51,
+    "sloc": 98,
+    "comments": 13,
+    "multi": 0,
+    "blank": 18,
+    "single_comments": 13
+  },
+  "tests/countries/test_poland.py": {
+    "loc": 384,
+    "lloc": 101,
+    "sloc": 341,
+    "comments": 17,
+    "multi": 0,
+    "blank": 30,
+    "single_comments": 13
+  },
+  "tests/countries/test_portugal.py": {
+    "loc": 359,
+    "lloc": 124,
+    "sloc": 319,
+    "comments": 15,
+    "multi": 0,
+    "blank": 25,
+    "single_comments": 15
+  },
+  "tests/countries/test_puerto_rico.py": {
+    "loc": 318,
+    "lloc": 121,
+    "sloc": 286,
+    "comments": 11,
+    "multi": 0,
+    "blank": 21,
+    "single_comments": 11
+  },
+  "tests/countries/test_qatar.py": {
+    "loc": 210,
+    "lloc": 51,
+    "sloc": 181,
+    "comments": 20,
+    "multi": 0,
+    "blank": 18,
+    "single_comments": 11
+  },
+  "tests/countries/test_reunion.py": {
+    "loc": 111,
+    "lloc": 21,
+    "sloc": 90,
+    "comments": 11,
+    "multi": 0,
+    "blank": 10,
+    "single_comments": 11
+  },
+  "tests/countries/test_romania.py": {
+    "loc": 255,
+    "lloc": 65,
+    "sloc": 218,
+    "comments": 14,
+    "multi": 0,
+    "blank": 23,
+    "single_comments": 14
+  },
+  "tests/countries/test_russia.py": {
+    "loc": 453,
+    "lloc": 87,
+    "sloc": 422,
+    "comments": 12,
+    "multi": 0,
+    "blank": 20,
+    "single_comments": 11
+  },
+  "tests/countries/test_rwanda.py": {
+    "loc": 252,
+    "lloc": 94,
+    "sloc": 218,
+    "comments": 11,
+    "multi": 0,
+    "blank": 23,
+    "single_comments": 11
+  },
+  "tests/countries/test_saint_barthelemy.py": {
+    "loc": 111,
+    "lloc": 21,
+    "sloc": 90,
+    "comments": 11,
+    "multi": 0,
+    "blank": 10,
+    "single_comments": 11
+  },
+  "tests/countries/test_saint_helena_ascension_and_tristan_da_cunha.py": {
+    "loc": 253,
+    "lloc": 100,
+    "sloc": 222,
+    "comments": 11,
+    "multi": 0,
+    "blank": 20,
+    "single_comments": 11
+  },
+  "tests/countries/test_saint_kitts_and_nevis.py": {
+    "loc": 322,
+    "lloc": 93,
+    "sloc": 281,
+    "comments": 17,
+    "multi": 0,
+    "blank": 25,
+    "single_comments": 16
+  },
+  "tests/countries/test_saint_lucia.py": {
+    "loc": 201,
+    "lloc": 62,
+    "sloc": 173,
+    "comments": 11,
+    "multi": 0,
+    "blank": 17,
+    "single_comments": 11
+  },
+  "tests/countries/test_saint_martin.py": {
+    "loc": 121,
+    "lloc": 25,
+    "sloc": 99,
+    "comments": 11,
+    "multi": 0,
+    "blank": 11,
+    "single_comments": 11
+  },
+  "tests/countries/test_saint_pierre_and_miquelon.py": {
+    "loc": 101,
+    "lloc": 17,
+    "sloc": 81,
+    "comments": 11,
+    "multi": 0,
+    "blank": 9,
+    "single_comments": 11
+  },
+  "tests/countries/test_saint_vincent_and_the_grenadines.py": {
+    "loc": 229,
+    "lloc": 82,
+    "sloc": 197,
+    "comments": 11,
+    "multi": 0,
+    "blank": 21,
+    "single_comments": 11
+  },
+  "tests/countries/test_samoa.py": {
+    "loc": 71,
+    "lloc": 21,
+    "sloc": 49,
+    "comments": 11,
+    "multi": 0,
+    "blank": 11,
+    "single_comments": 11
+  },
+  "tests/countries/test_san_marino.py": {
+    "loc": 246,
+    "lloc": 65,
+    "sloc": 207,
+    "comments": 11,
+    "multi": 0,
+    "blank": 28,
+    "single_comments": 11
+  },
+  "tests/countries/test_sao_tome_and_principe.py": {
+    "loc": 158,
+    "lloc": 90,
+    "sloc": 129,
+    "comments": 11,
+    "multi": 0,
+    "blank": 18,
+    "single_comments": 11
+  },
+  "tests/countries/test_saudi_arabia.py": {
+    "loc": 276,
+    "lloc": 57,
+    "sloc": 244,
+    "comments": 25,
+    "multi": 0,
+    "blank": 21,
+    "single_comments": 11
+  },
+  "tests/countries/test_senegal.py": {
+    "loc": 207,
+    "lloc": 79,
+    "sloc": 174,
+    "comments": 11,
+    "multi": 0,
+    "blank": 22,
+    "single_comments": 11
+  },
+  "tests/countries/test_serbia.py": {
+    "loc": 169,
+    "lloc": 53,
+    "sloc": 143,
+    "comments": 11,
+    "multi": 0,
+    "blank": 15,
+    "single_comments": 11
+  },
+  "tests/countries/test_seychelles.py": {
+    "loc": 175,
+    "lloc": 23,
+    "sloc": 145,
+    "comments": 18,
+    "multi": 0,
+    "blank": 12,
+    "single_comments": 18
+  },
+  "tests/countries/test_sierra_leone.py": {
+    "loc": 269,
+    "lloc": 88,
+    "sloc": 239,
+    "comments": 11,
+    "multi": 0,
+    "blank": 19,
+    "single_comments": 11
+  },
+  "tests/countries/test_singapore.py": {
+    "loc": 471,
+    "lloc": 111,
+    "sloc": 429,
+    "comments": 11,
+    "multi": 0,
+    "blank": 31,
+    "single_comments": 11
+  },
+  "tests/countries/test_sint_maarten.py": {
+    "loc": 246,
+    "lloc": 72,
+    "sloc": 214,
+    "comments": 11,
+    "multi": 0,
+    "blank": 21,
+    "single_comments": 11
+  },
+  "tests/countries/test_slovakia.py": {
+    "loc": 253,
+    "lloc": 78,
+    "sloc": 210,
+    "comments": 15,
+    "multi": 0,
+    "blank": 28,
+    "single_comments": 15
+  },
+  "tests/countries/test_slovenia.py": {
+    "loc": 263,
+    "lloc": 93,
+    "sloc": 223,
+    "comments": 12,
+    "multi": 0,
+    "blank": 29,
+    "single_comments": 11
+  },
+  "tests/countries/test_solomon_islands.py": {
+    "loc": 299,
+    "lloc": 109,
+    "sloc": 257,
+    "comments": 12,
+    "multi": 0,
+    "blank": 30,
+    "single_comments": 12
+  },
+  "tests/countries/test_somalia.py": {
+    "loc": 135,
+    "lloc": 43,
+    "sloc": 109,
+    "comments": 11,
+    "multi": 0,
+    "blank": 15,
+    "single_comments": 11
+  },
+  "tests/countries/test_south_africa.py": {
+    "loc": 333,
+    "lloc": 143,
+    "sloc": 296,
+    "comments": 25,
+    "multi": 0,
+    "blank": 26,
+    "single_comments": 11
+  },
+  "tests/countries/test_south_georgia_and_the_south_sandwich_islands.py": {
+    "loc": 225,
+    "lloc": 90,
+    "sloc": 195,
+    "comments": 11,
+    "multi": 0,
+    "blank": 19,
+    "single_comments": 11
+  },
+  "tests/countries/test_south_korea.py": {
+    "loc": 635,
+    "lloc": 177,
+    "sloc": 581,
+    "comments": 34,
+    "multi": 0,
+    "blank": 41,
+    "single_comments": 13
+  },
+  "tests/countries/test_south_sudan.py": {
+    "loc": 181,
+    "lloc": 61,
+    "sloc": 148,
+    "comments": 11,
+    "multi": 0,
+    "blank": 22,
+    "single_comments": 11
+  },
+  "tests/countries/test_spain.py": {
+    "loc": 1499,
+    "lloc": 144,
+    "sloc": 1439,
+    "comments": 13,
+    "multi": 0,
+    "blank": 49,
+    "single_comments": 11
+  },
+  "tests/countries/test_sri_lanka.py": {
+    "loc": 543,
+    "lloc": 104,
+    "sloc": 487,
+    "comments": 34,
+    "multi": 0,
+    "blank": 33,
+    "single_comments": 23
+  },
+  "tests/countries/test_sudan.py": {
+    "loc": 183,
+    "lloc": 50,
+    "sloc": 156,
+    "comments": 21,
+    "multi": 0,
+    "blank": 16,
+    "single_comments": 11
+  },
+  "tests/countries/test_suriname.py": {
+    "loc": 230,
+    "lloc": 84,
+    "sloc": 195,
+    "comments": 11,
+    "multi": 0,
+    "blank": 24,
+    "single_comments": 11
+  },
+  "tests/countries/test_svalbard_and_jan_mayen.py": {
+    "loc": 89,
+    "lloc": 15,
+    "sloc": 70,
+    "comments": 11,
+    "multi": 0,
+    "blank": 8,
+    "single_comments": 11
+  },
+  "tests/countries/test_sweden.py": {
+    "loc": 737,
+    "lloc": 172,
+    "sloc": 681,
+    "comments": 16,
+    "multi": 0,
+    "blank": 43,
+    "single_comments": 13
+  },
+  "tests/countries/test_switzerland.py": {
+    "loc": 1042,
+    "lloc": 378,
+    "sloc": 958,
+    "comments": 33,
+    "multi": 0,
+    "blank": 55,
+    "single_comments": 29
+  },
+  "tests/countries/test_syrian_arab_republic.py": {
+    "loc": 220,
+    "lloc": 63,
+    "sloc": 187,
+    "comments": 11,
+    "multi": 0,
+    "blank": 22,
+    "single_comments": 11
+  },
+  "tests/countries/test_taiwan.py": {
+    "loc": 1288,
+    "lloc": 296,
+    "sloc": 1206,
+    "comments": 36,
+    "multi": 0,
+    "blank": 71,
+    "single_comments": 11
+  },
+  "tests/countries/test_tajikistan.py": {
+    "loc": 141,
+    "lloc": 51,
+    "sloc": 113,
+    "comments": 11,
+    "multi": 0,
+    "blank": 17,
+    "single_comments": 11
+  },
+  "tests/countries/test_tanzania.py": {
+    "loc": 410,
+    "lloc": 134,
+    "sloc": 371,
+    "comments": 11,
+    "multi": 0,
+    "blank": 28,
+    "single_comments": 11
+  },
+  "tests/countries/test_thailand.py": {
+    "loc": 1113,
+    "lloc": 329,
+    "sloc": 976,
+    "comments": 127,
+    "multi": 0,
+    "blank": 109,
+    "single_comments": 28
+  },
+  "tests/countries/test_timor_leste.py": {
+    "loc": 941,
+    "lloc": 132,
+    "sloc": 865,
+    "comments": 25,
+    "multi": 0,
+    "blank": 51,
+    "single_comments": 25
+  },
+  "tests/countries/test_togo.py": {
+    "loc": 215,
+    "lloc": 66,
+    "sloc": 179,
+    "comments": 11,
+    "multi": 0,
+    "blank": 25,
+    "single_comments": 11
+  },
+  "tests/countries/test_tokelau.py": {
+    "loc": 92,
+    "lloc": 29,
+    "sloc": 68,
+    "comments": 11,
+    "multi": 0,
+    "blank": 13,
+    "single_comments": 11
+  },
+  "tests/countries/test_tonga.py": {
+    "loc": 422,
+    "lloc": 103,
+    "sloc": 378,
+    "comments": 26,
+    "multi": 0,
+    "blank": 32,
+    "single_comments": 12
+  },
+  "tests/countries/test_trinidad_and_tobago.py": {
+    "loc": 357,
+    "lloc": 121,
+    "sloc": 321,
+    "comments": 11,
+    "multi": 0,
+    "blank": 25,
+    "single_comments": 11
+  },
+  "tests/countries/test_tunisia.py": {
+    "loc": 108,
+    "lloc": 15,
+    "sloc": 89,
+    "comments": 15,
+    "multi": 0,
+    "blank": 8,
+    "single_comments": 11
+  },
+  "tests/countries/test_turkey.py": {
+    "loc": 222,
+    "lloc": 77,
+    "sloc": 191,
+    "comments": 11,
+    "multi": 0,
+    "blank": 20,
+    "single_comments": 11
+  },
+  "tests/countries/test_turkmenistan.py": {
+    "loc": 260,
+    "lloc": 107,
+    "sloc": 227,
+    "comments": 11,
+    "multi": 0,
+    "blank": 22,
+    "single_comments": 11
+  },
+  "tests/countries/test_turks_and_caicos_islands.py": {
+    "loc": 293,
+    "lloc": 90,
+    "sloc": 256,
+    "comments": 11,
+    "multi": 0,
+    "blank": 26,
+    "single_comments": 11
+  },
+  "tests/countries/test_tuvalu.py": {
+    "loc": 399,
+    "lloc": 149,
+    "sloc": 357,
+    "comments": 11,
+    "multi": 0,
+    "blank": 31,
+    "single_comments": 11
+  },
+  "tests/countries/test_uganda.py": {
+    "loc": 142,
+    "lloc": 55,
+    "sloc": 111,
+    "comments": 11,
+    "multi": 0,
+    "blank": 20,
+    "single_comments": 11
+  },
+  "tests/countries/test_ukraine.py": {
+    "loc": 785,
+    "lloc": 153,
+    "sloc": 725,
+    "comments": 17,
+    "multi": 0,
+    "blank": 44,
+    "single_comments": 16
+  },
+  "tests/countries/test_united_arab_emirates.py": {
+    "loc": 243,
+    "lloc": 59,
+    "sloc": 209,
+    "comments": 24,
+    "multi": 0,
+    "blank": 20,
+    "single_comments": 14
+  },
+  "tests/countries/test_united_kingdom.py": {
+    "loc": 463,
+    "lloc": 173,
+    "sloc": 406,
+    "comments": 12,
+    "multi": 0,
+    "blank": 45,
+    "single_comments": 12
+  },
+  "tests/countries/test_united_states.py": {
+    "loc": 2497,
+    "lloc": 891,
+    "sloc": 2323,
+    "comments": 36,
+    "multi": 0,
+    "blank": 143,
+    "single_comments": 31
+  },
+  "tests/countries/test_united_states_minor_outlying_islands.py": {
+    "loc": 88,
+    "lloc": 13,
+    "sloc": 70,
+    "comments": 11,
+    "multi": 0,
+    "blank": 7,
+    "single_comments": 11
+  },
+  "tests/countries/test_united_states_virgin_islands.py": {
+    "loc": 169,
+    "lloc": 43,
+    "sloc": 142,
+    "comments": 11,
+    "multi": 0,
+    "blank": 16,
+    "single_comments": 11
+  },
+  "tests/countries/test_uruguay.py": {
+    "loc": 357,
+    "lloc": 111,
+    "sloc": 315,
+    "comments": 11,
+    "multi": 0,
+    "blank": 31,
+    "single_comments": 11
+  },
+  "tests/countries/test_uzbekistan.py": {
+    "loc": 318,
+    "lloc": 60,
+    "sloc": 284,
+    "comments": 11,
+    "multi": 0,
+    "blank": 23,
+    "single_comments": 11
+  },
+  "tests/countries/test_vanuatu.py": {
+    "loc": 218,
+    "lloc": 87,
+    "sloc": 187,
+    "comments": 11,
+    "multi": 0,
+    "blank": 20,
+    "single_comments": 11
+  },
+  "tests/countries/test_vatican_city.py": {
+    "loc": 530,
+    "lloc": 112,
+    "sloc": 478,
+    "comments": 16,
+    "multi": 0,
+    "blank": 36,
+    "single_comments": 16
+  },
+  "tests/countries/test_venezuela.py": {
+    "loc": 229,
+    "lloc": 70,
+    "sloc": 194,
+    "comments": 11,
+    "multi": 0,
+    "blank": 24,
+    "single_comments": 11
+  },
+  "tests/countries/test_vietnam.py": {
+    "loc": 294,
+    "lloc": 76,
+    "sloc": 265,
+    "comments": 11,
+    "multi": 0,
+    "blank": 18,
+    "single_comments": 11
+  },
+  "tests/countries/test_wallis_and_futuna.py": {
+    "loc": 129,
+    "lloc": 23,
+    "sloc": 106,
+    "comments": 11,
+    "multi": 0,
+    "blank": 12,
+    "single_comments": 11
+  },
+  "tests/countries/test_western_sahara.py": {
+    "loc": 178,
+    "lloc": 51,
+    "sloc": 148,
+    "comments": 11,
+    "multi": 0,
+    "blank": 19,
+    "single_comments": 11
+  },
+  "tests/countries/test_yemen.py": {
+    "loc": 312,
+    "lloc": 99,
+    "sloc": 279,
+    "comments": 19,
+    "multi": 0,
+    "blank": 22,
+    "single_comments": 11
+  },
+  "tests/countries/test_zambia.py": {
+    "loc": 285,
+    "lloc": 102,
+    "sloc": 251,
+    "comments": 11,
+    "multi": 0,
+    "blank": 23,
+    "single_comments": 11
+  },
+  "tests/countries/test_zimbabwe.py": {
+    "loc": 201,
+    "lloc": 78,
+    "sloc": 172,
+    "comments": 12,
+    "multi": 0,
+    "blank": 18,
+    "single_comments": 11
+  },
+  "tests/countries/__init__.py": {
+    "loc": 11,
+    "lloc": 0,
+    "sloc": 0,
+    "comments": 11,
+    "multi": 0,
+    "blank": 0,
+    "single_comments": 11
+  },
+  "tests/financial/test_australian_securities_exchange.py": {
+    "loc": 375,
+    "lloc": 120,
+    "sloc": 340,
+    "comments": 11,
+    "multi": 0,
+    "blank": 24,
+    "single_comments": 11
+  },
+  "tests/financial/test_bolsas_y_mercados_argentinos.py": {
+    "loc": 113,
+    "lloc": 18,
+    "sloc": 93,
+    "comments": 11,
+    "multi": 0,
+    "blank": 9,
+    "single_comments": 11
+  },
+  "tests/financial/test_bolsas_y_mercados_espanoles.py": {
+    "loc": 204,
+    "lloc": 55,
+    "sloc": 177,
+    "comments": 11,
+    "multi": 0,
+    "blank": 16,
+    "single_comments": 11
+  },
+  "tests/financial/test_bolsa_de_valores_de_colombia.py": {
+    "loc": 131,
+    "lloc": 26,
+    "sloc": 110,
+    "comments": 11,
+    "multi": 0,
+    "blank": 10,
+    "single_comments": 11
+  },
+  "tests/financial/test_bolsa_mexicana_de_valores.py": {
+    "loc": 263,
+    "lloc": 73,
+    "sloc": 231,
+    "comments": 11,
+    "multi": 0,
+    "blank": 21,
+    "single_comments": 11
+  },
+  "tests/financial/test_bombay_stock_exchange.py": {
+    "loc": 121,
+    "lloc": 17,
+    "sloc": 101,
+    "comments": 11,
+    "multi": 0,
+    "blank": 9,
+    "single_comments": 11
+  },
+  "tests/financial/test_borsa_istanbul.py": {
+    "loc": 97,
+    "lloc": 20,
+    "sloc": 76,
+    "comments": 11,
+    "multi": 0,
+    "blank": 10,
+    "single_comments": 11
+  },
+  "tests/financial/test_brasil_bolsa_balcao.py": {
+    "loc": 187,
+    "lloc": 65,
+    "sloc": 155,
+    "comments": 11,
+    "multi": 0,
+    "blank": 21,
+    "single_comments": 11
+  },
+  "tests/financial/test_chicago_mercantile_exchange.py": {
+    "loc": 421,
+    "lloc": 123,
+    "sloc": 383,
+    "comments": 11,
+    "multi": 0,
+    "blank": 27,
+    "single_comments": 11
+  },
+  "tests/financial/test_european_central_bank.py": {
+    "loc": 97,
+    "lloc": 35,
+    "sloc": 73,
+    "comments": 11,
+    "multi": 0,
+    "blank": 13,
+    "single_comments": 11
+  },
+  "tests/financial/test_germany_exchange.py": {
+    "loc": 150,
+    "lloc": 45,
+    "sloc": 120,
+    "comments": 11,
+    "multi": 0,
+    "blank": 19,
+    "single_comments": 11
+  },
+  "tests/financial/test_hong_kong_stock_exchange.py": {
+    "loc": 168,
+    "lloc": 24,
+    "sloc": 145,
+    "comments": 11,
+    "multi": 0,
+    "blank": 12,
+    "single_comments": 11
+  },
+  "tests/financial/test_ice_futures_europe.py": {
+    "loc": 52,
+    "lloc": 15,
+    "sloc": 33,
+    "comments": 11,
+    "multi": 0,
+    "blank": 8,
+    "single_comments": 11
+  },
+  "tests/financial/test_japan_exchange.py": {
+    "loc": 112,
+    "lloc": 16,
+    "sloc": 93,
+    "comments": 11,
+    "multi": 0,
+    "blank": 8,
+    "single_comments": 11
+  },
+  "tests/financial/test_johannesburg_stock_exchange.py": {
+    "loc": 89,
+    "lloc": 26,
+    "sloc": 69,
+    "comments": 11,
+    "multi": 0,
+    "blank": 9,
+    "single_comments": 11
+  },
+  "tests/financial/test_korea_exchange.py": {
+    "loc": 148,
+    "lloc": 30,
+    "sloc": 126,
+    "comments": 11,
+    "multi": 0,
+    "blank": 11,
+    "single_comments": 11
+  },
+  "tests/financial/test_london_stock_exchange.py": {
+    "loc": 138,
+    "lloc": 32,
+    "sloc": 114,
+    "comments": 11,
+    "multi": 0,
+    "blank": 13,
+    "single_comments": 11
+  },
+  "tests/financial/test_nasdaq.py": {
+    "loc": 99,
+    "lloc": 17,
+    "sloc": 79,
+    "comments": 11,
+    "multi": 0,
+    "blank": 9,
+    "single_comments": 11
+  },
+  "tests/financial/test_national_stock_exchange_of_india.py": {
+    "loc": 551,
+    "lloc": 130,
+    "sloc": 506,
+    "comments": 11,
+    "multi": 0,
+    "blank": 34,
+    "single_comments": 11
+  },
+  "tests/financial/test_new_zealand_exchange.py": {
+    "loc": 93,
+    "lloc": 34,
+    "sloc": 73,
+    "comments": 11,
+    "multi": 0,
+    "blank": 9,
+    "single_comments": 11
+  },
+  "tests/financial/test_ny_stock_exchange.py": {
+    "loc": 858,
+    "lloc": 193,
+    "sloc": 808,
+    "comments": 299,
+    "multi": 0,
+    "blank": 38,
+    "single_comments": 12
+  },
+  "tests/financial/test_shanghai_stock_exchange.py": {
+    "loc": 146,
+    "lloc": 24,
+    "sloc": 124,
+    "comments": 11,
+    "multi": 0,
+    "blank": 11,
+    "single_comments": 11
+  },
+  "tests/financial/test_shenzhen_stock_exchange.py": {
+    "loc": 133,
+    "lloc": 18,
+    "sloc": 113,
+    "comments": 11,
+    "multi": 0,
+    "blank": 9,
+    "single_comments": 11
+  },
+  "tests/financial/test_singapore_exchange.py": {
+    "loc": 137,
+    "lloc": 38,
+    "sloc": 113,
+    "comments": 11,
+    "multi": 0,
+    "blank": 13,
+    "single_comments": 11
+  },
+  "tests/financial/test_six_swiss_exchange.py": {
+    "loc": 169,
+    "lloc": 40,
+    "sloc": 143,
+    "comments": 11,
+    "multi": 0,
+    "blank": 15,
+    "single_comments": 11
+  },
+  "tests/financial/test_taiwan_stock_exchange.py": {
+    "loc": 172,
+    "lloc": 31,
+    "sloc": 149,
+    "comments": 11,
+    "multi": 0,
+    "blank": 12,
+    "single_comments": 11
+  },
+  "tests/financial/test_toronto_stock_exchange.py": {
+    "loc": 318,
+    "lloc": 73,
+    "sloc": 284,
+    "comments": 12,
+    "multi": 0,
+    "blank": 23,
+    "single_comments": 11
+  },
+  "tests/financial/test_warsaw_stock_exchange.py": {
+    "loc": 194,
+    "lloc": 42,
+    "sloc": 166,
+    "comments": 11,
+    "multi": 0,
+    "blank": 17,
+    "single_comments": 11
+  },
+  "tests/financial/__init__.py": {
+    "loc": 11,
+    "lloc": 0,
+    "sloc": 0,
+    "comments": 11,
+    "multi": 0,
+    "blank": 0,
+    "single_comments": 11
+  },
+  "tests/groups/test_balinese_saka.py": {
+    "loc": 33,
+    "lloc": 14,
+    "sloc": 14,
+    "comments": 12,
+    "multi": 0,
+    "blank": 7,
+    "single_comments": 12
+  },
+  "tests/groups/test_burmese.py": {
+    "loc": 42,
+    "lloc": 22,
+    "sloc": 22,
+    "comments": 12,
+    "multi": 0,
+    "blank": 8,
+    "single_comments": 12
+  },
+  "tests/groups/test_christian.py": {
+    "loc": 37,
+    "lloc": 19,
+    "sloc": 18,
+    "comments": 11,
+    "multi": 0,
+    "blank": 8,
+    "single_comments": 11
+  },
+  "tests/groups/test_international.py": {
+    "loc": 34,
+    "lloc": 16,
+    "sloc": 17,
+    "comments": 11,
+    "multi": 0,
+    "blank": 6,
+    "single_comments": 11
+  },
+  "tests/groups/test_mandaean.py": {
+    "loc": 41,
+    "lloc": 20,
+    "sloc": 22,
+    "comments": 12,
+    "multi": 0,
+    "blank": 7,
+    "single_comments": 12
+  },
+  "tests/groups/test_persian.py": {
+    "loc": 39,
+    "lloc": 20,
+    "sloc": 20,
+    "comments": 12,
+    "multi": 0,
+    "blank": 7,
+    "single_comments": 12
+  },
+  "tests/groups/test_thai.py": {
+    "loc": 46,
+    "lloc": 27,
+    "sloc": 27,
+    "comments": 12,
+    "multi": 0,
+    "blank": 7,
+    "single_comments": 12
+  },
+  "tests/groups/test_tibetan.py": {
+    "loc": 41,
+    "lloc": 22,
+    "sloc": 22,
+    "comments": 12,
+    "multi": 0,
+    "blank": 7,
+    "single_comments": 12
+  },
+  "tests/groups/__init__.py": {
+    "loc": 11,
+    "lloc": 0,
+    "sloc": 0,
+    "comments": 11,
+    "multi": 0,
+    "blank": 0,
+    "single_comments": 11
+  },
+  "tests/scripts/test_generate_site_assets.py": {
+    "loc": 32,
+    "lloc": 8,
+    "sloc": 17,
+    "comments": 11,
+    "multi": 0,
+    "blank": 4,
+    "single_comments": 11
+  },
+  "tests/scripts/__init__.py": {
+    "loc": 11,
+    "lloc": 0,
+    "sloc": 0,
+    "comments": 11,
+    "multi": 0,
+    "blank": 0,
+    "single_comments": 11
+  },
+  "tests/third_party/test_numpy.py": {
+    "loc": 33,
+    "lloc": 13,
+    "sloc": 13,
+    "comments": 13,
+    "multi": 0,
+    "blank": 7,
+    "single_comments": 13
+  }
+}

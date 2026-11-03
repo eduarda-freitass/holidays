@@ -1,0 +1,1394 @@
+arquivo,smell,metodo,linhas
+tests/test_docs.py,Conditional Test Logic,test_supported_countries_table,90
+tests/test_docs.py,Conditional Test Logic,test_supported_countries_table,104
+tests/test_docs.py,Conditional Test Logic,test_supported_countries_table,111
+tests/test_docs.py,Conditional Test Logic,test_supported_countries_table,112
+tests/test_docs.py,Conditional Test Logic,test_supported_countries_table,114
+tests/test_docs.py,Conditional Test Logic,test_supported_countries_table,122
+tests/test_docs.py,Conditional Test Logic,test_supported_countries_table,125
+tests/test_docs.py,Conditional Test Logic,test_supported_countries_table,130
+tests/test_docs.py,Conditional Test Logic,test_supported_countries_table,142
+tests/test_docs.py,Conditional Test Logic,test_supported_countries_table,144
+tests/test_docs.py,Conditional Test Logic,test_supported_countries_table,147
+tests/test_docs.py,Conditional Test Logic,test_supported_countries_table,156
+tests/test_docs.py,Conditional Test Logic,test_supported_countries_table,160
+tests/test_docs.py,Conditional Test Logic,test_supported_countries_table,177
+tests/test_docs.py,Conditional Test Logic,test_supported_countries_table,197
+tests/test_docs.py,Conditional Test Logic,test_supported_countries_table,200
+tests/test_docs.py,Conditional Test Logic,test_supported_countries_table,207
+tests/test_docs.py,Conditional Test Logic,test_supported_countries_table,216
+tests/test_docs.py,Conditional Test Logic,test_supported_markets_table,259
+tests/test_docs.py,Conditional Test Logic,test_supported_markets_table,266
+tests/test_docs.py,Conditional Test Logic,test_supported_markets_table,271
+tests/test_docs.py,Conditional Test Logic,test_supported_markets_table,273
+tests/test_docs.py,Conditional Test Logic,test_supported_markets_table,276
+tests/test_docs.py,Conditional Test Logic,test_supported_markets_table,285
+tests/test_docs.py,Conditional Test Logic,test_supported_markets_table,289
+tests/test_docs.py,Conditional Test Logic,test_supported_markets_table,305
+tests/test_docs.py,Conditional Test Logic,test_supported_markets_table,324
+tests/test_docs.py,Verbose Test,test_supported_countries_table,74;245
+tests/test_docs.py,Verbose Test,test_supported_markets_table,247;353
+tests/test_generate_ics.py,Conditional Test Logic,test_list_options,261
+tests/test_generate_ics.py,Conditional Test Logic,test_output_template_unknown_placeholder,511
+tests/test_generate_ics.py,Conditional Test Logic,test_output_template_invalid,538
+tests/test_generate_ics.py,Unknown Test,test_validate_subdiv_valid,197
+tests/test_generate_ics.py,Unknown Test,test_validate_subdiv_alias,203
+tests/test_generate_ics.py,Unknown Test,test_validate_categories_valid,222
+tests/test_generate_ics.py,Unknown Test,test_validate_language_valid,240
+tests/test_helpers.py,Conditional Test Logic,test_normalize_arguments,54
+tests/test_helpers.py,Conditional Test Logic,test_normalize_tuple,64
+tests/test_holiday_base.py,Conditional Test Logic,test_subdivisions_aliases,216
+tests/test_holiday_base.py,Conditional Test Logic,test_subdivisions_aliases,217
+tests/test_holiday_base.py,Conditional Test Logic,test_default_category,278
+tests/test_holiday_base.py,Conditional Test Logic,test_default_category,280
+tests/test_holiday_base.py,Conditional Test Logic,test_default_category,286
+tests/test_holiday_base.py,Conditional Test Logic,test_default_category,288
+tests/test_holiday_base.py,Conditional Test Logic,test_non_default_categories,304
+tests/test_holiday_base.py,Conditional Test Logic,test_non_default_categories,308
+tests/test_holiday_base.py,Conditional Test Logic,test_non_default_categories,311
+tests/test_holiday_base.py,Conditional Test Logic,test_contains,440
+tests/test_holiday_base.py,Conditional Test Logic,test_exact,462
+tests/test_holiday_base.py,Conditional Test Logic,test_icontains,475
+tests/test_holiday_base.py,Conditional Test Logic,test_iexact,492
+tests/test_holiday_base.py,Conditional Test Logic,test_iexact,494
+tests/test_holiday_base.py,Conditional Test Logic,test_istartswith,513
+tests/test_holiday_base.py,Conditional Test Logic,test_istartswith,515
+tests/test_holiday_base.py,Conditional Test Logic,test_startswith,530
+tests/test_holiday_base.py,Conditional Test Logic,test_startswith,532
+tests/test_holiday_base.py,Conditional Test Logic,test_add_holiday,565
+tests/test_holiday_base.py,Conditional Test Logic,test_is_weekend,620
+tests/test_holiday_base.py,Conditional Test Logic,test_is_weekend,625
+tests/test_holiday_base.py,Conditional Test Logic,test_is_weekend,630
+tests/test_holiday_base.py,Conditional Test Logic,test_is_weekend,633
+tests/test_holiday_base.py,Conditional Test Logic,test_is_weekend,639
+tests/test_holiday_base.py,Conditional Test Logic,test_is_weekend,642
+tests/test_holiday_base.py,Conditional Test Logic,test_is_weekend,767
+tests/test_holiday_base.py,Conditional Test Logic,test_is_weekend,771
+tests/test_holiday_base.py,Conditional Test Logic,test_is_weekend,775
+tests/test_holiday_base.py,Conditional Test Logic,test_is_weekend,778
+tests/test_holiday_base.py,Conditional Test Logic,test_single,877
+tests/test_holiday_base.py,Conditional Test Logic,test_partial,921
+tests/test_holiday_base.py,Conditional Test Logic,test_pickle_localized_entity,1053
+tests/test_holiday_base.py,Conditional Test Logic,test_append,1124
+tests/test_holiday_base.py,Conditional Test Logic,test_append,1134
+tests/test_holiday_base.py,Conditional Test Logic,test_no_substituted_holidays,1376
+tests/test_holiday_base.py,Verbose Test,test_getitem,1203;1265
+tests/test_holiday_base.py,Non-Functional Statement,test_date_subclass,799
+tests/test_ical.py,Conditional Test Logic,_assert_line_lengths,61
+tests/test_ical.py,Conditional Test Logic,_assert_line_lengths,69
+tests/test_ical.py,Conditional Test Logic,_assert_holidaysum_language,116
+tests/test_ical.py,Conditional Test Logic,_assert_holidaysum_language,117
+tests/test_ical.py,Conditional Test Logic,test_ical_timestamp,159
+tests/test_ical.py,Conditional Test Logic,test_ical_timestamp,160
+tests/test_ical.py,Conditional Test Logic,test_crlf_line_endings,422
+tests/test_ical.py,Conditional Test Logic,test_save_ics_pathlib_path,458
+tests/test_ical.py,Conditional Test Logic,test_save_ics_pathlib_path,459
+tests/test_ical.py,Conditional Test Logic,test_save_ics_pathlib_path,466
+tests/test_ical.py,Conditional Test Logic,test_save_ics_pathlib_path,467
+tests/test_ical.py,Unknown Test,test_valid_language_code,167
+tests/test_ical.py,Unknown Test,test_invalid_language_code,176
+tests/test_ical.py,Unknown Test,test_show_language_combined_holidays_list,206
+tests/test_ical.py,Unknown Test,test_show_language_true_language_code_none,222
+tests/test_ical.py,Unknown Test,test_escape_character_holiday_names,326
+tests/test_ical.py,Unknown Test,test_line_folding_edge_cases,377
+tests/test_ical.py,Unknown Test,test_long_holiday,390
+tests/test_ical.py,Unknown Test,test_return_bytes,414
+tests/test_ical.py,Undefined Test,_assert_line_lengths,56
+tests/test_ical.py,Undefined Test,_assert_byte_output,77
+tests/test_ical.py,Undefined Test,_assert_special_char_handling,82
+tests/test_ical.py,Undefined Test,_assert_valid_language_code,89
+tests/test_ical.py,Undefined Test,_assert_invalid_language_code,99
+tests/test_ical.py,Undefined Test,_assert_holidaysum_language,113
+tests/test_ical.py,Undefined Test,_assert_language_not_provided,124
+tests/test_imports.py,Conditional Test Logic,test_constants,23
+tests/test_imports.py,Conditional Test Logic,test_holidays_base,27
+tests/test_imports.py,Conditional Test Logic,test_utils,31
+tests/test_l10n.py,Conditional Test Logic,test_localization,54
+tests/test_l10n.py,Conditional Test Logic,test_localization,59
+tests/test_l10n.py,Conditional Test Logic,test_localization,92
+tests/test_l10n.py,Conditional Test Logic,test_localization,102
+tests/test_l10n.py,Conditional Test Logic,test_localization,113
+tests/test_l10n.py,Exception Handling,test_localization,55
+tests/test_l10n.py,Verbose Test,test_localization,37;120
+tests/test_package.py,Conditional Test Logic,test_metadata,23
+tests/test_package.py,Conditional Test Logic,test_metadata,34
+tests/test_package.py,Conditional Test Logic,test_metadata,38
+tests/test_package.py,Conditional Test Logic,test_metadata,51
+tests/test_package.py,Conditional Test Logic,test_metadata,52
+tests/test_registry.py,Conditional Test Logic,test_countries_imports,34
+tests/test_registry.py,Conditional Test Logic,test_countries_imports,36
+tests/test_registry.py,Conditional Test Logic,test_financial_imports,75
+tests/test_registry.py,Conditional Test Logic,test_financial_imports,77
+tests/test_registry.py,Conditional Test Logic,test_get_country_codes,113
+tests/test_registry.py,Conditional Test Logic,test_get_country_codes,116
+tests/test_registry.py,Conditional Test Logic,test_get_country_codes_aliases,121
+tests/test_registry.py,Conditional Test Logic,test_get_country_codes_aliases,123
+tests/test_registry.py,Conditional Test Logic,test_get_country_codes_aliases,124
+tests/test_registry.py,Conditional Test Logic,test_get_financial_codes,131
+tests/test_registry.py,Conditional Test Logic,test_get_financial_codes,134
+tests/test_registry.py,Conditional Test Logic,test_get_financial_codes_aliases,139
+tests/test_registry.py,Conditional Test Logic,test_get_financial_codes_aliases,141
+tests/test_registry.py,Conditional Test Logic,test_get_financial_codes_aliases,142
+tests/test_registry.py,Conditional Test Logic,test_inheritance,154
+tests/test_registry.py,Conditional Test Logic,test_inheritance,159
+tests/test_registry.py,Non-Functional Statement,test_inheritance,150
+tests/test_utils.py,Conditional Test Logic,test_list_supported_countries,217
+tests/test_utils.py,Conditional Test Logic,test_list_supported_financial,232
+tests/test_utils.py,Unknown Test,test_all_countries,152
+tests/test_utils.py,Unknown Test,test_all_financial,160
+tests/calendars/test_burmese.py,Conditional Test Logic,test_jdn_to_gregorian,29
+tests/calendars/test_burmese.py,Conditional Test Logic,test_new_year_dates,39
+tests/calendars/test_chinese.py,Conditional Test Logic,test_qingming_chinese,27
+tests/calendars/test_chinese.py,Conditional Test Logic,test_qingming_korean,50
+tests/calendars/test_chinese.py,Conditional Test Logic,test_qingming_vietnamese,73
+tests/calendars/test_chinese.py,Conditional Test Logic,test_qingming_estimated,96
+tests/calendars/test_chinese.py,Conditional Test Logic,test_qingming_estimated,98
+tests/calendars/test_chinese.py,Conditional Test Logic,test_winter_solstice_chinese,102
+tests/calendars/test_chinese.py,Conditional Test Logic,test_winter_solstice_korean,125
+tests/calendars/test_chinese.py,Conditional Test Logic,test_winter_solstice_vietnamese,147
+tests/calendars/test_chinese.py,Conditional Test Logic,test_winter_solstice_estimated,171
+tests/calendars/test_chinese.py,Conditional Test Logic,test_winter_solstice_estimated,173
+tests/calendars/test_ethiopian.py,Conditional Test Logic,test_is_ethiopian_leap_year,36
+tests/calendars/test_gregorian.py,Conditional Test Logic,test_get_nth_weekday_of_month,70
+tests/calendars/test_gregorian.py,Conditional Test Logic,test_get_nth_weekday_of_month,75
+tests/calendars/test_gregorian.py,Conditional Test Logic,test_timedelta,80
+tests/calendars/test_islamic.py,Conditional Test Logic,test_eid_al_fitr_dates,46
+tests/calendars/test_islamic.py,Conditional Test Logic,test_eid_al_adha_dates,61
+tests/calendars/test_islamic.py,Conditional Test Logic,test_coverage_range,82
+tests/calendars/test_julian.py,Conditional Test Logic,test_julian_calendar_drift,35
+tests/calendars/test_persian.py,Conditional Test Logic,test_new_year_date,31
+tests/calendars/test_thai.py,Conditional Test Logic,test_asarnha_bucha_date,68
+tests/calendars/test_thai.py,Conditional Test Logic,test_atthami_bucha_date,94
+tests/calendars/test_thai.py,Conditional Test Logic,test_atthami_bucha_date,105
+tests/calendars/test_thai.py,Conditional Test Logic,test_boun_haw_khao_padapdin,120
+tests/calendars/test_thai.py,Conditional Test Logic,test_boun_haw_khao_salark,135
+tests/calendars/test_thai.py,Conditional Test Logic,test_boun_suang_heua_date,149
+tests/calendars/test_thai.py,Conditional Test Logic,test_buddhist_sabbath_dates,316
+tests/calendars/test_thai.py,Conditional Test Logic,test_khao_phansa_date,359
+tests/calendars/test_thai.py,Conditional Test Logic,test_loy_krathong_date,391
+tests/calendars/test_thai.py,Conditional Test Logic,test_makha_bucha_date,433
+tests/calendars/test_thai.py,Conditional Test Logic,test_makha_bucha_date,449
+tests/calendars/test_thai.py,Conditional Test Logic,test_ok_phansa_date,476
+tests/calendars/test_thai.py,Conditional Test Logic,test_pchum_ben_date,495
+tests/calendars/test_thai.py,Conditional Test Logic,test_preah_neangkoal_date,514
+tests/calendars/test_thai.py,Conditional Test Logic,test_visakha_bucha_date,558
+tests/calendars/test_thai.py,Conditional Test Logic,test_visakha_bucha_date,576
+tests/calendars/test_thai.py,Verbose Test,test_buddhist_sabbath_dates,154;318
+tests/calendars/test_thai.py,Verbose Test,test_makha_bucha_date,394;452
+tests/calendars/test_thai.py,Verbose Test,test_visakha_bucha_date,519;580
+tests/countries/test_afghanistan.py,Verbose Test,test_eid_al_fitr,149;194
+tests/countries/test_afghanistan.py,Verbose Test,test_eid_al_adha,216;264
+tests/countries/test_algeria.py,Conditional Test Logic,test_weekend,242
+tests/countries/test_algeria.py,Conditional Test Logic,test_weekend,254
+tests/countries/test_andorra.py,Conditional Test Logic,test_saint_rochs_day,115
+tests/countries/test_andorra.py,Conditional Test Logic,test_saint_rochs_day,116
+tests/countries/test_andorra.py,Conditional Test Logic,test_saint_anthonys_day,126
+tests/countries/test_andorra.py,Conditional Test Logic,test_saint_anthonys_day,127
+tests/countries/test_andorra.py,Conditional Test Logic,test_saint_peters_day,137
+tests/countries/test_andorra.py,Conditional Test Logic,test_saint_peters_day,138
+tests/countries/test_andorra.py,Conditional Test Logic,test_saint_julians_day,148
+tests/countries/test_andorra.py,Conditional Test Logic,test_saint_julians_day,149
+tests/countries/test_andorra.py,Conditional Test Logic,test_virgin_mary_of_canolich,159
+tests/countries/test_andorra.py,Conditional Test Logic,test_virgin_mary_of_canolich,160
+tests/countries/test_andorra.py,Conditional Test Logic,test_sant_julia_de_loria_festival,178
+tests/countries/test_andorra.py,Conditional Test Logic,test_sant_julia_de_loria_festival,179
+tests/countries/test_andorra.py,Conditional Test Logic,test_andorra_la_vella_festival,203
+tests/countries/test_andorra.py,Conditional Test Logic,test_andorra_la_vella_festival,204
+tests/countries/test_andorra.py,Conditional Test Logic,test_saint_michael_of_engolasters_day,234
+tests/countries/test_andorra.py,Conditional Test Logic,test_saint_michael_of_engolasters_day,235
+tests/countries/test_andorra.py,Conditional Test Logic,test_parish_foundation_day,246
+tests/countries/test_andorra.py,Conditional Test Logic,test_parish_foundation_day,247
+tests/countries/test_andorra.py,Conditional Test Logic,test_escaldes_engordany_festival,273
+tests/countries/test_andorra.py,Conditional Test Logic,test_escaldes_engordany_festival,274
+tests/countries/test_antigua_and_barbuda.py,Conditional Test Logic,test_special_holidays,26
+tests/countries/test_argentina.py,Conditional Test Logic,test_belgrano_day,330
+tests/countries/test_argentina.py,Conditional Test Logic,test_immaculate_conception_day,483
+tests/countries/test_argentina.py,Conditional Test Logic,test_anniversary_of_battle_of_salta,494
+tests/countries/test_argentina.py,Conditional Test Logic,test_anniversary_of_battle_of_salta,495
+tests/countries/test_argentina.py,Conditional Test Logic,test_memory_of_guemes_salta,509
+tests/countries/test_argentina.py,Conditional Test Logic,test_memory_of_guemes_salta,510
+tests/countries/test_argentina.py,Conditional Test Logic,test_feasts_of_lord_and_virgin_of_miracle,521
+tests/countries/test_argentina.py,Conditional Test Logic,test_feasts_of_lord_and_virgin_of_miracle,522
+tests/countries/test_argentina.py,Conditional Test Logic,test_exaltation_of_holy_cross_day,537
+tests/countries/test_argentina.py,Conditional Test Logic,test_exaltation_of_holy_cross_day,538
+tests/countries/test_argentina.py,Conditional Test Logic,test_saint_louis_day,549
+tests/countries/test_argentina.py,Conditional Test Logic,test_saint_louis_day,550
+tests/countries/test_argentina.py,Conditional Test Logic,test_day_of_remembrance_entre_rios,561
+tests/countries/test_argentina.py,Conditional Test Logic,test_day_of_remembrance_entre_rios,562
+tests/countries/test_argentina.py,Conditional Test Logic,test_commemoration_of_battle_of_caseros,573
+tests/countries/test_argentina.py,Conditional Test Logic,test_commemoration_of_battle_of_caseros,574
+tests/countries/test_argentina.py,Conditional Test Logic,test_state_workers_day_entre_rios,585
+tests/countries/test_argentina.py,Conditional Test Logic,test_state_workers_day_entre_rios,586
+tests/countries/test_argentina.py,Conditional Test Logic,test_saint_michael_archangels_day,597
+tests/countries/test_argentina.py,Conditional Test Logic,test_saint_michael_archangels_day,598
+tests/countries/test_argentina.py,Conditional Test Logic,test_death_of_juan_facundo_quiroga,609
+tests/countries/test_argentina.py,Conditional Test Logic,test_death_of_juan_facundo_quiroga,610
+tests/countries/test_argentina.py,Conditional Test Logic,test_provincial_autonomy_day,621
+tests/countries/test_argentina.py,Conditional Test Logic,test_provincial_autonomy_day,622
+tests/countries/test_argentina.py,Conditional Test Logic,test_day_of_remembrance_la_rioja,633
+tests/countries/test_argentina.py,Conditional Test Logic,test_day_of_remembrance_la_rioja,634
+tests/countries/test_argentina.py,Conditional Test Logic,test_malvinas_memorial_day,645
+tests/countries/test_argentina.py,Conditional Test Logic,test_malvinas_memorial_day,646
+tests/countries/test_argentina.py,Conditional Test Logic,test_la_rioja_foundation_day,659
+tests/countries/test_argentina.py,Conditional Test Logic,test_la_rioja_foundation_day,660
+tests/countries/test_argentina.py,Conditional Test Logic,test_death_of_enrique_angelelli,671
+tests/countries/test_argentina.py,Conditional Test Logic,test_death_of_enrique_angelelli,672
+tests/countries/test_argentina.py,Conditional Test Logic,test_death_of_angel_vicente_penaloza,683
+tests/countries/test_argentina.py,Conditional Test Logic,test_death_of_angel_vicente_penaloza,684
+tests/countries/test_argentina.py,Conditional Test Logic,test_tinkunaco_festival,695
+tests/countries/test_argentina.py,Conditional Test Logic,test_tinkunaco_festival,696
+tests/countries/test_argentina.py,Conditional Test Logic,test_teachers_day,707
+tests/countries/test_argentina.py,Conditional Test Logic,test_teachers_day,708
+tests/countries/test_argentina.py,Conditional Test Logic,test_birthday_of_mamerto_esquiu,719
+tests/countries/test_argentina.py,Conditional Test Logic,test_birthday_of_mamerto_esquiu,720
+tests/countries/test_argentina.py,Conditional Test Logic,test_catamarca_autonomy_day,731
+tests/countries/test_argentina.py,Conditional Test Logic,test_catamarca_autonomy_day,732
+tests/countries/test_argentina.py,Conditional Test Logic,test_miracle_day,743
+tests/countries/test_argentina.py,Conditional Test Logic,test_miracle_day,744
+tests/countries/test_argentina.py,Conditional Test Logic,test_immaculate_conception_day_catamarca,754
+tests/countries/test_argentina.py,Conditional Test Logic,test_immaculate_conception_day_catamarca,755
+tests/countries/test_argentina.py,Conditional Test Logic,test_saint_james_day,766
+tests/countries/test_argentina.py,Conditional Test Logic,test_saint_james_day,767
+tests/countries/test_argentina.py,Conditional Test Logic,test_anniversary_of_battle_of_tucuman,778
+tests/countries/test_argentina.py,Conditional Test Logic,test_anniversary_of_battle_of_tucuman,779
+tests/countries/test_argentina.py,Conditional Test Logic,test_plebiscite_1902_trevelin,789
+tests/countries/test_argentina.py,Conditional Test Logic,test_plebiscite_1902_trevelin,790
+tests/countries/test_argentina.py,Conditional Test Logic,test_anniversary_of_arrival_of_first_welsh_settlers,801
+tests/countries/test_argentina.py,Conditional Test Logic,test_anniversary_of_arrival_of_first_welsh_settlers,802
+tests/countries/test_argentina.py,Conditional Test Logic,test_national_petroleum_day,813
+tests/countries/test_argentina.py,Conditional Test Logic,test_national_petroleum_day,814
+tests/countries/test_argentina.py,Conditional Test Logic,test_tehuelches_and_mapuches_declare_loyalty,825
+tests/countries/test_argentina.py,Conditional Test Logic,test_tehuelches_and_mapuches_declare_loyalty,826
+tests/countries/test_argentina.py,Conditional Test Logic,test_day_of_province_of_tierra_del_fuego,837
+tests/countries/test_argentina.py,Conditional Test Logic,test_day_of_province_of_tierra_del_fuego,838
+tests/countries/test_argentina.py,Conditional Test Logic,test_selknam_genocide_day,849
+tests/countries/test_argentina.py,Conditional Test Logic,test_selknam_genocide_day,850
+tests/countries/test_argentina.py,Conditional Test Logic,test_anniversary_of_death_of_belgrano_corrientes,864
+tests/countries/test_argentina.py,Conditional Test Logic,test_anniversary_of_death_of_belgrano_corrientes,865
+tests/countries/test_argentina.py,Conditional Test Logic,test_anniversary_of_death_of_san_martin_corrientes,876
+tests/countries/test_argentina.py,Conditional Test Logic,test_anniversary_of_death_of_san_martin_corrientes,877
+tests/countries/test_argentina.py,Conditional Test Logic,test_carnival_monday_jujuy,887
+tests/countries/test_argentina.py,Conditional Test Logic,test_carnival_monday_jujuy,888
+tests/countries/test_argentina.py,Conditional Test Logic,test_carnival_tuesday_jujuy,915
+tests/countries/test_argentina.py,Conditional Test Logic,test_carnival_tuesday_jujuy,916
+tests/countries/test_argentina.py,Conditional Test Logic,test_jujuy_exodus_day,944
+tests/countries/test_argentina.py,Conditional Test Logic,test_jujuy_exodus_day,945
+tests/countries/test_argentina.py,Conditional Test Logic,test_jujuy_political_autonomy_day,956
+tests/countries/test_argentina.py,Conditional Test Logic,test_jujuy_political_autonomy_day,957
+tests/countries/test_argentina.py,Conditional Test Logic,test_pachamama_day,968
+tests/countries/test_argentina.py,Conditional Test Logic,test_pachamama_day,969
+tests/countries/test_argentina.py,Conditional Test Logic,test_day_of_virgin_of_rosary_of_rio_blanco_and_paypaya,980
+tests/countries/test_argentina.py,Conditional Test Logic,test_day_of_virgin_of_rosary_of_rio_blanco_and_paypaya,981
+tests/countries/test_argentina.py,Conditional Test Logic,test_great_day_of_jujuy,992
+tests/countries/test_argentina.py,Conditional Test Logic,test_great_day_of_jujuy,993
+tests/countries/test_argentina.py,Conditional Test Logic,test_saint_john_boscos_day,1004
+tests/countries/test_argentina.py,Conditional Test Logic,test_saint_john_boscos_day,1005
+tests/countries/test_argentina.py,Conditional Test Logic,test_anniversary_of_death_of_nestor_carlos_kirchner,1022
+tests/countries/test_argentina.py,Conditional Test Logic,test_anniversary_of_death_of_nestor_carlos_kirchner,1023
+tests/countries/test_argentina.py,Conditional Test Logic,test_commemoration_of_workers_shot_in_patagonian_strikes,1034
+tests/countries/test_argentina.py,Conditional Test Logic,test_commemoration_of_workers_shot_in_patagonian_strikes,1035
+tests/countries/test_argentina.py,Verbose Test,test_special_holidays,41;91
+tests/countries/test_argentina.py,Verbose Test,test_cultural_diversity_day,393;446
+tests/countries/test_argentina.py,Verbose Test,test_pesach,1113;1160
+tests/countries/test_argentina.py,Verbose Test,test_l10n_default,1287;1387
+tests/countries/test_argentina.py,Verbose Test,test_l10n_en_us,1389;1478
+tests/countries/test_argentina.py,Verbose Test,test_l10n_uk,1480;1563
+tests/countries/test_armenia.py,Conditional Test Logic,test_workdays,543
+tests/countries/test_armenia.py,Verbose Test,test_substituted_holidays,383;462
+tests/countries/test_armenia.py,Verbose Test,test_workdays,464;582
+tests/countries/test_australia.py,Conditional Test Logic,test_good_friday,637
+tests/countries/test_australia.py,Conditional Test Logic,test_easter_saturday,645
+tests/countries/test_australia.py,Conditional Test Logic,test_easter_sunday,668
+tests/countries/test_australia.py,Conditional Test Logic,test_easter_sunday,669
+tests/countries/test_australia.py,Conditional Test Logic,test_easter_monday,687
+tests/countries/test_australia.py,Conditional Test Logic,test_sovereigns_birthday,876
+tests/countries/test_australia.py,Conditional Test Logic,test_christmas_day_sa,1100
+tests/countries/test_australia.py,Conditional Test Logic,test_christmas_day_tas,1144
+tests/countries/test_australia.py,Conditional Test Logic,test_christmas_day_vic,1180
+tests/countries/test_australia.py,Conditional Test Logic,test_boxing_day_sa,1415
+tests/countries/test_australia.py,Conditional Test Logic,test_boxing_day_vic,1497
+tests/countries/test_australia.py,Conditional Test Logic,test_christmas_eve,1628
+tests/countries/test_australia.py,Conditional Test Logic,test_christmas_eve,1629
+tests/countries/test_australia.py,Conditional Test Logic,test_new_years_eve,1654
+tests/countries/test_australia.py,Conditional Test Logic,test_new_years_eve,1655
+tests/countries/test_australia.py,Conditional Test Logic,test_canberra_day,1676
+tests/countries/test_australia.py,Conditional Test Logic,test_canberra_day,1677
+tests/countries/test_australia.py,Conditional Test Logic,test_reconciliation_day,1705
+tests/countries/test_australia.py,Conditional Test Logic,test_reconciliation_day,1706
+tests/countries/test_australia.py,Conditional Test Logic,test_family_and_community_day,1727
+tests/countries/test_australia.py,Conditional Test Logic,test_family_and_community_day,1728
+tests/countries/test_australia.py,Conditional Test Logic,test_bank_holiday_nsw,1766
+tests/countries/test_australia.py,Conditional Test Logic,test_bank_holiday_nsw,1767
+tests/countries/test_australia.py,Conditional Test Logic,test_may_day,1800
+tests/countries/test_australia.py,Conditional Test Logic,test_may_day,1801
+tests/countries/test_australia.py,Conditional Test Logic,test_picnic_day,1820
+tests/countries/test_australia.py,Conditional Test Logic,test_picnic_day,1821
+tests/countries/test_australia.py,Conditional Test Logic,test_royal_queensland_show,1840
+tests/countries/test_australia.py,Conditional Test Logic,test_royal_queensland_show,1841
+tests/countries/test_australia.py,Conditional Test Logic,test_adelaide_cup_day,1860
+tests/countries/test_australia.py,Conditional Test Logic,test_adelaide_cup_day,1861
+tests/countries/test_australia.py,Conditional Test Logic,test_eight_hours_day,1883
+tests/countries/test_australia.py,Conditional Test Logic,test_eight_hours_day,1884
+tests/countries/test_australia.py,Conditional Test Logic,test_easter_tuesday,1923
+tests/countries/test_australia.py,Conditional Test Logic,test_easter_tuesday,1924
+tests/countries/test_australia.py,Conditional Test Logic,test_grand_final_day,1943
+tests/countries/test_australia.py,Conditional Test Logic,test_grand_final_day,1944
+tests/countries/test_australia.py,Conditional Test Logic,test_melbourne_cup_day,1966
+tests/countries/test_australia.py,Conditional Test Logic,test_melbourne_cup_day,1967
+tests/countries/test_australia.py,Conditional Test Logic,test_western_australia_day,1989
+tests/countries/test_australia.py,Conditional Test Logic,test_western_australia_day,1990
+tests/countries/test_australia.py,Conditional Test Logic,test_national_day_of_mourning_for_queen_elizabeth_ii,2025
+tests/countries/test_australia.py,Conditional Test Logic,test_all_holidays,2039
+tests/countries/test_australia.py,Conditional Test Logic,test_all_school_holiday_ids_are_mapped,2090
+tests/countries/test_australia.py,Conditional Test Logic,test_all_school_holiday_ids_are_mapped,2091
+tests/countries/test_australia.py,Conditional Test Logic,test_all_school_holiday_ids_are_mapped,2092
+tests/countries/test_australia.py,Conditional Test Logic,test_school_holidays_cover_only_known_subdivisions,2097
+tests/countries/test_australia.py,Conditional Test Logic,test_every_subdivision_has_school_holidays,2118
+tests/countries/test_australia.py,Conditional Test Logic,test_l10n_default_school,2249
+tests/countries/test_australia.py,Conditional Test Logic,test_l10n_en_us_school,2259
+tests/countries/test_australia.py,Conditional Test Logic,test_l10n_th_school,2269
+tests/countries/test_australia.py,Verbose Test,test_australia_day_nt,380;425
+tests/countries/test_australia.py,Verbose Test,test_australia_day_sa,468;513
+tests/countries/test_australia.py,Verbose Test,test_sovereigns_birthday,865;945
+tests/countries/test_australia.py,Verbose Test,test_christmas_day_act,950;998
+tests/countries/test_australia.py,Verbose Test,test_boxing_day_act,1229;1291
+tests/countries/test_australia.py,Verbose Test,test_boxing_day_nt,1308;1366
+tests/countries/test_australia.py,Verbose Test,test_boxing_day_sa,1408;1457
+tests/countries/test_australia.py,Verbose Test,test_labor_day,1546;1613
+tests/countries/test_australia.py,Verbose Test,test_all_holidays,2037;2082
+tests/countries/test_austria.py,Conditional Test Logic,test_epiphany,33
+tests/countries/test_austria.py,Conditional Test Logic,test_immaculate_conception,147
+tests/countries/test_austria.py,Conditional Test Logic,test_saint_martins_day,171
+tests/countries/test_austria.py,Conditional Test Logic,test_saint_martins_day,172
+tests/countries/test_austria.py,Conditional Test Logic,test_saint_josephs_day,182
+tests/countries/test_austria.py,Conditional Test Logic,test_saint_josephs_day,183
+tests/countries/test_austria.py,Conditional Test Logic,test_1920_carinthian_plebiscite_anniversary,193
+tests/countries/test_austria.py,Conditional Test Logic,test_1920_carinthian_plebiscite_anniversary,194
+tests/countries/test_austria.py,Conditional Test Logic,test_saint_leopolds_day,204
+tests/countries/test_austria.py,Conditional Test Logic,test_saint_leopolds_day,205
+tests/countries/test_austria.py,Conditional Test Logic,test_saint_florians_day,215
+tests/countries/test_austria.py,Conditional Test Logic,test_saint_florians_day,216
+tests/countries/test_austria.py,Conditional Test Logic,test_saint_ruperts_day,227
+tests/countries/test_austria.py,Conditional Test Logic,test_saint_ruperts_day,228
+tests/countries/test_azerbaijan.py,Conditional Test Logic,test_workdays,122
+tests/countries/test_azerbaijan.py,Verbose Test,test_workdays,82;142
+tests/countries/test_belarus.py,Conditional Test Logic,test_workdays,383
+tests/countries/test_belarus.py,Verbose Test,test_substituted_holidays,195;287
+tests/countries/test_belarus.py,Verbose Test,test_workdays,289;391
+tests/countries/test_bermuda.py,Conditional Test Logic,test_special_holidays,25
+tests/countries/test_bhutan.py,Conditional Test Logic,test_winter_solstice,62
+tests/countries/test_bhutan.py,Conditional Test Logic,test_thimphu_drubchoe,196
+tests/countries/test_bhutan.py,Conditional Test Logic,test_thimphu_drubchoe,197
+tests/countries/test_bhutan.py,Conditional Test Logic,test_thimphu_tshechu,215
+tests/countries/test_bhutan.py,Conditional Test Logic,test_thimphu_tshechu,216
+tests/countries/test_bonaire_sint_eustatius_and_saba.py,Conditional Test Logic,test_rincon_day,130
+tests/countries/test_bonaire_sint_eustatius_and_saba.py,Conditional Test Logic,test_rincon_day,131
+tests/countries/test_bonaire_sint_eustatius_and_saba.py,Conditional Test Logic,test_bonaire_day,143
+tests/countries/test_bonaire_sint_eustatius_and_saba.py,Conditional Test Logic,test_bonaire_day,144
+tests/countries/test_bonaire_sint_eustatius_and_saba.py,Conditional Test Logic,test_carnival_monday,155
+tests/countries/test_bonaire_sint_eustatius_and_saba.py,Conditional Test Logic,test_carnival_monday,156
+tests/countries/test_bonaire_sint_eustatius_and_saba.py,Conditional Test Logic,test_saba_day,175
+tests/countries/test_bonaire_sint_eustatius_and_saba.py,Conditional Test Logic,test_saba_day,176
+tests/countries/test_bonaire_sint_eustatius_and_saba.py,Conditional Test Logic,test_emancipation_day,195
+tests/countries/test_bonaire_sint_eustatius_and_saba.py,Conditional Test Logic,test_emancipation_day,196
+tests/countries/test_bonaire_sint_eustatius_and_saba.py,Conditional Test Logic,test_statia_day,207
+tests/countries/test_bonaire_sint_eustatius_and_saba.py,Conditional Test Logic,test_statia_day,208
+tests/countries/test_bonaire_sint_eustatius_and_saba.py,Conditional Test Logic,test_special_holiday,219
+tests/countries/test_bonaire_sint_eustatius_and_saba.py,Conditional Test Logic,test_special_holiday,220
+tests/countries/test_bosnia_and_herzegovina.py,Conditional Test Logic,test_new_years_day,58
+tests/countries/test_bosnia_and_herzegovina.py,Conditional Test Logic,test_orthodox_christmas_eve,67
+tests/countries/test_bosnia_and_herzegovina.py,Conditional Test Logic,test_orthodox_christmas_eve,68
+tests/countries/test_bosnia_and_herzegovina.py,Conditional Test Logic,test_orthodox_christmas,85
+tests/countries/test_bosnia_and_herzegovina.py,Conditional Test Logic,test_orthodox_christmas,86
+tests/countries/test_bosnia_and_herzegovina.py,Conditional Test Logic,test_orthodox_new_year,96
+tests/countries/test_bosnia_and_herzegovina.py,Conditional Test Logic,test_orthodox_new_year,97
+tests/countries/test_bosnia_and_herzegovina.py,Conditional Test Logic,test_independence_day,107
+tests/countries/test_bosnia_and_herzegovina.py,Conditional Test Logic,test_independence_day,108
+tests/countries/test_bosnia_and_herzegovina.py,Conditional Test Logic,test_day_of_establishment_of_brcko_district,118
+tests/countries/test_bosnia_and_herzegovina.py,Conditional Test Logic,test_day_of_establishment_of_brcko_district,119
+tests/countries/test_bosnia_and_herzegovina.py,Conditional Test Logic,test_day_of_establishment_of_brcko_district,132
+tests/countries/test_bosnia_and_herzegovina.py,Conditional Test Logic,test_day_of_establishment_of_brcko_district,133
+tests/countries/test_bosnia_and_herzegovina.py,Conditional Test Logic,test_catholic_good_friday,143
+tests/countries/test_bosnia_and_herzegovina.py,Conditional Test Logic,test_catholic_good_friday,144
+tests/countries/test_bosnia_and_herzegovina.py,Conditional Test Logic,test_catholic_easter,160
+tests/countries/test_bosnia_and_herzegovina.py,Conditional Test Logic,test_catholic_easter,161
+tests/countries/test_bosnia_and_herzegovina.py,Conditional Test Logic,test_catholic_monday,184
+tests/countries/test_bosnia_and_herzegovina.py,Conditional Test Logic,test_orthodox_good_friday,198
+tests/countries/test_bosnia_and_herzegovina.py,Conditional Test Logic,test_orthodox_easter,205
+tests/countries/test_bosnia_and_herzegovina.py,Conditional Test Logic,test_orthodox_easter,206
+tests/countries/test_bosnia_and_herzegovina.py,Conditional Test Logic,test_orthodox_easter_monday,223
+tests/countries/test_bosnia_and_herzegovina.py,Conditional Test Logic,test_orthodox_easter_monday,224
+tests/countries/test_bosnia_and_herzegovina.py,Conditional Test Logic,test_labor_day,266
+tests/countries/test_bosnia_and_herzegovina.py,Conditional Test Logic,test_victory_day,272
+tests/countries/test_bosnia_and_herzegovina.py,Conditional Test Logic,test_victory_day,273
+tests/countries/test_bosnia_and_herzegovina.py,Conditional Test Logic,test_eid_al_fitr,297
+tests/countries/test_bosnia_and_herzegovina.py,Conditional Test Logic,test_eid_al_fitr,298
+tests/countries/test_bosnia_and_herzegovina.py,Conditional Test Logic,test_eid_al_adha,324
+tests/countries/test_bosnia_and_herzegovina.py,Conditional Test Logic,test_eid_al_adha,325
+tests/countries/test_bosnia_and_herzegovina.py,Conditional Test Logic,test_dayton_agreement_day,334
+tests/countries/test_bosnia_and_herzegovina.py,Conditional Test Logic,test_dayton_agreement_day,335
+tests/countries/test_bosnia_and_herzegovina.py,Conditional Test Logic,test_statehood_day,345
+tests/countries/test_bosnia_and_herzegovina.py,Conditional Test Logic,test_statehood_day,346
+tests/countries/test_bosnia_and_herzegovina.py,Conditional Test Logic,test_catholic_christmas_eve,356
+tests/countries/test_bosnia_and_herzegovina.py,Conditional Test Logic,test_catholic_christmas_eve,357
+tests/countries/test_bosnia_and_herzegovina.py,Conditional Test Logic,test_catholic_christmas,374
+tests/countries/test_bosnia_and_herzegovina.py,Conditional Test Logic,test_catholic_christmas,375
+tests/countries/test_bosnia_and_herzegovina.py,Verbose Test,test_2021,382;462
+tests/countries/test_brazil.py,Conditional Test Logic,test_black_awareness_day,123
+tests/countries/test_brazil.py,Conditional Test Logic,test_black_awareness_day,124
+tests/countries/test_brazil.py,Conditional Test Logic,test_carnaval,160
+tests/countries/test_brazil.py,Conditional Test Logic,test_carnaval,161
+tests/countries/test_brazil.py,Conditional Test Logic,test_corpus_christi,206
+tests/countries/test_brazil.py,Conditional Test Logic,test_corpus_christi,207
+tests/countries/test_brazil.py,Conditional Test Logic,test_evangelical_day,231
+tests/countries/test_brazil.py,Conditional Test Logic,test_international_womens_day,266
+tests/countries/test_brazil.py,Conditional Test Logic,test_international_womens_day,267
+tests/countries/test_brazil.py,Conditional Test Logic,test_founding_of_acre,288
+tests/countries/test_brazil.py,Conditional Test Logic,test_founding_of_acre,289
+tests/countries/test_brazil.py,Conditional Test Logic,test_amazonia_day,299
+tests/countries/test_brazil.py,Conditional Test Logic,test_amazonia_day,300
+tests/countries/test_brazil.py,Conditional Test Logic,test_signing_of_the_petropolis_treaty,319
+tests/countries/test_brazil.py,Conditional Test Logic,test_signing_of_the_petropolis_treaty,320
+tests/countries/test_brazil.py,Conditional Test Logic,test_saint_johns_day,341
+tests/countries/test_brazil.py,Conditional Test Logic,test_saint_johns_day,342
+tests/countries/test_brazil.py,Conditional Test Logic,test_saint_peters_day,352
+tests/countries/test_brazil.py,Conditional Test Logic,test_saint_peters_day,353
+tests/countries/test_brazil.py,Conditional Test Logic,test_political_emancipation_of_algoas,363
+tests/countries/test_brazil.py,Conditional Test Logic,test_political_emancipation_of_algoas,364
+tests/countries/test_brazil.py,Conditional Test Logic,test_elevation_of_amazonas_to_province,374
+tests/countries/test_brazil.py,Conditional Test Logic,test_elevation_of_amazonas_to_province,375
+tests/countries/test_brazil.py,Conditional Test Logic,test_saint_josephs_day,385
+tests/countries/test_brazil.py,Conditional Test Logic,test_saint_james_day,402
+tests/countries/test_brazil.py,Conditional Test Logic,test_saint_james_day,403
+tests/countries/test_brazil.py,Conditional Test Logic,test_creation_of_the_federal_territory,414
+tests/countries/test_brazil.py,Conditional Test Logic,test_creation_of_the_federal_territory,415
+tests/countries/test_brazil.py,Conditional Test Logic,test_bahia_independence_day,425
+tests/countries/test_brazil.py,Conditional Test Logic,test_bahia_independence_day,426
+tests/countries/test_brazil.py,Conditional Test Logic,test_abolition_of_slavery_in_ceara,436
+tests/countries/test_brazil.py,Conditional Test Logic,test_abolition_of_slavery_in_ceara,437
+tests/countries/test_brazil.py,Conditional Test Logic,test_our_lady_of_assumption,447
+tests/countries/test_brazil.py,Conditional Test Logic,test_our_lady_of_assumption,448
+tests/countries/test_brazil.py,Conditional Test Logic,test_foundation_of_brasilia,459
+tests/countries/test_brazil.py,Conditional Test Logic,test_foundation_of_brasilia,460
+tests/countries/test_brazil.py,Conditional Test Logic,test_our_lady_of_penha,470
+tests/countries/test_brazil.py,Conditional Test Logic,test_our_lady_of_penha,471
+tests/countries/test_brazil.py,Conditional Test Logic,test_foundation_of_goias_city,489
+tests/countries/test_brazil.py,Conditional Test Logic,test_foundation_of_goias_city,490
+tests/countries/test_brazil.py,Conditional Test Logic,test_foundation_of_goiania,500
+tests/countries/test_brazil.py,Conditional Test Logic,test_foundation_of_goiania,501
+tests/countries/test_brazil.py,Conditional Test Logic,test_maranhao_joining_to_independence_of_brazil,511
+tests/countries/test_brazil.py,Conditional Test Logic,test_maranhao_joining_to_independence_of_brazil,512
+tests/countries/test_brazil.py,Conditional Test Logic,test_tiradentes_execution,522
+tests/countries/test_brazil.py,Conditional Test Logic,test_tiradentes_execution,523
+tests/countries/test_brazil.py,Conditional Test Logic,test_state_creation_day,533
+tests/countries/test_brazil.py,Conditional Test Logic,test_grao_para_joining_to_independence_of_brazil,553
+tests/countries/test_brazil.py,Conditional Test Logic,test_grao_para_joining_to_independence_of_brazil,554
+tests/countries/test_brazil.py,Conditional Test Logic,test_state_founding_day,564
+tests/countries/test_brazil.py,Conditional Test Logic,test_state_founding_day,565
+tests/countries/test_brazil.py,Conditional Test Logic,test_pernambuco_revolution,575
+tests/countries/test_brazil.py,Conditional Test Logic,test_pernambuco_revolution,576
+tests/countries/test_brazil.py,Conditional Test Logic,test_piaui_day,601
+tests/countries/test_brazil.py,Conditional Test Logic,test_piaui_day,602
+tests/countries/test_brazil.py,Conditional Test Logic,test_our_lady_of_rocio,612
+tests/countries/test_brazil.py,Conditional Test Logic,test_our_lady_of_rocio,613
+tests/countries/test_brazil.py,Conditional Test Logic,test_political_emancipation_of_parana,624
+tests/countries/test_brazil.py,Conditional Test Logic,test_political_emancipation_of_parana,625
+tests/countries/test_brazil.py,Conditional Test Logic,test_saint_georges_day,636
+tests/countries/test_brazil.py,Conditional Test Logic,test_saint_georges_day,637
+tests/countries/test_brazil.py,Conditional Test Logic,test_rio_grande_de_norte_day,648
+tests/countries/test_brazil.py,Conditional Test Logic,test_rio_grande_de_norte_day,649
+tests/countries/test_brazil.py,Conditional Test Logic,test_uruacu_and_cunhua_martyrs_day,660
+tests/countries/test_brazil.py,Conditional Test Logic,test_uruacu_and_cunhua_martyrs_day,661
+tests/countries/test_brazil.py,Conditional Test Logic,test_gaucho_day,672
+tests/countries/test_brazil.py,Conditional Test Logic,test_gaucho_day,673
+tests/countries/test_brazil.py,Conditional Test Logic,test_santa_catarina_state_day,683
+tests/countries/test_brazil.py,Conditional Test Logic,test_santa_catarina_state_day,684
+tests/countries/test_brazil.py,Conditional Test Logic,test_saint_catherine_of_alexandria_day,708
+tests/countries/test_brazil.py,Conditional Test Logic,test_saint_catherine_of_alexandria_day,709
+tests/countries/test_brazil.py,Conditional Test Logic,test_political_emancipation_of_sergipe,735
+tests/countries/test_brazil.py,Conditional Test Logic,test_political_emancipation_of_sergipe,736
+tests/countries/test_brazil.py,Conditional Test Logic,test_constitutionalist_revolution,746
+tests/countries/test_brazil.py,Conditional Test Logic,test_constitutionalist_revolution,747
+tests/countries/test_brazil.py,Conditional Test Logic,test_sao_paulo_city_anniversary,758
+tests/countries/test_brazil.py,Conditional Test Logic,test_sao_paulo_city_anniversary,759
+tests/countries/test_brazil.py,Conditional Test Logic,test_autonomy_day,770
+tests/countries/test_brazil.py,Conditional Test Logic,test_autonomy_day,771
+tests/countries/test_brazil.py,Conditional Test Logic,test_our_lady_of_nativity,782
+tests/countries/test_brazil.py,Conditional Test Logic,test_our_lady_of_nativity,783
+tests/countries/test_brazil.py,Verbose Test,test_l10n_default,790;849
+tests/countries/test_brazil.py,Verbose Test,test_l10n_en_us,851;908
+tests/countries/test_brazil.py,Verbose Test,test_l10n_uk,910;970
+tests/countries/test_bulgaria.py,Verbose Test,test_substituted_holidays,39;85
+tests/countries/test_bulgaria.py,Verbose Test,test_workdays,87;133
+tests/countries/test_cabo_verde.py,Conditional Test Logic,test_brava_municipality_day,146
+tests/countries/test_cabo_verde.py,Conditional Test Logic,test_brava_municipality_day,147
+tests/countries/test_cabo_verde.py,Conditional Test Logic,test_boa_vista_municipality_day,158
+tests/countries/test_cabo_verde.py,Conditional Test Logic,test_boa_vista_municipality_day,159
+tests/countries/test_cabo_verde.py,Conditional Test Logic,test_santa_catarina_de_santiago_municipality_day,170
+tests/countries/test_cabo_verde.py,Conditional Test Logic,test_santa_catarina_de_santiago_municipality_day,171
+tests/countries/test_cabo_verde.py,Conditional Test Logic,test_santa_catarina_do_fogo_municipality_day,182
+tests/countries/test_cabo_verde.py,Conditional Test Logic,test_santa_catarina_do_fogo_municipality_day,183
+tests/countries/test_cabo_verde.py,Conditional Test Logic,test_santa_cruz_municipality_day,194
+tests/countries/test_cabo_verde.py,Conditional Test Logic,test_santa_cruz_municipality_day,195
+tests/countries/test_cabo_verde.py,Conditional Test Logic,test_maio_municipality_day,206
+tests/countries/test_cabo_verde.py,Conditional Test Logic,test_maio_municipality_day,207
+tests/countries/test_cabo_verde.py,Conditional Test Logic,test_mosteiros_municipality_day,218
+tests/countries/test_cabo_verde.py,Conditional Test Logic,test_mosteiros_municipality_day,219
+tests/countries/test_cabo_verde.py,Conditional Test Logic,test_santo_antao_island_day,230
+tests/countries/test_cabo_verde.py,Conditional Test Logic,test_santo_antao_island_day,231
+tests/countries/test_cabo_verde.py,Conditional Test Logic,test_paul_municipality_day,242
+tests/countries/test_cabo_verde.py,Conditional Test Logic,test_paul_municipality_day,243
+tests/countries/test_cabo_verde.py,Conditional Test Logic,test_porto_novo_municipality_day,254
+tests/countries/test_cabo_verde.py,Conditional Test Logic,test_porto_novo_municipality_day,255
+tests/countries/test_cabo_verde.py,Conditional Test Logic,test_praia_municipality_day,266
+tests/countries/test_cabo_verde.py,Conditional Test Logic,test_praia_municipality_day,267
+tests/countries/test_cabo_verde.py,Conditional Test Logic,test_ribeira_brava_municipality_day,278
+tests/countries/test_cabo_verde.py,Conditional Test Logic,test_ribeira_brava_municipality_day,279
+tests/countries/test_cabo_verde.py,Conditional Test Logic,test_ribeira_grande_municipality_day,290
+tests/countries/test_cabo_verde.py,Conditional Test Logic,test_ribeira_grande_municipality_day,291
+tests/countries/test_cabo_verde.py,Conditional Test Logic,test_ribeira_grande_de_santiago_municipality_day,302
+tests/countries/test_cabo_verde.py,Conditional Test Logic,test_ribeira_grande_de_santiago_municipality_day,303
+tests/countries/test_cabo_verde.py,Conditional Test Logic,test_sao_domingos_municipality_day,314
+tests/countries/test_cabo_verde.py,Conditional Test Logic,test_sao_domingos_municipality_day,315
+tests/countries/test_cabo_verde.py,Conditional Test Logic,test_sao_filipe_municipality_day,326
+tests/countries/test_cabo_verde.py,Conditional Test Logic,test_sao_filipe_municipality_day,327
+tests/countries/test_cabo_verde.py,Conditional Test Logic,test_sal_municipality_day,338
+tests/countries/test_cabo_verde.py,Conditional Test Logic,test_sal_municipality_day,339
+tests/countries/test_cabo_verde.py,Conditional Test Logic,test_sao_miguel_municipality_day,350
+tests/countries/test_cabo_verde.py,Conditional Test Logic,test_sao_miguel_municipality_day,351
+tests/countries/test_cabo_verde.py,Conditional Test Logic,test_sao_lourenco_dos_orgaos_municipality_day,362
+tests/countries/test_cabo_verde.py,Conditional Test Logic,test_sao_lourenco_dos_orgaos_municipality_day,363
+tests/countries/test_cabo_verde.py,Conditional Test Logic,test_sao_salvador_do_mundo_municipality_day,374
+tests/countries/test_cabo_verde.py,Conditional Test Logic,test_sao_salvador_do_mundo_municipality_day,375
+tests/countries/test_cabo_verde.py,Conditional Test Logic,test_sao_vicente_municipality_day,386
+tests/countries/test_cabo_verde.py,Conditional Test Logic,test_sao_vicente_municipality_day,387
+tests/countries/test_cabo_verde.py,Conditional Test Logic,test_carnival_tuesday,398
+tests/countries/test_cabo_verde.py,Conditional Test Logic,test_carnival_tuesday,399
+tests/countries/test_cabo_verde.py,Conditional Test Logic,test_tarrafal_de_santiago_municipality_day,418
+tests/countries/test_cabo_verde.py,Conditional Test Logic,test_tarrafal_de_santiago_municipality_day,419
+tests/countries/test_cabo_verde.py,Conditional Test Logic,test_tarrafal_de_sao_nicolau_municipality_day,430
+tests/countries/test_cabo_verde.py,Conditional Test Logic,test_tarrafal_de_sao_nicolau_municipality_day,431
+tests/countries/test_cambodia.py,Conditional Test Logic,test_khmer_new_year,131
+tests/countries/test_cambodia.py,Conditional Test Logic,test_khmer_new_year,132
+tests/countries/test_cambodia.py,Conditional Test Logic,test_khmer_new_year,141
+tests/countries/test_cambodia.py,Conditional Test Logic,test_khmer_new_year,142
+tests/countries/test_canada.py,Conditional Test Logic,test_new_years_day,29
+tests/countries/test_canada.py,Conditional Test Logic,test_new_years_day,41
+tests/countries/test_canada.py,Conditional Test Logic,test_good_friday,66
+tests/countries/test_canada.py,Conditional Test Logic,test_canada_day,97
+tests/countries/test_canada.py,Conditional Test Logic,test_labor_day,133
+tests/countries/test_canada.py,Conditional Test Logic,test_christmas_day,142
+tests/countries/test_canada.py,Conditional Test Logic,test_christmas_day,171
+tests/countries/test_canada.py,Conditional Test Logic,test_victoria_day,212
+tests/countries/test_canada.py,Conditional Test Logic,test_victoria_day,213
+tests/countries/test_canada.py,Conditional Test Logic,test_national_day_for_truth_and_reconciliation,250
+tests/countries/test_canada.py,Conditional Test Logic,test_national_day_for_truth_and_reconciliation,251
+tests/countries/test_canada.py,Conditional Test Logic,test_thanksgiving_day,324
+tests/countries/test_canada.py,Conditional Test Logic,test_thanksgiving_day,325
+tests/countries/test_canada.py,Conditional Test Logic,test_thanksgiving_day,337
+tests/countries/test_canada.py,Conditional Test Logic,test_remembrance_day,361
+tests/countries/test_canada.py,Conditional Test Logic,test_remembrance_day,362
+tests/countries/test_canada.py,Conditional Test Logic,test_remembrance_day,371
+tests/countries/test_canada.py,Conditional Test Logic,test_boxing_day,409
+tests/countries/test_canada.py,Conditional Test Logic,test_family_day,470
+tests/countries/test_canada.py,Conditional Test Logic,test_family_day,472
+tests/countries/test_canada.py,Conditional Test Logic,test_family_day,473
+tests/countries/test_canada.py,Conditional Test Logic,test_family_day,479
+tests/countries/test_canada.py,Conditional Test Logic,test_easter_monday,510
+tests/countries/test_canada.py,Conditional Test Logic,test_easter_monday,514
+tests/countries/test_canada.py,Conditional Test Logic,test_queens_funeral,815
+tests/countries/test_canada.py,Conditional Test Logic,test_queens_funeral,816
+tests/countries/test_canada.py,Conditional Test Logic,test_all_holidays_present,860
+tests/countries/test_canada.py,Verbose Test,test_national_day_for_truth_and_reconciliation,225;278
+tests/countries/test_canada.py,Verbose Test,test_thanksgiving_day,280;339
+tests/countries/test_canada.py,Verbose Test,test_remembrance_day,341;386
+tests/countries/test_canada.py,Verbose Test,test_family_day,418;490
+tests/countries/test_central_african_republic.py,Conditional Test Logic,test_national_day,96
+tests/countries/test_chile.py,Conditional Test Logic,test_saint_peter_and_paul,159
+tests/countries/test_chile.py,Conditional Test Logic,test_assault_and_capture_of_cape_arica,382
+tests/countries/test_chile.py,Conditional Test Logic,test_assault_and_capture_of_cape_arica,383
+tests/countries/test_chile.py,Conditional Test Logic,test_nativity_of_bernado_o_higgins_chillan_and_chillan_viejo_commune,394
+tests/countries/test_chile.py,Conditional Test Logic,test_nativity_of_bernado_o_higgins_chillan_and_chillan_viejo_commune,395
+tests/countries/test_china.py,Conditional Test Logic,test_workdays,374
+tests/countries/test_china.py,Verbose Test,test_substituted_holidays,24;197
+tests/countries/test_china.py,Verbose Test,test_workdays,199;413
+tests/countries/test_cocos_islands.py,Conditional Test Logic,test_act_of_self_determination_day,62
+tests/countries/test_croatia.py,Conditional Test Logic,test_epiphany,33
+tests/countries/test_cuba.py,Conditional Test Logic,test_christmas_day,62
+tests/countries/test_egypt.py,Conditional Test Logic,test_labor_day,105
+tests/countries/test_egypt.py,Verbose Test,test_eid_al_fitr,187;235
+tests/countries/test_egypt.py,Verbose Test,test_eid_al_adha,250;295
+tests/countries/test_equatorial_guinea.py,Conditional Test Logic,test_subdivision_holidays,188
+tests/countries/test_equatorial_guinea.py,Conditional Test Logic,test_subdivision_holidays,189
+tests/countries/test_finland.py,Conditional Test Logic,test_epiphany,56
+tests/countries/test_finland.py,Conditional Test Logic,_test_categorized_holiday,241
+tests/countries/test_finland.py,Conditional Test Logic,_test_categorized_holiday,251
+tests/countries/test_finland.py,Unknown Test,test_runeberg_day,260
+tests/countries/test_finland.py,Unknown Test,test_kalevala_day_day_of_finnish_culture,263
+tests/countries/test_finland.py,Unknown Test,test_minna_canth_day_day_of_equality,266
+tests/countries/test_finland.py,Unknown Test,test_mikael_agricola_day_day_of_finnish_language,269
+tests/countries/test_finland.py,Unknown Test,test_national_war_veterans_day,272
+tests/countries/test_finland.py,Unknown Test,test_europe_day,275
+tests/countries/test_finland.py,Unknown Test,test_j_v_snellmans_day_day_of_finnish_heritage,291
+tests/countries/test_finland.py,Unknown Test,test_flag_day_of_the_finnish_defense_forces,309
+tests/countries/test_finland.py,Unknown Test,test_eino_leino_day_day_of_summer_and_poetry,313
+tests/countries/test_finland.py,Unknown Test,test_miina_sillanpaa_day_day_of_civic_participation,329
+tests/countries/test_finland.py,Unknown Test,test_aleksis_kivi_day_day_of_finnish_literature,334
+tests/countries/test_finland.py,Unknown Test,test_united_nations_day,340
+tests/countries/test_finland.py,Unknown Test,test_finnish_swedish_heritage_day_svenska_dagen,343
+tests/countries/test_finland.py,Unknown Test,test_day_of_childrens_rights,372
+tests/countries/test_finland.py,Unknown Test,test_jean_sibelius_day_day_of_finnish_music,375
+tests/countries/test_finland.py,Undefined Test,_test_categorized_holiday,240
+tests/countries/test_france.py,Conditional Test Logic,test_good_friday,178
+tests/countries/test_france.py,Conditional Test Logic,test_saint_stephens_day,195
+tests/countries/test_france.py,Conditional Test Logic,test_saint_stephens_day,197
+tests/countries/test_france.py,Conditional Test Logic,test_mi_careme,208
+tests/countries/test_france.py,Conditional Test Logic,test_mi_careme,219
+tests/countries/test_france.py,Conditional Test Logic,test_abolition_of_slavery,228
+tests/countries/test_france.py,Conditional Test Logic,test_victor_schoelcher_day,278
+tests/countries/test_france.py,Conditional Test Logic,test_citizenship_day,300
+tests/countries/test_france.py,Conditional Test Logic,test_citizenship_day,302
+tests/countries/test_france.py,Conditional Test Logic,test_missionary_day,320
+tests/countries/test_france.py,Conditional Test Logic,test_missionary_day,322
+tests/countries/test_france.py,Conditional Test Logic,test_internal_autonomy_day,333
+tests/countries/test_france.py,Conditional Test Logic,test_internal_autonomy_day,335
+tests/countries/test_france.py,Conditional Test Logic,test_matarii,348
+tests/countries/test_france.py,Conditional Test Logic,test_matarii,350
+tests/countries/test_france.py,Conditional Test Logic,test_feast_of_saint_peter_chanel,361
+tests/countries/test_france.py,Conditional Test Logic,test_feast_of_saint_peter_chanel,363
+tests/countries/test_france.py,Conditional Test Logic,test_saints_peter_and_paul_day,374
+tests/countries/test_france.py,Conditional Test Logic,test_saints_peter_and_paul_day,376
+tests/countries/test_france.py,Conditional Test Logic,test_territory_day,387
+tests/countries/test_france.py,Conditional Test Logic,test_territory_day,389
+tests/countries/test_france.py,Verbose Test,test_abolition_of_slavery,225;273
+tests/countries/test_germany.py,Conditional Test Logic,test_no_holidays,43
+tests/countries/test_germany.py,Conditional Test Logic,test_no_holidays,48
+tests/countries/test_germany.py,Conditional Test Logic,test_special_holidays,61
+tests/countries/test_germany.py,Conditional Test Logic,test_special_holidays,63
+tests/countries/test_germany.py,Conditional Test Logic,test_epiphany,74
+tests/countries/test_germany.py,Conditional Test Logic,test_epiphany,76
+tests/countries/test_germany.py,Conditional Test Logic,test_womens_day,86
+tests/countries/test_germany.py,Conditional Test Logic,test_easter_sunday,119
+tests/countries/test_germany.py,Conditional Test Logic,test_easter_sunday,121
+tests/countries/test_germany.py,Conditional Test Logic,test_whit_sunday,168
+tests/countries/test_germany.py,Conditional Test Logic,test_whit_sunday,170
+tests/countries/test_germany.py,Conditional Test Logic,test_corpus_christi,209
+tests/countries/test_germany.py,Conditional Test Logic,test_corpus_christi,212
+tests/countries/test_germany.py,Conditional Test Logic,test_augsburg_peace_festival,227
+tests/countries/test_germany.py,Conditional Test Logic,test_augsburg_peace_festival,229
+tests/countries/test_germany.py,Conditional Test Logic,test_assumption_day,239
+tests/countries/test_germany.py,Conditional Test Logic,test_assumption_day,241
+tests/countries/test_germany.py,Conditional Test Logic,test_world_childrens_day,254
+tests/countries/test_germany.py,Conditional Test Logic,test_world_childrens_day,256
+tests/countries/test_germany.py,Conditional Test Logic,test_reformation_day,271
+tests/countries/test_germany.py,Conditional Test Logic,test_all_saints_day,296
+tests/countries/test_germany.py,Conditional Test Logic,test_all_saints_day,298
+tests/countries/test_germany.py,Conditional Test Logic,test_repentance_and_prayer_day,321
+tests/countries/test_germany.py,Conditional Test Logic,test_repentance_and_prayer_day,323
+tests/countries/test_germany.py,Conditional Test Logic,test_all_states_present_for_all_dataset_years,344
+tests/countries/test_germany.py,Conditional Test Logic,test_all_school_holiday_ids_are_mapped,351
+tests/countries/test_germany.py,Conditional Test Logic,test_all_school_holiday_ids_are_mapped,352
+tests/countries/test_germany.py,Conditional Test Logic,test_all_school_holiday_ids_are_mapped,353
+tests/countries/test_germany.py,Conditional Test Logic,test_l10n_default_school,608
+tests/countries/test_germany.py,Conditional Test Logic,test_l10n_en_us_school,620
+tests/countries/test_germany.py,Conditional Test Logic,test_l10n_th_school,632
+tests/countries/test_germany.py,Conditional Test Logic,test_l10n_uk_school,644
+tests/countries/test_germany.py,Verbose Test,test_school_holidays,357;449
+tests/countries/test_ghana.py,Conditional Test Logic,test_republic_day,115
+tests/countries/test_gibraltar.py,Conditional Test Logic,test_special_holidays,25
+tests/countries/test_gibraltar.py,Conditional Test Logic,test_may_day,125
+tests/countries/test_gibraltar.py,Conditional Test Logic,test_national_day,216
+tests/countries/test_greece.py,Conditional Test Logic,test_labor_day,81
+tests/countries/test_guernsey.py,Verbose Test,test_his_majestys_birthday,158;203
+tests/countries/test_guyana.py,Conditional Test Logic,test_independence_day,46
+tests/countries/test_hongkong.py,Conditional Test Logic,test_new_years_day,92
+tests/countries/test_hongkong.py,Conditional Test Logic,test_new_years_day,93
+tests/countries/test_hongkong.py,Conditional Test Logic,test_chinese_new_year,150
+tests/countries/test_hongkong.py,Conditional Test Logic,test_chinese_new_year,151
+tests/countries/test_hongkong.py,Conditional Test Logic,test_chinese_new_year,182
+tests/countries/test_hongkong.py,Conditional Test Logic,test_chinese_new_year,183
+tests/countries/test_hongkong.py,Conditional Test Logic,test_easter_monday,375
+tests/countries/test_hongkong.py,Conditional Test Logic,test_easter_monday,376
+tests/countries/test_hongkong.py,Conditional Test Logic,test_national_day,844
+tests/countries/test_hongkong.py,Conditional Test Logic,test_national_day,845
+tests/countries/test_hongkong.py,Conditional Test Logic,test_christmas_day,974
+tests/countries/test_hongkong.py,Conditional Test Logic,test_christmas_day,975
+tests/countries/test_hongkong.py,Conditional Test Logic,test_christmas_day,1000
+tests/countries/test_hongkong.py,Conditional Test Logic,test_christmas_day,1001
+tests/countries/test_hongkong.py,Verbose Test,test_new_years_day,51;96
+tests/countries/test_hongkong.py,Verbose Test,test_chinese_new_year,98;251
+tests/countries/test_hongkong.py,Verbose Test,test_easter_monday,331;384
+tests/countries/test_hongkong.py,Verbose Test,test_tomb_sweeping_day,386;475
+tests/countries/test_hongkong.py,Verbose Test,test_the_buddhas_birthday,477;536
+tests/countries/test_hongkong.py,Verbose Test,test_dragon_boat_festival,562;628
+tests/countries/test_hongkong.py,Verbose Test,test_mid_autumn_festival,654;725
+tests/countries/test_hongkong.py,Verbose Test,test_double_ninth_festival,727;820
+tests/countries/test_hongkong.py,Verbose Test,test_winter_solstice,864;913
+tests/countries/test_hongkong.py,Verbose Test,test_christmas_day,915;1004
+tests/countries/test_hungary.py,Conditional Test Logic,test_foundation_day,301
+tests/countries/test_hungary.py,Conditional Test Logic,test_national_day,313
+tests/countries/test_hungary.py,Conditional Test Logic,test_christmas_day_two,333
+tests/countries/test_hungary.py,Verbose Test,test_substituted_holidays,24;108
+tests/countries/test_hungary.py,Verbose Test,test_workdays,110;194
+tests/countries/test_india.py,Conditional Test Logic,test_deprecated,43
+tests/countries/test_india.py,Conditional Test Logic,test_hindu_calendar_out_of_range_warning,55
+tests/countries/test_india.py,Conditional Test Logic,_assertHinduHolidayHelper,99
+tests/countries/test_india.py,Conditional Test Logic,_assertHinduHolidayHelper,112
+tests/countries/test_india.py,Conditional Test Logic,_assertHinduHolidayHelper,113
+tests/countries/test_india.py,Conditional Test Logic,_assertHinduHolidayHelper,114
+tests/countries/test_india.py,Conditional Test Logic,_assertHinduHolidayHelper,121
+tests/countries/test_india.py,Conditional Test Logic,test_chhatrapati_shivaji_maharaj_jayanti,539
+tests/countries/test_india.py,Conditional Test Logic,test_chhatrapati_shivaji_maharaj_jayanti,540
+tests/countries/test_india.py,Conditional Test Logic,test_vaisakhadi,634
+tests/countries/test_india.py,Conditional Test Logic,test_vaisakhadi,635
+tests/countries/test_india.py,Conditional Test Logic,test_rabindranath_jayanti,699
+tests/countries/test_india.py,Conditional Test Logic,test_rabindranath_jayanti,700
+tests/countries/test_india.py,Conditional Test Logic,test_parsi_new_year_shahenshahi,757
+tests/countries/test_india.py,Conditional Test Logic,test_parsi_new_year_shahenshahi,758
+tests/countries/test_india.py,Conditional Test Logic,test_guru_tegh_bahadurs_martyrdom_day,1024
+tests/countries/test_india.py,Conditional Test Logic,test_guru_tegh_bahadurs_martyrdom_day,1025
+tests/countries/test_india.py,Conditional Test Logic,test_christmas_eve,1082
+tests/countries/test_india.py,Conditional Test Logic,test_christmas_eve,1083
+tests/countries/test_india.py,Conditional Test Logic,test_christmas_day_two,1099
+tests/countries/test_india.py,Conditional Test Logic,test_christmas_day_two,1100
+tests/countries/test_india.py,Conditional Test Logic,test_post_new_year,1149
+tests/countries/test_india.py,Conditional Test Logic,test_post_new_year,1150
+tests/countries/test_india.py,Conditional Test Logic,test_missionary_day,1177
+tests/countries/test_india.py,Conditional Test Logic,test_missionary_day,1178
+tests/countries/test_india.py,Conditional Test Logic,test_netaji_subhas_chandra_bose_jayanti,1233
+tests/countries/test_india.py,Conditional Test Logic,test_netaji_subhas_chandra_bose_jayanti,1234
+tests/countries/test_india.py,Conditional Test Logic,test_statehood_day,1281
+tests/countries/test_india.py,Conditional Test Logic,test_statehood_day,1282
+tests/countries/test_india.py,Conditional Test Logic,test_veerangana_avantibai_shaheedi_diwas,1331
+tests/countries/test_india.py,Conditional Test Logic,test_veerangana_avantibai_shaheedi_diwas,1332
+tests/countries/test_india.py,Conditional Test Logic,test_nauroz,1376
+tests/countries/test_india.py,Conditional Test Logic,test_nauroz,1377
+tests/countries/test_india.py,Conditional Test Logic,test_bihar_day,1386
+tests/countries/test_india.py,Conditional Test Logic,test_bihar_day,1387
+tests/countries/test_india.py,Conditional Test Logic,test_shaheedi_diwas,1397
+tests/countries/test_india.py,Conditional Test Logic,test_shaheedi_diwas,1398
+tests/countries/test_india.py,Conditional Test Logic,test_odisha_day,1408
+tests/countries/test_india.py,Conditional Test Logic,test_odisha_day,1409
+tests/countries/test_india.py,Conditional Test Logic,test_babu_jagjivan_ram_jayanti,1419
+tests/countries/test_india.py,Conditional Test Logic,test_babu_jagjivan_ram_jayanti,1420
+tests/countries/test_india.py,Conditional Test Logic,test_guru_nabha_das_birthday,1430
+tests/countries/test_india.py,Conditional Test Logic,test_guru_nabha_das_birthday,1431
+tests/countries/test_india.py,Conditional Test Logic,test_jyotiba_phule_birthday,1442
+tests/countries/test_india.py,Conditional Test Logic,test_jyotiba_phule_birthday,1443
+tests/countries/test_india.py,Conditional Test Logic,test_puthandu,1468
+tests/countries/test_india.py,Conditional Test Logic,test_puthandu,1469
+tests/countries/test_india.py,Conditional Test Logic,test_himachal_day,1479
+tests/countries/test_india.py,Conditional Test Logic,test_himachal_day,1480
+tests/countries/test_india.py,Conditional Test Logic,test_maha_vishuva_sankranti,1490
+tests/countries/test_india.py,Conditional Test Logic,test_maha_vishuva_sankranti,1491
+tests/countries/test_india.py,Conditional Test Logic,test_pohela_boishakh,1509
+tests/countries/test_india.py,Conditional Test Logic,test_pohela_boishakh,1510
+tests/countries/test_india.py,Conditional Test Logic,test_garia_puja,1528
+tests/countries/test_india.py,Conditional Test Logic,test_garia_puja,1529
+tests/countries/test_india.py,Conditional Test Logic,test_may_day,1598
+tests/countries/test_india.py,Conditional Test Logic,test_may_day,1599
+tests/countries/test_india.py,Conditional Test Logic,test_sikkim_state_day,1622
+tests/countries/test_india.py,Conditional Test Logic,test_sikkim_state_day,1623
+tests/countries/test_india.py,Conditional Test Logic,test_young_mizo_association_day,1710
+tests/countries/test_india.py,Conditional Test Logic,test_young_mizo_association_day,1711
+tests/countries/test_india.py,Conditional Test Logic,test_remna_ni,1732
+tests/countries/test_india.py,Conditional Test Logic,test_remna_ni,1733
+tests/countries/test_india.py,Conditional Test Logic,test_mizo_hmeichhe_insuihkhawm_pawls_day,1784
+tests/countries/test_india.py,Conditional Test Logic,test_mizo_hmeichhe_insuihkhawm_pawls_day,1785
+tests/countries/test_india.py,Conditional Test Logic,test_harela,1795
+tests/countries/test_india.py,Conditional Test Logic,test_harela,1796
+tests/countries/test_india.py,Conditional Test Logic,test_udham_singh_martyrdom_day,1806
+tests/countries/test_india.py,Conditional Test Logic,test_udham_singh_martyrdom_day,1807
+tests/countries/test_india.py,Conditional Test Logic,test_maharaja_bir_bikram_kishore_manikya_bahadur_jayanti,1898
+tests/countries/test_india.py,Conditional Test Logic,test_maharaja_bir_bikram_kishore_manikya_bahadur_jayanti,1899
+tests/countries/test_india.py,Conditional Test Logic,test_indigenous_peoples_day,1947
+tests/countries/test_india.py,Conditional Test Logic,test_indigenous_peoples_day,1948
+tests/countries/test_india.py,Conditional Test Logic,test_puducherry_de_jure_transfer_day,1963
+tests/countries/test_india.py,Conditional Test Logic,test_puducherry_de_jure_transfer_day,1964
+tests/countries/test_india.py,Conditional Test Logic,test_khejarli_martyrdom_day,1974
+tests/countries/test_india.py,Conditional Test Logic,test_khejarli_martyrdom_day,1975
+tests/countries/test_india.py,Conditional Test Logic,test_hari_singh_birthday,1985
+tests/countries/test_india.py,Conditional Test Logic,test_hari_singh_birthday,1986
+tests/countries/test_india.py,Conditional Test Logic,test_haryana_war_heroes_martyrdom_day,1996
+tests/countries/test_india.py,Conditional Test Logic,test_haryana_war_heroes_martyrdom_day,1997
+tests/countries/test_india.py,Conditional Test Logic,test_accession_day,2036
+tests/countries/test_india.py,Conditional Test Logic,test_accession_day,2037
+tests/countries/test_india.py,Conditional Test Logic,test_sardar_vallabhbhai_patel_jayanti,2049
+tests/countries/test_india.py,Conditional Test Logic,test_sardar_vallabhbhai_patel_jayanti,2050
+tests/countries/test_india.py,Conditional Test Logic,test_haryana_foundation_day,2064
+tests/countries/test_india.py,Conditional Test Logic,test_haryana_foundation_day,2065
+tests/countries/test_india.py,Conditional Test Logic,test_kerala_foundation_day,2075
+tests/countries/test_india.py,Conditional Test Logic,test_kerala_foundation_day,2076
+tests/countries/test_india.py,Conditional Test Logic,test_puducherry_liberation_day,2086
+tests/countries/test_india.py,Conditional Test Logic,test_puducherry_liberation_day,2087
+tests/countries/test_india.py,Conditional Test Logic,test_jharkhand_formation_day,2111
+tests/countries/test_india.py,Conditional Test Logic,test_jharkhand_formation_day,2112
+tests/countries/test_india.py,Conditional Test Logic,test_kartar_singh_martyrdom_day,2131
+tests/countries/test_india.py,Conditional Test Logic,test_kartar_singh_martyrdom_day,2132
+tests/countries/test_india.py,Conditional Test Logic,test_feast_of_st_francois_xavier,2152
+tests/countries/test_india.py,Conditional Test Logic,test_feast_of_st_francois_xavier,2153
+tests/countries/test_india.py,Conditional Test Logic,test_goa_liberation_day,2168
+tests/countries/test_india.py,Conditional Test Logic,test_goa_liberation_day,2169
+tests/countries/test_india.py,Conditional Test Logic,test_indigenous_faith_day,2268
+tests/countries/test_india.py,Conditional Test Logic,test_indigenous_faith_day,2269
+tests/countries/test_india.py,Conditional Test Logic,test_jor_mela_fatehgarh_sahib,2339
+tests/countries/test_india.py,Conditional Test Logic,test_jor_mela_fatehgarh_sahib,2340
+tests/countries/test_india.py,Conditional Test Logic,test_new_years_eve,2352
+tests/countries/test_india.py,Conditional Test Logic,test_new_years_eve,2353
+tests/countries/test_india.py,Exception Handling,_assertHinduHolidayHelper,107
+tests/countries/test_india.py,Unknown Test,test_ram_navami,210
+tests/countries/test_india.py,Unknown Test,test_mahavir_jayanti,232
+tests/countries/test_india.py,Unknown Test,test_buddha_purnima,244
+tests/countries/test_india.py,Unknown Test,test_janmashtami,256
+tests/countries/test_india.py,Unknown Test,test_dussehra,296
+tests/countries/test_india.py,Unknown Test,test_diwali,308
+tests/countries/test_india.py,Unknown Test,test_guru_nanak_jayanti,320
+tests/countries/test_india.py,Unknown Test,test_guru_ravidas_birthday,519
+tests/countries/test_india.py,Unknown Test,test_swami_dayanand_saraswati_jayanti,547
+tests/countries/test_india.py,Unknown Test,test_vishu,676
+tests/countries/test_india.py,Unknown Test,test_onam,764
+tests/countries/test_india.py,Unknown Test,test_dussehra_saptami,821
+tests/countries/test_india.py,Unknown Test,test_dussehra_mahanavami,854
+tests/countries/test_india.py,Unknown Test,test_naraka_chaturdashi,936
+tests/countries/test_india.py,Unknown Test,test_vikram_samvat_new_year,965
+tests/countries/test_india.py,Unknown Test,test_thiruvalluvar_day_mattu_pongal,1201
+tests/countries/test_india.py,Unknown Test,test_uzhavar_thirunal,1213
+tests/countries/test_india.py,Unknown Test,test_hola_mohalla,1316
+tests/countries/test_india.py,Unknown Test,test_shri_vallabhacharya_jayanti,1339
+tests/countries/test_india.py,Unknown Test,test_chaitra_navratri,1352
+tests/countries/test_india.py,Unknown Test,test_adi_shankaracharya_jayanti,1560
+tests/countries/test_india.py,Unknown Test,test_maharana_pratap_jayanti,1630
+tests/countries/test_india.py,Unknown Test,test_guru_arjun_dev_martyrdom_day,1643
+tests/countries/test_india.py,Unknown Test,test_mahesh_navami,1655
+tests/countries/test_india.py,Unknown Test,test_nirjala_ekadashi,1668
+tests/countries/test_india.py,Unknown Test,test_naag_panchami,1757
+tests/countries/test_india.py,Unknown Test,test_harchath,1770
+tests/countries/test_india.py,Unknown Test,test_guru_purnima,1814
+tests/countries/test_india.py,Unknown Test,test_kharchi_puja,1858
+tests/countries/test_india.py,Unknown Test,test_ker_puja,1870
+tests/countries/test_india.py,Unknown Test,test_tulsidas_jayanti,1882
+tests/countries/test_india.py,Unknown Test,test_samvatsari_day,1906
+tests/countries/test_india.py,Unknown Test,test_dol_gyaras,1930
+tests/countries/test_india.py,Unknown Test,test_anant_chaturdashi,2188
+tests/countries/test_india.py,Unknown Test,test_vishwakarma_puja,2204
+tests/countries/test_india.py,Unknown Test,test_sarva_pitra_moksha_amavasya,2217
+tests/countries/test_india.py,Unknown Test,test_dattatreya_jayanti,2291
+tests/countries/test_india.py,Verbose Test,_assertHinduHolidayHelper,59;129
+tests/countries/test_india.py,Verbose Test,test_l10n_default,2394;2578
+tests/countries/test_india.py,Verbose Test,test_l10n_bn,2580;2788
+tests/countries/test_india.py,Verbose Test,test_l10n_en_us,2790;2978
+tests/countries/test_india.py,Verbose Test,test_l10n_gu,2980;3193
+tests/countries/test_india.py,Verbose Test,test_l10n_hi,3195;3405
+tests/countries/test_india.py,Verbose Test,test_l10n_kn,3407;3596
+tests/countries/test_india.py,Verbose Test,test_l10n_ml,3598;3805
+tests/countries/test_india.py,Verbose Test,test_l10n_mr,3807;4017
+tests/countries/test_india.py,Verbose Test,test_l10n_pa,4019;4232
+tests/countries/test_india.py,Verbose Test,test_l10n_ta,4234;4396
+tests/countries/test_india.py,Verbose Test,test_l10n_te,4398;4551
+tests/countries/test_india.py,Undefined Test,_assertHinduHolidayHelper,59
+tests/countries/test_indonesia.py,Verbose Test,test_special_government,47;200
+tests/countries/test_iraq.py,Verbose Test,test_l10n_en_us,419;468
+tests/countries/test_israel.py,Verbose Test,test_sukhot,56;107
+tests/countries/test_israel.py,Verbose Test,test_hanukkah,137;191
+tests/countries/test_israel.py,Verbose Test,test_pesach,255;318
+tests/countries/test_israel.py,Verbose Test,test_remembrance_day,320;375
+tests/countries/test_israel.py,Verbose Test,test_independence_day,377;430
+tests/countries/test_italy.py,Conditional Test Logic,test_epiphany_day,49
+tests/countries/test_italy.py,Conditional Test Logic,test_national_unity_day,270
+tests/countries/test_italy.py,Conditional Test Logic,test_immaculate_conception_day,298
+tests/countries/test_italy.py,Conditional Test Logic,test_no_subdiv_holidays,350
+tests/countries/test_italy.py,Conditional Test Logic,test_subdiv_specific_days,499
+tests/countries/test_italy.py,Conditional Test Logic,test_subdiv_specific_days,500
+tests/countries/test_italy.py,Verbose Test,test_subdiv_specific_days,353;501
+tests/countries/test_italy.py,Verbose Test,test_l10n_default,503;609
+tests/countries/test_italy.py,Verbose Test,test_l10n_en_us,611;724
+tests/countries/test_italy.py,Verbose Test,test_l10n_th,726;833
+tests/countries/test_japan.py,Conditional Test Logic,test_national_holiday,189
+tests/countries/test_japan.py,Conditional Test Logic,test_national_holiday,209
+tests/countries/test_japan.py,Verbose Test,test_vernal_equinox_day,59;168
+tests/countries/test_japan.py,Verbose Test,test_autumnal_equinox_day,271;378
+tests/countries/test_japan.py,Verbose Test,test_observed_holidays,438;575
+tests/countries/test_jordan.py,Conditional Test Logic,test_weekend,153
+tests/countries/test_jordan.py,Conditional Test Logic,test_weekend,161
+tests/countries/test_kazakhstan.py,Conditional Test Logic,test_workdays,134
+tests/countries/test_kazakhstan.py,Verbose Test,test_substituted_holidays,24;77
+tests/countries/test_kazakhstan.py,Verbose Test,test_workdays,79;141
+tests/countries/test_kiribati.py,Conditional Test Logic,test_public_holiday_may_9,107
+tests/countries/test_kuwait.py,Conditional Test Logic,test_weekend,168
+tests/countries/test_kuwait.py,Conditional Test Logic,test_weekend,177
+tests/countries/test_kyrgyzstan.py,Conditional Test Logic,test_workdays,206
+tests/countries/test_kyrgyzstan.py,Verbose Test,test_substituted_holidays,30;116
+tests/countries/test_kyrgyzstan.py,Verbose Test,test_workdays,118;234
+tests/countries/test_laos.py,Conditional Test Logic,test_laos_new_year_day,114
+tests/countries/test_laos.py,Conditional Test Logic,test_laos_new_year_day,115
+tests/countries/test_macau.py,Conditional Test Logic,test_new_years_eve,858
+tests/countries/test_macau.py,Verbose Test,test_chinese_new_year,446;556
+tests/countries/test_macau.py,Verbose Test,test_the_day_before_easter,619;670
+tests/countries/test_malaysia.py,Conditional Test Logic,test_2023,87
+tests/countries/test_malaysia.py,Conditional Test Logic,test_2023,89
+tests/countries/test_malaysia.py,Conditional Test Logic,test_special_subdiv_holidays,108
+tests/countries/test_malaysia.py,Conditional Test Logic,test_special_subdiv_holidays,122
+tests/countries/test_malaysia.py,Conditional Test Logic,test_special_subdiv_holidays,127
+tests/countries/test_malaysia.py,Conditional Test Logic,test_special_subdiv_holidays,136
+tests/countries/test_malaysia.py,Conditional Test Logic,test_new_years_day,147
+tests/countries/test_malaysia.py,Conditional Test Logic,test_federal_territory_day,172
+tests/countries/test_malaysia.py,Conditional Test Logic,test_federal_territory_day,173
+tests/countries/test_malaysia.py,Conditional Test Logic,test_federal_territory_day,181
+tests/countries/test_malaysia.py,Conditional Test Logic,test_good_friday,213
+tests/countries/test_malaysia.py,Conditional Test Logic,test_pesta_kaamatan,230
+tests/countries/test_malaysia.py,Conditional Test Logic,test_diwali,279
+tests/countries/test_malaysia.py,Conditional Test Logic,test_thaipusam,301
+tests/countries/test_malaysia.py,Conditional Test Logic,test_isra_and_miraj,406
+tests/countries/test_malaysia.py,Conditional Test Logic,test_beginning_of_ramadan,429
+tests/countries/test_malaysia.py,Conditional Test Logic,test_eid_al_fitr_third_day,444
+tests/countries/test_malaysia.py,Conditional Test Logic,test_eid_al_fitr_third_day,445
+tests/countries/test_malaysia.py,Conditional Test Logic,test_nuzul_al_quran_day,463
+tests/countries/test_malaysia.py,Conditional Test Logic,test_arafat_day,488
+tests/countries/test_malaysia.py,Conditional Test Logic,test_eid_al_adha_second_day,511
+tests/countries/test_malaysia.py,Conditional Test Logic,test_eid_al_adha_second_day,512
+tests/countries/test_malaysia.py,Conditional Test Logic,test_birthday_of_sultan_of_johor,552
+tests/countries/test_malaysia.py,Conditional Test Logic,test_birthday_of_sultan_of_johor,553
+tests/countries/test_malaysia.py,Conditional Test Logic,test_sultan_of_johor_hol,564
+tests/countries/test_malaysia.py,Conditional Test Logic,test_sultan_of_johor_hol,565
+tests/countries/test_malaysia.py,Conditional Test Logic,test_birthday_of_sultan_of_kedah,584
+tests/countries/test_malaysia.py,Conditional Test Logic,test_birthday_of_sultan_of_kedah,585
+tests/countries/test_malaysia.py,Conditional Test Logic,test_birthday_of_sultan_of_kelantan,610
+tests/countries/test_malaysia.py,Conditional Test Logic,test_birthday_of_sultan_of_kelantan,611
+tests/countries/test_malaysia.py,Conditional Test Logic,test_malacca_declaration_of_independence_day,637
+tests/countries/test_malaysia.py,Conditional Test Logic,test_malacca_declaration_of_independence_day,638
+tests/countries/test_malaysia.py,Conditional Test Logic,test_declaration_malacca_as_historical_city,649
+tests/countries/test_malaysia.py,Conditional Test Logic,test_declaration_malacca_as_historical_city,650
+tests/countries/test_malaysia.py,Conditional Test Logic,test_birthday_of_governor_of_malacca,663
+tests/countries/test_malaysia.py,Conditional Test Logic,test_birthday_of_governor_of_malacca,664
+tests/countries/test_malaysia.py,Conditional Test Logic,test_birthday_of_sultan_of_negeri_sembilan,684
+tests/countries/test_malaysia.py,Conditional Test Logic,test_birthday_of_sultan_of_negeri_sembilan,685
+tests/countries/test_malaysia.py,Conditional Test Logic,test_sultan_of_pahang_hol,696
+tests/countries/test_malaysia.py,Conditional Test Logic,test_sultan_of_pahang_hol,697
+tests/countries/test_malaysia.py,Conditional Test Logic,test_birthday_of_sultan_of_pahang,711
+tests/countries/test_malaysia.py,Conditional Test Logic,test_birthday_of_sultan_of_pahang,712
+tests/countries/test_malaysia.py,Conditional Test Logic,test_birthday_of_sultan_of_pahang,720
+tests/countries/test_malaysia.py,Conditional Test Logic,test_george_town_heritage_day,736
+tests/countries/test_malaysia.py,Conditional Test Logic,test_george_town_heritage_day,737
+tests/countries/test_malaysia.py,Conditional Test Logic,test_birthday_of_governor_of_penang,748
+tests/countries/test_malaysia.py,Conditional Test Logic,test_birthday_of_governor_of_penang,749
+tests/countries/test_malaysia.py,Conditional Test Logic,test_birthday_of_sultan_of_perak,767
+tests/countries/test_malaysia.py,Conditional Test Logic,test_birthday_of_sultan_of_perak,768
+tests/countries/test_malaysia.py,Conditional Test Logic,test_birthday_of_raja_of_perlis,791
+tests/countries/test_malaysia.py,Conditional Test Logic,test_birthday_of_raja_of_perlis,792
+tests/countries/test_malaysia.py,Conditional Test Logic,test_birthday_of_raja_of_perlis,798
+tests/countries/test_malaysia.py,Conditional Test Logic,test_birthday_of_sultan_of_selangor,809
+tests/countries/test_malaysia.py,Conditional Test Logic,test_birthday_of_sultan_of_selangor,810
+tests/countries/test_malaysia.py,Conditional Test Logic,test_installation_of_sultan_of_terengganu,820
+tests/countries/test_malaysia.py,Conditional Test Logic,test_installation_of_sultan_of_terengganu,821
+tests/countries/test_malaysia.py,Conditional Test Logic,test_birthday_of_sultan_of_terengganu,832
+tests/countries/test_malaysia.py,Conditional Test Logic,test_birthday_of_sultan_of_terengganu,833
+tests/countries/test_malaysia.py,Conditional Test Logic,test_birthday_of_governor_of_sabah,860
+tests/countries/test_malaysia.py,Conditional Test Logic,test_christmas_eve,882
+tests/countries/test_malaysia.py,Conditional Test Logic,test_christmas_eve,883
+tests/countries/test_malaysia.py,Conditional Test Logic,test_dayak_festival_day,894
+tests/countries/test_malaysia.py,Conditional Test Logic,test_dayak_festival_day,895
+tests/countries/test_malaysia.py,Conditional Test Logic,test_birthday_of_governor_of_sarawak,909
+tests/countries/test_malaysia.py,Conditional Test Logic,test_birthday_of_governor_of_sarawak,910
+tests/countries/test_malaysia.py,Conditional Test Logic,test_sarawak_independence_day,936
+tests/countries/test_malaysia.py,Conditional Test Logic,test_sarawak_independence_day,937
+tests/countries/test_malaysia.py,Conditional Test Logic,test_no_subdiv_holidays,951
+tests/countries/test_malaysia.py,Conditional Test Logic,test_weekend,957
+tests/countries/test_malaysia.py,Conditional Test Logic,test_weekend,973
+tests/countries/test_malaysia.py,Conditional Test Logic,test_weekend,983
+tests/countries/test_malaysia.py,Conditional Test Logic,test_weekend,986
+tests/countries/test_malaysia.py,Conditional Test Logic,test_weekend,1002
+tests/countries/test_malaysia.py,Conditional Test Logic,test_weekend,1014
+tests/countries/test_malaysia.py,Conditional Test Logic,test_weekend,1031
+tests/countries/test_malaysia.py,Verbose Test,test_2023,24;90
+tests/countries/test_malaysia.py,Verbose Test,test_weekend,956;1039
+tests/countries/test_malaysia.py,Verbose Test,test_l10n_default,1059;1120
+tests/countries/test_malaysia.py,Verbose Test,test_l10n_en_us,1122;1187
+tests/countries/test_malaysia.py,Verbose Test,test_l10n_th,1189;1251
+tests/countries/test_micronesia.py,Conditional Test Logic,test_state_charter_day,157
+tests/countries/test_micronesia.py,Conditional Test Logic,test_state_charter_day,158
+tests/countries/test_micronesia.py,Conditional Test Logic,test_chuuk_state_constitution_day,180
+tests/countries/test_micronesia.py,Conditional Test Logic,test_chuuk_state_constitution_day,181
+tests/countries/test_micronesia.py,Conditional Test Logic,test_kosrae_state_constitution_day,203
+tests/countries/test_micronesia.py,Conditional Test Logic,test_kosrae_state_constitution_day,204
+tests/countries/test_micronesia.py,Conditional Test Logic,test_good_friday,225
+tests/countries/test_micronesia.py,Conditional Test Logic,test_gospel_day,249
+tests/countries/test_micronesia.py,Conditional Test Logic,test_gospel_day,250
+tests/countries/test_micronesia.py,Conditional Test Logic,test_kosrae_liberation_day,273
+tests/countries/test_micronesia.py,Conditional Test Logic,test_kosrae_liberation_day,274
+tests/countries/test_micronesia.py,Conditional Test Logic,test_self_government_day,297
+tests/countries/test_micronesia.py,Conditional Test Logic,test_self_government_day,298
+tests/countries/test_micronesia.py,Conditional Test Logic,test_thanksgiving_day,310
+tests/countries/test_micronesia.py,Conditional Test Logic,test_thanksgiving_day,311
+tests/countries/test_micronesia.py,Conditional Test Logic,test_kosrae_disability_day,335
+tests/countries/test_micronesia.py,Conditional Test Logic,test_kosrae_disability_day,336
+tests/countries/test_micronesia.py,Conditional Test Logic,test_womens_day,350
+tests/countries/test_micronesia.py,Conditional Test Logic,test_womens_day,351
+tests/countries/test_micronesia.py,Conditional Test Logic,test_pohnpei_cultural_day,373
+tests/countries/test_micronesia.py,Conditional Test Logic,test_pohnpei_cultural_day,374
+tests/countries/test_micronesia.py,Conditional Test Logic,test_liberation_day,395
+tests/countries/test_micronesia.py,Conditional Test Logic,test_liberation_day,396
+tests/countries/test_micronesia.py,Conditional Test Logic,test_pohnpei_constitution_day,417
+tests/countries/test_micronesia.py,Conditional Test Logic,test_pohnpei_constitution_day,418
+tests/countries/test_micronesia.py,Conditional Test Logic,test_yap_day,439
+tests/countries/test_micronesia.py,Conditional Test Logic,test_yap_day,440
+tests/countries/test_micronesia.py,Conditional Test Logic,test_yap_state_constitution_day,462
+tests/countries/test_micronesia.py,Conditional Test Logic,test_yap_state_constitution_day,463
+tests/countries/test_mongolia.py,Conditional Test Logic,test_national_festival_and_peoples_revolution_anniversary,88
+tests/countries/test_mongolia.py,Conditional Test Logic,test_national_festival_and_peoples_revolution_anniversary,92
+tests/countries/test_mongolia.py,Conditional Test Logic,test_national_festival_and_peoples_revolution_anniversary,94
+tests/countries/test_mongolia.py,Verbose Test,test_l10n_default,319;398
+tests/countries/test_mongolia.py,Verbose Test,test_l10n_en_us,400;479
+tests/countries/test_montserrat.py,Conditional Test Logic,test_special_holidays,34
+tests/countries/test_myanmar.py,Conditional Test Logic,test_workdays,44
+tests/countries/test_myanmar.py,Verbose Test,test_myanmar_new_year,114;164
+tests/countries/test_nepal.py,Conditional Test Logic,test_special_holidays,32
+tests/countries/test_new_zealand.py,Conditional Test Logic,test_all_holidays_present,426
+tests/countries/test_new_zealand.py,Conditional Test Logic,test_all_holidays_present,429
+tests/countries/test_new_zealand.py,Conditional Test Logic,test_all_holidays_present,432
+tests/countries/test_new_zealand.py,Conditional Test Logic,test_deprecated,467
+tests/countries/test_nicaragua.py,Conditional Test Logic,test_2023,105
+tests/countries/test_nicaragua.py,Conditional Test Logic,test_2023,106
+tests/countries/test_oman.py,Conditional Test Logic,test_weekend,159
+tests/countries/test_oman.py,Conditional Test Logic,test_weekend,167
+tests/countries/test_paraguay.py,Conditional Test Logic,test_patriots_day,32
+tests/countries/test_paraguay.py,Conditional Test Logic,test_patriots_day,33
+tests/countries/test_paraguay.py,Conditional Test Logic,test_chaco_armistice_day,101
+tests/countries/test_paraguay.py,Conditional Test Logic,test_chaco_armistice_day,102
+tests/countries/test_paraguay.py,Conditional Test Logic,test_asuncion_foundations_day,126
+tests/countries/test_paraguay.py,Conditional Test Logic,test_boqueron_battle_day,137
+tests/countries/test_paraguay.py,Conditional Test Logic,test_boqueron_battle_day,138
+tests/countries/test_philippines.py,Conditional Test Logic,test_independence_day,176
+tests/countries/test_philippines.py,Conditional Test Logic,test_ninoy_aquino_day,200
+tests/countries/test_philippines.py,Conditional Test Logic,test_rizal_day,275
+tests/countries/test_philippines.py,Conditional Test Logic,test_last_day_of_year,286
+tests/countries/test_philippines.py,Verbose Test,test_special_holidays,30;75
+tests/countries/test_poland.py,Conditional Test Logic,test_national_victory_and_freedom_day,108
+tests/countries/test_portugal.py,Conditional Test Logic,test_all_saints_day,203
+tests/countries/test_puerto_rico.py,Verbose Test,test_the_day_of_the_women_and_men_heroes_of_puerto_rico,59;108
+tests/countries/test_qatar.py,Conditional Test Logic,test_weekend,132
+tests/countries/test_qatar.py,Conditional Test Logic,test_weekend,141
+tests/countries/test_russia.py,Conditional Test Logic,test_new_year,274
+tests/countries/test_russia.py,Conditional Test Logic,test_new_year,283
+tests/countries/test_russia.py,Conditional Test Logic,test_new_year,285
+tests/countries/test_russia.py,Conditional Test Logic,test_new_year,288
+tests/countries/test_russia.py,Verbose Test,test_substituted_holidays,24;204
+tests/countries/test_russia.py,Verbose Test,test_workdays,206;266
+tests/countries/test_saint_helena_ascension_and_tristan_da_cunha.py,Conditional Test Logic,test_special_holidays,27
+tests/countries/test_saint_helena_ascension_and_tristan_da_cunha.py,Conditional Test Logic,test_ascension_day,137
+tests/countries/test_saint_helena_ascension_and_tristan_da_cunha.py,Conditional Test Logic,test_ascension_day,138
+tests/countries/test_saint_helena_ascension_and_tristan_da_cunha.py,Conditional Test Logic,test_saint_helena_day,161
+tests/countries/test_saint_helena_ascension_and_tristan_da_cunha.py,Conditional Test Logic,test_saint_helena_day,162
+tests/countries/test_saint_helena_ascension_and_tristan_da_cunha.py,Conditional Test Logic,test_ratting_day,174
+tests/countries/test_saint_helena_ascension_and_tristan_da_cunha.py,Conditional Test Logic,test_ratting_day,175
+tests/countries/test_saint_helena_ascension_and_tristan_da_cunha.py,Conditional Test Logic,test_anniversary_day,195
+tests/countries/test_saint_helena_ascension_and_tristan_da_cunha.py,Conditional Test Logic,test_anniversary_day,196
+tests/countries/test_saint_helena_ascension_and_tristan_da_cunha.py,Conditional Test Logic,test_august_bank_holiday,206
+tests/countries/test_saint_helena_ascension_and_tristan_da_cunha.py,Conditional Test Logic,test_august_bank_holiday,207
+tests/countries/test_saudi_arabia.py,Conditional Test Logic,test_weekend,166
+tests/countries/test_saudi_arabia.py,Conditional Test Logic,test_weekend,176
+tests/countries/test_saudi_arabia.py,Verbose Test,test_eid_al_fitr,32;87
+tests/countries/test_slovakia.py,Conditional Test Logic,test_day_of_our_lady_of_the_seven_sorrows,115
+tests/countries/test_slovenia.py,Conditional Test Logic,test_new_years_day,43
+tests/countries/test_solomon_islands.py,Conditional Test Logic,test_special_holidays,36
+tests/countries/test_solomon_islands.py,Conditional Test Logic,test_special_holidays,37
+tests/countries/test_solomon_islands.py,Conditional Test Logic,_test_province_day_helper,184
+tests/countries/test_solomon_islands.py,Conditional Test Logic,_test_province_day_helper,185
+tests/countries/test_solomon_islands.py,Unknown Test,test_central_province_day,197
+tests/countries/test_solomon_islands.py,Unknown Test,test_choiseul_province_day,207
+tests/countries/test_solomon_islands.py,Unknown Test,test_guadalcanal_province_day,217
+tests/countries/test_solomon_islands.py,Unknown Test,test_isabel_province_day,227
+tests/countries/test_solomon_islands.py,Unknown Test,test_makira_ulawa_province_day,237
+tests/countries/test_solomon_islands.py,Unknown Test,test_malaita_province_day,247
+tests/countries/test_solomon_islands.py,Unknown Test,test_rennell_and_bellona_province_day,257
+tests/countries/test_solomon_islands.py,Unknown Test,test_temotu_province_day,267
+tests/countries/test_solomon_islands.py,Unknown Test,test_western_province_day,277
+tests/countries/test_solomon_islands.py,Undefined Test,_test_province_day_helper,181
+tests/countries/test_south_korea.py,Conditional Test Logic,test_constitution_day,371
+tests/countries/test_south_korea.py,Conditional Test Logic,test_hangul_day,484
+tests/countries/test_south_korea.py,Verbose Test,test_special_holidays,26;82
+tests/countries/test_south_korea.py,Verbose Test,test_korean_new_years_day,198;261
+tests/countries/test_south_korea.py,Verbose Test,test_buddhas_birthday,308;357
+tests/countries/test_south_korea.py,Verbose Test,test_chuseok,401;452
+tests/countries/test_spain.py,Conditional Test Logic,_assertVariableDays,27
+tests/countries/test_spain.py,Conditional Test Logic,_assertVariableDays,29
+tests/countries/test_spain.py,Unknown Test,test_variable_holidays_2008,286
+tests/countries/test_spain.py,Unknown Test,test_variable_holidays_2009,335
+tests/countries/test_spain.py,Unknown Test,test_variable_holidays_2010,397
+tests/countries/test_spain.py,Unknown Test,test_variable_holidays_2011,441
+tests/countries/test_spain.py,Unknown Test,test_variable_holidays_2012,487
+tests/countries/test_spain.py,Unknown Test,test_variable_holidays_2013,535
+tests/countries/test_spain.py,Unknown Test,test_variable_holidays_2014,597
+tests/countries/test_spain.py,Unknown Test,test_variable_holidays_2015,645
+tests/countries/test_spain.py,Unknown Test,test_variable_holidays_2016,691
+tests/countries/test_spain.py,Unknown Test,test_variable_holidays_2017,756
+tests/countries/test_spain.py,Unknown Test,test_variable_holidays_2018,806
+tests/countries/test_spain.py,Unknown Test,test_variable_holidays_2019,850
+tests/countries/test_spain.py,Unknown Test,test_variable_holidays_2020,898
+tests/countries/test_spain.py,Unknown Test,test_variable_holidays_2021,960
+tests/countries/test_spain.py,Unknown Test,test_variable_holidays_2022,1007
+tests/countries/test_spain.py,Unknown Test,test_variable_holidays_2023,1075
+tests/countries/test_spain.py,Unknown Test,test_variable_holidays_2024,1127
+tests/countries/test_spain.py,Unknown Test,test_variable_holidays_2025,1175
+tests/countries/test_spain.py,Unknown Test,test_variable_holidays_2026,1225
+tests/countries/test_spain.py,Verbose Test,test_variable_holidays_2008,286;333
+tests/countries/test_spain.py,Verbose Test,test_variable_holidays_2009,335;395
+tests/countries/test_spain.py,Verbose Test,test_variable_holidays_2012,487;533
+tests/countries/test_spain.py,Verbose Test,test_variable_holidays_2013,535;595
+tests/countries/test_spain.py,Verbose Test,test_variable_holidays_2014,597;643
+tests/countries/test_spain.py,Verbose Test,test_variable_holidays_2016,691;754
+tests/countries/test_spain.py,Verbose Test,test_variable_holidays_2017,756;804
+tests/countries/test_spain.py,Verbose Test,test_variable_holidays_2019,850;896
+tests/countries/test_spain.py,Verbose Test,test_variable_holidays_2020,898;958
+tests/countries/test_spain.py,Verbose Test,test_variable_holidays_2021,960;1005
+tests/countries/test_spain.py,Verbose Test,test_variable_holidays_2022,1007;1073
+tests/countries/test_spain.py,Verbose Test,test_variable_holidays_2023,1075;1125
+tests/countries/test_spain.py,Verbose Test,test_variable_holidays_2024,1127;1173
+tests/countries/test_spain.py,Verbose Test,test_variable_holidays_2025,1175;1223
+tests/countries/test_spain.py,Verbose Test,test_variable_holidays_2026,1225;1273
+tests/countries/test_spain.py,Verbose Test,test_l10n_default,1275;1320
+tests/countries/test_spain.py,Verbose Test,test_l10n_ca,1322;1367
+tests/countries/test_spain.py,Undefined Test,_assertVariableDays,26
+tests/countries/test_sudan.py,Conditional Test Logic,test_coptic_christmas,35
+tests/countries/test_sudan.py,Conditional Test Logic,test_christmas_day,46
+tests/countries/test_sudan.py,Conditional Test Logic,test_weekend,128
+tests/countries/test_sudan.py,Conditional Test Logic,test_weekend,137
+tests/countries/test_sweden.py,Verbose Test,test_l10n_default,416;494
+tests/countries/test_sweden.py,Verbose Test,test_l10n_en_us,496;575
+tests/countries/test_sweden.py,Verbose Test,test_l10n_th,577;656
+tests/countries/test_sweden.py,Verbose Test,test_l10n_uk,658;737
+tests/countries/test_switzerland.py,Conditional Test Logic,test_all_holidays_present,32
+tests/countries/test_switzerland.py,Conditional Test Logic,test_ascension_day,95
+tests/countries/test_switzerland.py,Conditional Test Logic,test_berchtolds_day,108
+tests/countries/test_switzerland.py,Conditional Test Logic,test_berchtolds_day,109
+tests/countries/test_switzerland.py,Conditional Test Logic,test_berchtolds_day,117
+tests/countries/test_switzerland.py,Conditional Test Logic,test_berchtolds_day,118
+tests/countries/test_switzerland.py,Conditional Test Logic,test_epiphany,135
+tests/countries/test_switzerland.py,Conditional Test Logic,test_epiphany,136
+tests/countries/test_switzerland.py,Conditional Test Logic,test_republic_day,146
+tests/countries/test_switzerland.py,Conditional Test Logic,test_republic_day,147
+tests/countries/test_switzerland.py,Conditional Test Logic,test_st_josephs_day,157
+tests/countries/test_switzerland.py,Conditional Test Logic,test_st_josephs_day,158
+tests/countries/test_switzerland.py,Conditional Test Logic,test_nafels_ride,168
+tests/countries/test_switzerland.py,Conditional Test Logic,test_nafels_ride,169
+tests/countries/test_switzerland.py,Conditional Test Logic,test_good_friday,201
+tests/countries/test_switzerland.py,Conditional Test Logic,test_good_friday,202
+tests/countries/test_switzerland.py,Conditional Test Logic,test_good_friday,208
+tests/countries/test_switzerland.py,Conditional Test Logic,test_good_friday,209
+tests/countries/test_switzerland.py,Conditional Test Logic,test_easter_sunday,218
+tests/countries/test_switzerland.py,Conditional Test Logic,test_easter_sunday,219
+tests/countries/test_switzerland.py,Conditional Test Logic,test_easter_monday,250
+tests/countries/test_switzerland.py,Conditional Test Logic,test_easter_monday,251
+tests/countries/test_switzerland.py,Conditional Test Logic,test_easter_monday,257
+tests/countries/test_switzerland.py,Conditional Test Logic,test_easter_monday,258
+tests/countries/test_switzerland.py,Conditional Test Logic,test_labor_day,268
+tests/countries/test_switzerland.py,Conditional Test Logic,test_labor_day,269
+tests/countries/test_switzerland.py,Conditional Test Logic,test_labor_day,276
+tests/countries/test_switzerland.py,Conditional Test Logic,test_labor_day,277
+tests/countries/test_switzerland.py,Conditional Test Logic,test_whit_sunday,287
+tests/countries/test_switzerland.py,Conditional Test Logic,test_whit_sunday,288
+tests/countries/test_switzerland.py,Conditional Test Logic,test_whit_monday,319
+tests/countries/test_switzerland.py,Conditional Test Logic,test_whit_monday,320
+tests/countries/test_switzerland.py,Conditional Test Logic,test_whit_monday,326
+tests/countries/test_switzerland.py,Conditional Test Logic,test_whit_monday,327
+tests/countries/test_switzerland.py,Conditional Test Logic,test_corpus_christi,336
+tests/countries/test_switzerland.py,Conditional Test Logic,test_corpus_christi,337
+tests/countries/test_switzerland.py,Conditional Test Logic,test_independence_day,355
+tests/countries/test_switzerland.py,Conditional Test Logic,test_independence_day,356
+tests/countries/test_switzerland.py,Conditional Test Logic,test_saints_peter_and_paul,366
+tests/countries/test_switzerland.py,Conditional Test Logic,test_saints_peter_and_paul,367
+tests/countries/test_switzerland.py,Conditional Test Logic,test_assumption_day,377
+tests/countries/test_switzerland.py,Conditional Test Logic,test_assumption_day,378
+tests/countries/test_switzerland.py,Conditional Test Logic,test_federal_day_of_thanksgiving_prayer_and_repentance,388
+tests/countries/test_switzerland.py,Conditional Test Logic,test_federal_day_of_thanksgiving_prayer_and_repentance,389
+tests/countries/test_switzerland.py,Conditional Test Logic,test_prayer_monday,407
+tests/countries/test_switzerland.py,Conditional Test Logic,test_prayer_monday,408
+tests/countries/test_switzerland.py,Conditional Test Logic,test_saint_nicholas,426
+tests/countries/test_switzerland.py,Conditional Test Logic,test_saint_nicholas,427
+tests/countries/test_switzerland.py,Conditional Test Logic,test_all_saints_day,437
+tests/countries/test_switzerland.py,Conditional Test Logic,test_all_saints_day,438
+tests/countries/test_switzerland.py,Conditional Test Logic,test_genevan_fast,462
+tests/countries/test_switzerland.py,Conditional Test Logic,test_genevan_fast,463
+tests/countries/test_switzerland.py,Conditional Test Logic,test_immaculate_conception,481
+tests/countries/test_switzerland.py,Conditional Test Logic,test_immaculate_conception,482
+tests/countries/test_switzerland.py,Conditional Test Logic,test_saint_stephens_day,517
+tests/countries/test_switzerland.py,Conditional Test Logic,test_saint_stephens_day,518
+tests/countries/test_switzerland.py,Conditional Test Logic,test_saint_stephens_day,525
+tests/countries/test_switzerland.py,Conditional Test Logic,test_saint_stephens_day,526
+tests/countries/test_switzerland.py,Conditional Test Logic,test_saint_stephens_day,566
+tests/countries/test_switzerland.py,Conditional Test Logic,test_restoration_day,579
+tests/countries/test_switzerland.py,Conditional Test Logic,test_restoration_day,580
+tests/countries/test_switzerland.py,Conditional Test Logic,test_knabenschiessen,591
+tests/countries/test_switzerland.py,Conditional Test Logic,test_knabenschiessen,592
+tests/countries/test_switzerland.py,Conditional Test Logic,test_knabenschiessen,614
+tests/countries/test_switzerland.py,Conditional Test Logic,test_knabenschiessen,615
+tests/countries/test_switzerland.py,Conditional Test Logic,test_knabenschiessen,631
+tests/countries/test_switzerland.py,Conditional Test Logic,test_knabenschiessen,632
+tests/countries/test_switzerland.py,Conditional Test Logic,test_day_before_good_friday,657
+tests/countries/test_switzerland.py,Conditional Test Logic,test_day_before_good_friday,661
+tests/countries/test_switzerland.py,Conditional Test Logic,test_sechselauten,679
+tests/countries/test_switzerland.py,Conditional Test Logic,test_sechselauten,683
+tests/countries/test_switzerland.py,Conditional Test Logic,test_day_before_ascension_day,711
+tests/countries/test_switzerland.py,Conditional Test Logic,test_day_before_ascension_day,712
+tests/countries/test_switzerland.py,Conditional Test Logic,test_bridge_holiday_for_ascension_day,730
+tests/countries/test_switzerland.py,Conditional Test Logic,test_bridge_holiday_for_ascension_day,731
+tests/countries/test_switzerland.py,Conditional Test Logic,test_christmas_eve,746
+tests/countries/test_switzerland.py,Conditional Test Logic,test_christmas_eve,750
+tests/countries/test_switzerland.py,Conditional Test Logic,test_bridge_holidays,760
+tests/countries/test_switzerland.py,Conditional Test Logic,test_bridge_holidays,761
+tests/countries/test_switzerland.py,Conditional Test Logic,test_new_years_eve,782
+tests/countries/test_switzerland.py,Conditional Test Logic,test_new_years_eve,786
+tests/countries/test_switzerland.py,Verbose Test,test_all_holidays_present,30;78
+tests/countries/test_switzerland.py,Verbose Test,test_saint_stephens_day,489;574
+tests/countries/test_switzerland.py,Verbose Test,test_knabenschiessen,587;652
+tests/countries/test_taiwan.py,Conditional Test Logic,test_workdays,126
+tests/countries/test_taiwan.py,Conditional Test Logic,test_weekend,1134
+tests/countries/test_taiwan.py,Conditional Test Logic,test_weekend,1158
+tests/countries/test_taiwan.py,Verbose Test,test_substituted_holidays,32;77
+tests/countries/test_taiwan.py,Verbose Test,test_workdays,79;129
+tests/countries/test_taiwan.py,Verbose Test,test_chinese_new_year,151;235
+tests/countries/test_tanzania.py,Conditional Test Logic,test_new_years_day,42
+tests/countries/test_tanzania.py,Conditional Test Logic,test_boxing_day,251
+tests/countries/test_thailand.py,Conditional Test Logic,test_songkran_festival,199
+tests/countries/test_thailand.py,Conditional Test Logic,test_songkran_festival,203
+tests/countries/test_thailand.py,Conditional Test Logic,test_songkran_festival,209
+tests/countries/test_thailand.py,Conditional Test Logic,test_songkran_festival,219
+tests/countries/test_thailand.py,Conditional Test Logic,test_songkran_festival,222
+tests/countries/test_thailand.py,Conditional Test Logic,test_coronation_day,266
+tests/countries/test_thailand.py,Conditional Test Logic,test_coronation_day,271
+tests/countries/test_thailand.py,Conditional Test Logic,test_national_day,305
+tests/countries/test_thailand.py,Conditional Test Logic,test_rama_vi_to_ix_birthday,442
+tests/countries/test_thailand.py,Conditional Test Logic,test_rama_vi_to_ix_birthday,444
+tests/countries/test_thailand.py,Conditional Test Logic,test_rama_vi_to_ix_birthday,447
+tests/countries/test_thailand.py,Conditional Test Logic,test_rama_vi_to_ix_birthday,452
+tests/countries/test_thailand.py,Conditional Test Logic,test_rama_vi_to_ix_birthday,456
+tests/countries/test_thailand.py,Conditional Test Logic,test_rama_vi_to_ix_birthday,458
+tests/countries/test_thailand.py,Conditional Test Logic,test_weekends,857
+tests/countries/test_thailand.py,Conditional Test Logic,test_weekends,914
+tests/countries/test_thailand.py,Verbose Test,test_special_holidays,39;123
+tests/countries/test_thailand.py,Verbose Test,test_songkran_festival,191;244
+tests/countries/test_thailand.py,Verbose Test,test_rama_vi_to_ix_birthday,429;492
+tests/countries/test_thailand.py,Verbose Test,test_royal_ploughing_ceremony,653;729
+tests/countries/test_thailand.py,Verbose Test,test_weekends,856;954
+tests/countries/test_thailand.py,Verbose Test,test_l10n_default,956;1010
+tests/countries/test_thailand.py,Verbose Test,test_l10n_en_us,1012;1060
+tests/countries/test_thailand.py,Verbose Test,test_l10n_uk,1062;1113
+tests/countries/test_timor_leste.py,Verbose Test,test_special_government_holidays,24;144
+tests/countries/test_tonga.py,Conditional Test Logic,test_birthday_of_the_reigning_sovereign_of_tonga,54
+tests/countries/test_turkey.py,Conditional Test Logic,test_eid_al_fitr,88
+tests/countries/test_turkey.py,Conditional Test Logic,test_eid_al_adha,110
+tests/countries/test_turkmenistan.py,Conditional Test Logic,test_womens_day,61
+tests/countries/test_tuvalu.py,Conditional Test Logic,test_gospel_day,95
+tests/countries/test_tuvalu.py,Conditional Test Logic,test_gospel_day,96
+tests/countries/test_tuvalu.py,Conditional Test Logic,test_the_day_of_the_bombing,190
+tests/countries/test_tuvalu.py,Conditional Test Logic,test_the_day_of_the_bombing,191
+tests/countries/test_tuvalu.py,Conditional Test Logic,test_cyclone_day,200
+tests/countries/test_tuvalu.py,Conditional Test Logic,test_cyclone_day,201
+tests/countries/test_tuvalu.py,Conditional Test Logic,test_niutao_day,210
+tests/countries/test_tuvalu.py,Conditional Test Logic,test_niutao_day,211
+tests/countries/test_tuvalu.py,Conditional Test Logic,test_nukufetau_day,220
+tests/countries/test_tuvalu.py,Conditional Test Logic,test_nukufetau_day,221
+tests/countries/test_tuvalu.py,Conditional Test Logic,test_golden_jubilee,230
+tests/countries/test_tuvalu.py,Conditional Test Logic,test_golden_jubilee,231
+tests/countries/test_tuvalu.py,Conditional Test Logic,test_big_day,240
+tests/countries/test_tuvalu.py,Conditional Test Logic,test_big_day,241
+tests/countries/test_tuvalu.py,Conditional Test Logic,test_nanumaga_day,250
+tests/countries/test_tuvalu.py,Conditional Test Logic,test_nanumaga_day,251
+tests/countries/test_tuvalu.py,Conditional Test Logic,test_day_of_the_flood,260
+tests/countries/test_tuvalu.py,Conditional Test Logic,test_day_of_the_flood,261
+tests/countries/test_tuvalu.py,Conditional Test Logic,test_happy_day,270
+tests/countries/test_tuvalu.py,Conditional Test Logic,test_happy_day,271
+tests/countries/test_tuvalu.py,Conditional Test Logic,test_all_holidays,280
+tests/countries/test_ukraine.py,Conditional Test Logic,test_workdays,242
+tests/countries/test_ukraine.py,Verbose Test,test_substituted_holidays,34;136
+tests/countries/test_ukraine.py,Verbose Test,test_workdays,138;249
+tests/countries/test_united_arab_emirates.py,Conditional Test Logic,test_weekend,133
+tests/countries/test_united_arab_emirates.py,Conditional Test Logic,test_weekend,142
+tests/countries/test_united_kingdom.py,Conditional Test Logic,test_no_holidays,35
+tests/countries/test_united_kingdom.py,Conditional Test Logic,test_special_subdiv_holidays,53
+tests/countries/test_united_kingdom.py,Conditional Test Logic,test_special_subdiv_holidays,54
+tests/countries/test_united_kingdom.py,Conditional Test Logic,test_new_years_day_scotland,96
+tests/countries/test_united_kingdom.py,Conditional Test Logic,test_new_years_day_scotland,97
+tests/countries/test_united_kingdom.py,Conditional Test Logic,test_saint_patricks_day,133
+tests/countries/test_united_kingdom.py,Conditional Test Logic,test_saint_patricks_day,134
+tests/countries/test_united_kingdom.py,Conditional Test Logic,test_easter_monday,169
+tests/countries/test_united_kingdom.py,Conditional Test Logic,test_easter_monday,170
+tests/countries/test_united_kingdom.py,Conditional Test Logic,test_whit_monday,207
+tests/countries/test_united_kingdom.py,Conditional Test Logic,test_whit_monday,208
+tests/countries/test_united_kingdom.py,Conditional Test Logic,test_battle_of_the_boyne_day,243
+tests/countries/test_united_kingdom.py,Conditional Test Logic,test_battle_of_the_boyne_day,244
+tests/countries/test_united_kingdom.py,Conditional Test Logic,test_summer_bank_holiday,257
+tests/countries/test_united_kingdom.py,Conditional Test Logic,test_summer_bank_holiday,258
+tests/countries/test_united_kingdom.py,Conditional Test Logic,test_late_summer_bank_holiday,284
+tests/countries/test_united_kingdom.py,Conditional Test Logic,test_late_summer_bank_holiday,285
+tests/countries/test_united_kingdom.py,Conditional Test Logic,test_saint_andrews_day,302
+tests/countries/test_united_kingdom.py,Conditional Test Logic,test_saint_andrews_day,303
+tests/countries/test_united_kingdom.py,Conditional Test Logic,test_all_holidays_present,365
+tests/countries/test_united_states.py,Conditional Test Logic,test_new_years_day,43
+tests/countries/test_united_states.py,Conditional Test Logic,test_juneteenth_national_independence_day,91
+tests/countries/test_united_states.py,Conditional Test Logic,test_independence_day,123
+tests/countries/test_united_states.py,Conditional Test Logic,test_labor_day,152
+tests/countries/test_united_states.py,Conditional Test Logic,test_veterans_day,182
+tests/countries/test_united_states.py,Conditional Test Logic,test_christmas_day,292
+tests/countries/test_united_states.py,Conditional Test Logic,test_martin_luther_king_day,323
+tests/countries/test_united_states.py,Conditional Test Logic,test_martin_luther_king_day,331
+tests/countries/test_united_states.py,Conditional Test Logic,test_martin_luther_king_day,332
+tests/countries/test_united_states.py,Conditional Test Logic,test_washingtons_birthday,479
+tests/countries/test_united_states.py,Conditional Test Logic,test_washingtons_birthday,485
+tests/countries/test_united_states.py,Conditional Test Logic,test_washingtons_birthday,486
+tests/countries/test_united_states.py,Conditional Test Logic,test_washingtons_birthday,490
+tests/countries/test_united_states.py,Conditional Test Logic,test_washingtons_birthday_states,530
+tests/countries/test_united_states.py,Conditional Test Logic,test_washingtons_birthday_states,558
+tests/countries/test_united_states.py,Conditional Test Logic,test_washingtons_birthday_states,632
+tests/countries/test_united_states.py,Conditional Test Logic,test_columbus_day,750
+tests/countries/test_united_states.py,Conditional Test Logic,test_columbus_day,757
+tests/countries/test_united_states.py,Conditional Test Logic,test_columbus_day_states,776
+tests/countries/test_united_states.py,Conditional Test Logic,test_inauguration_day,996
+tests/countries/test_united_states.py,Conditional Test Logic,test_lincolns_birthday,1020
+tests/countries/test_united_states.py,Conditional Test Logic,test_susan_b_anthony_day,1062
+tests/countries/test_united_states.py,Conditional Test Logic,test_cesar_chavez_day,1208
+tests/countries/test_united_states.py,Conditional Test Logic,test_patriots_day,1307
+tests/countries/test_united_states.py,Conditional Test Logic,test_good_friday,1341
+tests/countries/test_united_states.py,Conditional Test Logic,test_confederate_memorial_day,1400
+tests/countries/test_united_states.py,Conditional Test Logic,test_election_day,1850
+tests/countries/test_united_states.py,Conditional Test Logic,test_election_day,1876
+tests/countries/test_united_states.py,Conditional Test Logic,test_election_day,1928
+tests/countries/test_united_states.py,Conditional Test Logic,test_election_day,1929
+tests/countries/test_united_states.py,Conditional Test Logic,test_groundhog_day,1990
+tests/countries/test_united_states.py,Conditional Test Logic,test_groundhog_day,1991
+tests/countries/test_united_states.py,Conditional Test Logic,test_day_after_thanksgiving,2067
+tests/countries/test_united_states.py,Conditional Test Logic,test_day_after_thanksgiving,2091
+tests/countries/test_united_states.py,Conditional Test Logic,test_christmas_eve,2159
+tests/countries/test_united_states.py,Conditional Test Logic,test_day_after_christmas,2195
+tests/countries/test_united_states.py,Conditional Test Logic,test_day_after_christmas,2206
+tests/countries/test_united_states.py,Conditional Test Logic,test_new_years_eve,2229
+tests/countries/test_united_states.py,Verbose Test,test_veterans_day,157;218
+tests/countries/test_united_states.py,Verbose Test,test_thanksgiving_day,220;276
+tests/countries/test_united_states.py,Verbose Test,test_martin_luther_king_day_states,337;467
+tests/countries/test_united_states.py,Verbose Test,test_washingtons_birthday,469;517
+tests/countries/test_united_states.py,Verbose Test,test_washingtons_birthday_states,519;639
+tests/countries/test_united_states.py,Verbose Test,test_the_day_of_the_women_and_men_heroes_of_puerto_rico,641;694
+tests/countries/test_united_states.py,Verbose Test,test_columbus_day,696;763
+tests/countries/test_united_states.py,Verbose Test,test_lincolns_birthday,1009;1057
+tests/countries/test_united_states.py,Verbose Test,test_confederate_memorial_day,1381;1461
+tests/countries/test_united_states.py,Verbose Test,test_election_day,1836;1933
+tests/countries/test_united_states.py,Verbose Test,test_l10n_default,2291;2400
+tests/countries/test_united_states.py,Verbose Test,test_l10n_th,2402;2497
+tests/countries/test_uruguay.py,Conditional Test Logic,test_labor_day,49
+tests/countries/test_uruguay.py,Conditional Test Logic,test_landing_of_33_patriots,137
+tests/countries/test_uruguay.py,Conditional Test Logic,test_battle_of_las_piedras,184
+tests/countries/test_uruguay.py,Conditional Test Logic,test_birthday_of_artigas,209
+tests/countries/test_uruguay.py,Conditional Test Logic,test_cultural_diversity_day,238
+tests/countries/test_uruguay.py,Conditional Test Logic,test_all_souls_day,272
+tests/countries/test_venezuela.py,Conditional Test Logic,test_battle_of_carabobo,134
+tests/countries/test_vietnam.py,Conditional Test Logic,test_workdays,60
+tests/countries/test_vietnam.py,Conditional Test Logic,test_lunar_new_year,84
+tests/countries/test_vietnam.py,Conditional Test Logic,test_lunar_new_year,111
+tests/countries/test_vietnam.py,Verbose Test,test_lunar_new_year,83;136
+tests/countries/test_yemen.py,Conditional Test Logic,test_weekend,247
+tests/countries/test_yemen.py,Conditional Test Logic,test_weekend,255
+tests/financial/test_national_stock_exchange_of_india.py,Conditional Test Logic,test_maharashtra_day,76
+tests/financial/test_ny_stock_exchange.py,Verbose Test,test_special_public_holidays,352;568
+tests/financial/test_ny_stock_exchange.py,Verbose Test,test_special_half_day_holidays,633;736
+tests/financial/test_shanghai_stock_exchange.py,Conditional Test Logic,test_no_weekend_workdays,32
+tests/third_party/test_numpy.py,Conditional Test Logic,test_years_int_conversion,27
+tests/third_party/test_numpy.py,Conditional Test Logic,test_years_int_conversion,29

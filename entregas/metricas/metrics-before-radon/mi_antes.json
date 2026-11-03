@@ -1,0 +1,2594 @@
+{
+  "holidays/constants.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "holidays/generate_ics.py": {
+    "mi": 38.26774734640869,
+    "rank": "A"
+  },
+  "holidays/helpers.py": {
+    "mi": 67.6534595852979,
+    "rank": "A"
+  },
+  "holidays/holiday_base.py": {
+    "mi": 2.2259658572657854,
+    "rank": "C"
+  },
+  "holidays/ical.py": {
+    "mi": 62.84338989250802,
+    "rank": "A"
+  },
+  "holidays/no_holiday_base.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "holidays/observed_holiday_base.py": {
+    "mi": 47.13492060334151,
+    "rank": "A"
+  },
+  "holidays/registry.py": {
+    "mi": 61.467168855342265,
+    "rank": "A"
+  },
+  "holidays/utils.py": {
+    "mi": 48.72246187453063,
+    "rank": "A"
+  },
+  "holidays/version.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "holidays/__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "holidays/calendars/australia_school.py": {
+    "mi": 97.1073003739503,
+    "rank": "A"
+  },
+  "holidays/calendars/balinese_saka.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "holidays/calendars/buddhist.py": {
+    "mi": 75.35465627666572,
+    "rank": "A"
+  },
+  "holidays/calendars/burmese.py": {
+    "mi": 60.588484264912445,
+    "rank": "A"
+  },
+  "holidays/calendars/chinese.py": {
+    "mi": 44.36052303595454,
+    "rank": "A"
+  },
+  "holidays/calendars/custom.py": {
+    "mi": 83.58578519369412,
+    "rank": "A"
+  },
+  "holidays/calendars/ethiopian.py": {
+    "mi": 55.54692369461813,
+    "rank": "A"
+  },
+  "holidays/calendars/germany_school.py": {
+    "mi": 65.7991728947589,
+    "rank": "A"
+  },
+  "holidays/calendars/gregorian.py": {
+    "mi": 70.92782202688103,
+    "rank": "A"
+  },
+  "holidays/calendars/hebrew.py": {
+    "mi": 56.51604719662738,
+    "rank": "A"
+  },
+  "holidays/calendars/hindu.py": {
+    "mi": 35.78119633988065,
+    "rank": "A"
+  },
+  "holidays/calendars/islamic.py": {
+    "mi": 37.313443243554644,
+    "rank": "A"
+  },
+  "holidays/calendars/julian.py": {
+    "mi": 46.67028311324858,
+    "rank": "A"
+  },
+  "holidays/calendars/julian_revised.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "holidays/calendars/mandaean.py": {
+    "mi": 74.19916861264652,
+    "rank": "A"
+  },
+  "holidays/calendars/mongolian.py": {
+    "mi": 74.59346937471007,
+    "rank": "A"
+  },
+  "holidays/calendars/persian.py": {
+    "mi": 73.4203557551793,
+    "rank": "A"
+  },
+  "holidays/calendars/sinhala.py": {
+    "mi": 59.59198487282847,
+    "rank": "A"
+  },
+  "holidays/calendars/thai.py": {
+    "mi": 44.175468706488004,
+    "rank": "A"
+  },
+  "holidays/calendars/tibetan.py": {
+    "mi": 60.15426358322298,
+    "rank": "A"
+  },
+  "holidays/calendars/__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "holidays/countries/afghanistan.py": {
+    "mi": 70.34903657212197,
+    "rank": "A"
+  },
+  "holidays/countries/aland_islands.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "holidays/countries/albania.py": {
+    "mi": 76.01850095892442,
+    "rank": "A"
+  },
+  "holidays/countries/algeria.py": {
+    "mi": 73.83494558160992,
+    "rank": "A"
+  },
+  "holidays/countries/american_samoa.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "holidays/countries/andorra.py": {
+    "mi": 71.57238113265527,
+    "rank": "A"
+  },
+  "holidays/countries/angola.py": {
+    "mi": 68.28761582165112,
+    "rank": "A"
+  },
+  "holidays/countries/anguilla.py": {
+    "mi": 77.75913162341016,
+    "rank": "A"
+  },
+  "holidays/countries/antarctica.py": {
+    "mi": 91.30463460843623,
+    "rank": "A"
+  },
+  "holidays/countries/antigua_and_barbuda.py": {
+    "mi": 78.0966483097601,
+    "rank": "A"
+  },
+  "holidays/countries/argentina.py": {
+    "mi": 40.62673009445581,
+    "rank": "A"
+  },
+  "holidays/countries/armenia.py": {
+    "mi": 58.38708283728387,
+    "rank": "A"
+  },
+  "holidays/countries/aruba.py": {
+    "mi": 74.26744666311546,
+    "rank": "A"
+  },
+  "holidays/countries/australia.py": {
+    "mi": 24.96851248683259,
+    "rank": "A"
+  },
+  "holidays/countries/austria.py": {
+    "mi": 69.87551276954996,
+    "rank": "A"
+  },
+  "holidays/countries/azerbaijan.py": {
+    "mi": 60.69152003524526,
+    "rank": "A"
+  },
+  "holidays/countries/bahamas.py": {
+    "mi": 78.3789942437594,
+    "rank": "A"
+  },
+  "holidays/countries/bahrain.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "holidays/countries/bangladesh.py": {
+    "mi": 77.69943017643904,
+    "rank": "A"
+  },
+  "holidays/countries/barbados.py": {
+    "mi": 83.64028967685397,
+    "rank": "A"
+  },
+  "holidays/countries/belarus.py": {
+    "mi": 67.98480950282146,
+    "rank": "A"
+  },
+  "holidays/countries/belgium.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "holidays/countries/belize.py": {
+    "mi": 80.85507802298244,
+    "rank": "A"
+  },
+  "holidays/countries/benin.py": {
+    "mi": 59.274513453523205,
+    "rank": "A"
+  },
+  "holidays/countries/bermuda.py": {
+    "mi": 76.2336819122504,
+    "rank": "A"
+  },
+  "holidays/countries/bhutan.py": {
+    "mi": 76.04386016224989,
+    "rank": "A"
+  },
+  "holidays/countries/bolivia.py": {
+    "mi": 72.81101233162065,
+    "rank": "A"
+  },
+  "holidays/countries/bonaire_sint_eustatius_and_saba.py": {
+    "mi": 81.12879809477806,
+    "rank": "A"
+  },
+  "holidays/countries/bosnia_and_herzegovina.py": {
+    "mi": 82.03839338072615,
+    "rank": "A"
+  },
+  "holidays/countries/botswana.py": {
+    "mi": 84.98231098375769,
+    "rank": "A"
+  },
+  "holidays/countries/bouvet_island.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "holidays/countries/brazil.py": {
+    "mi": 48.263070709131156,
+    "rank": "A"
+  },
+  "holidays/countries/british_indian_ocean_territory.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "holidays/countries/british_virgin_islands.py": {
+    "mi": 71.84482276953389,
+    "rank": "A"
+  },
+  "holidays/countries/brunei.py": {
+    "mi": 73.54649797595086,
+    "rank": "A"
+  },
+  "holidays/countries/bulgaria.py": {
+    "mi": 70.69495530204277,
+    "rank": "A"
+  },
+  "holidays/countries/burkina_faso.py": {
+    "mi": 83.29476218407393,
+    "rank": "A"
+  },
+  "holidays/countries/burundi.py": {
+    "mi": 79.81402801490233,
+    "rank": "A"
+  },
+  "holidays/countries/cabo_verde.py": {
+    "mi": 59.33045324976819,
+    "rank": "A"
+  },
+  "holidays/countries/cambodia.py": {
+    "mi": 65.48016316224911,
+    "rank": "A"
+  },
+  "holidays/countries/cameroon.py": {
+    "mi": 81.55321841084746,
+    "rank": "A"
+  },
+  "holidays/countries/canada.py": {
+    "mi": 39.31157449605008,
+    "rank": "A"
+  },
+  "holidays/countries/cayman_islands.py": {
+    "mi": 83.21139520991146,
+    "rank": "A"
+  },
+  "holidays/countries/central_african_republic.py": {
+    "mi": 79.11782969185006,
+    "rank": "A"
+  },
+  "holidays/countries/chad.py": {
+    "mi": 86.88313265322533,
+    "rank": "A"
+  },
+  "holidays/countries/chile.py": {
+    "mi": 60.23442216879627,
+    "rank": "A"
+  },
+  "holidays/countries/china.py": {
+    "mi": 69.07008145051573,
+    "rank": "A"
+  },
+  "holidays/countries/christmas_island.py": {
+    "mi": 76.79973951189999,
+    "rank": "A"
+  },
+  "holidays/countries/cocos_islands.py": {
+    "mi": 74.01376475409738,
+    "rank": "A"
+  },
+  "holidays/countries/colombia.py": {
+    "mi": 78.31232676606194,
+    "rank": "A"
+  },
+  "holidays/countries/comoros.py": {
+    "mi": 87.23919147204182,
+    "rank": "A"
+  },
+  "holidays/countries/congo.py": {
+    "mi": 87.92977577063164,
+    "rank": "A"
+  },
+  "holidays/countries/cook_islands.py": {
+    "mi": 80.51249816110507,
+    "rank": "A"
+  },
+  "holidays/countries/costa_rica.py": {
+    "mi": 72.18977724643969,
+    "rank": "A"
+  },
+  "holidays/countries/croatia.py": {
+    "mi": 78.26532026584113,
+    "rank": "A"
+  },
+  "holidays/countries/cuba.py": {
+    "mi": 71.34881866945804,
+    "rank": "A"
+  },
+  "holidays/countries/curacao.py": {
+    "mi": 67.5570493658293,
+    "rank": "A"
+  },
+  "holidays/countries/cyprus.py": {
+    "mi": 86.83299170108951,
+    "rank": "A"
+  },
+  "holidays/countries/czechia.py": {
+    "mi": 77.86862731567246,
+    "rank": "A"
+  },
+  "holidays/countries/denmark.py": {
+    "mi": 78.96401715033149,
+    "rank": "A"
+  },
+  "holidays/countries/djibouti.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "holidays/countries/dominica.py": {
+    "mi": 82.4660767270867,
+    "rank": "A"
+  },
+  "holidays/countries/dominican_republic.py": {
+    "mi": 83.81560593798606,
+    "rank": "A"
+  },
+  "holidays/countries/dr_congo.py": {
+    "mi": 79.2171548774769,
+    "rank": "A"
+  },
+  "holidays/countries/ecuador.py": {
+    "mi": 81.03599271516336,
+    "rank": "A"
+  },
+  "holidays/countries/egypt.py": {
+    "mi": 65.51596494728238,
+    "rank": "A"
+  },
+  "holidays/countries/el_salvador.py": {
+    "mi": 86.04580148795966,
+    "rank": "A"
+  },
+  "holidays/countries/equatorial_guinea.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "holidays/countries/eritrea.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "holidays/countries/estonia.py": {
+    "mi": 76.90856799922166,
+    "rank": "A"
+  },
+  "holidays/countries/eswatini.py": {
+    "mi": 78.72454788172216,
+    "rank": "A"
+  },
+  "holidays/countries/ethiopia.py": {
+    "mi": 77.92767920977545,
+    "rank": "A"
+  },
+  "holidays/countries/falkland_islands.py": {
+    "mi": 77.11016050768302,
+    "rank": "A"
+  },
+  "holidays/countries/faroe_islands.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "holidays/countries/fiji.py": {
+    "mi": 76.96098426553903,
+    "rank": "A"
+  },
+  "holidays/countries/finland.py": {
+    "mi": 59.79206639603091,
+    "rank": "A"
+  },
+  "holidays/countries/france.py": {
+    "mi": 56.01984454101312,
+    "rank": "A"
+  },
+  "holidays/countries/french_guiana.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "holidays/countries/french_polynesia.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "holidays/countries/french_southern_territories.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "holidays/countries/gabon.py": {
+    "mi": 76.79182800713743,
+    "rank": "A"
+  },
+  "holidays/countries/gambia.py": {
+    "mi": 80.81615285168571,
+    "rank": "A"
+  },
+  "holidays/countries/georgia.py": {
+    "mi": 85.54394132547894,
+    "rank": "A"
+  },
+  "holidays/countries/germany.py": {
+    "mi": 61.30827358405535,
+    "rank": "A"
+  },
+  "holidays/countries/ghana.py": {
+    "mi": 71.65088031825246,
+    "rank": "A"
+  },
+  "holidays/countries/gibraltar.py": {
+    "mi": 74.03285238504013,
+    "rank": "A"
+  },
+  "holidays/countries/greece.py": {
+    "mi": 84.88274661822155,
+    "rank": "A"
+  },
+  "holidays/countries/greenland.py": {
+    "mi": 86.87664424153853,
+    "rank": "A"
+  },
+  "holidays/countries/grenada.py": {
+    "mi": 79.71312205192027,
+    "rank": "A"
+  },
+  "holidays/countries/guadeloupe.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "holidays/countries/guam.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "holidays/countries/guatemala.py": {
+    "mi": 82.71042885609226,
+    "rank": "A"
+  },
+  "holidays/countries/guernsey.py": {
+    "mi": 66.97923723707592,
+    "rank": "A"
+  },
+  "holidays/countries/guinea.py": {
+    "mi": 76.78060254614627,
+    "rank": "A"
+  },
+  "holidays/countries/guinea_bissau.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "holidays/countries/guyana.py": {
+    "mi": 74.0806990535864,
+    "rank": "A"
+  },
+  "holidays/countries/haiti.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "holidays/countries/heard_island_and_mcdonald_islands.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "holidays/countries/honduras.py": {
+    "mi": 88.18904799292145,
+    "rank": "A"
+  },
+  "holidays/countries/hongkong.py": {
+    "mi": 47.549873925013856,
+    "rank": "A"
+  },
+  "holidays/countries/hungary.py": {
+    "mi": 70.6841147931441,
+    "rank": "A"
+  },
+  "holidays/countries/iceland.py": {
+    "mi": 87.21234302579931,
+    "rank": "A"
+  },
+  "holidays/countries/india.py": {
+    "mi": 32.62316034597368,
+    "rank": "A"
+  },
+  "holidays/countries/indonesia.py": {
+    "mi": 61.52890618160463,
+    "rank": "A"
+  },
+  "holidays/countries/iran.py": {
+    "mi": 72.2274338957912,
+    "rank": "A"
+  },
+  "holidays/countries/iraq.py": {
+    "mi": 63.57298791265667,
+    "rank": "A"
+  },
+  "holidays/countries/ireland.py": {
+    "mi": 77.61849124373985,
+    "rank": "A"
+  },
+  "holidays/countries/isle_of_man.py": {
+    "mi": 91.10896569885634,
+    "rank": "A"
+  },
+  "holidays/countries/israel.py": {
+    "mi": 72.09154028583119,
+    "rank": "A"
+  },
+  "holidays/countries/italy.py": {
+    "mi": 34.17931639663496,
+    "rank": "A"
+  },
+  "holidays/countries/ivory_coast.py": {
+    "mi": 76.5544987788599,
+    "rank": "A"
+  },
+  "holidays/countries/jamaica.py": {
+    "mi": 91.68954606195861,
+    "rank": "A"
+  },
+  "holidays/countries/japan.py": {
+    "mi": 52.19969721959252,
+    "rank": "A"
+  },
+  "holidays/countries/jersey.py": {
+    "mi": 73.32936644228764,
+    "rank": "A"
+  },
+  "holidays/countries/jordan.py": {
+    "mi": 85.76610331287989,
+    "rank": "A"
+  },
+  "holidays/countries/kazakhstan.py": {
+    "mi": 69.37441082131086,
+    "rank": "A"
+  },
+  "holidays/countries/kenya.py": {
+    "mi": 71.00301641692725,
+    "rank": "A"
+  },
+  "holidays/countries/kiribati.py": {
+    "mi": 75.67637562408552,
+    "rank": "A"
+  },
+  "holidays/countries/kosovo.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "holidays/countries/kuwait.py": {
+    "mi": 85.15623147085863,
+    "rank": "A"
+  },
+  "holidays/countries/kyrgyzstan.py": {
+    "mi": 65.10845459757799,
+    "rank": "A"
+  },
+  "holidays/countries/laos.py": {
+    "mi": 47.64748839502018,
+    "rank": "A"
+  },
+  "holidays/countries/latvia.py": {
+    "mi": 79.24262081711558,
+    "rank": "A"
+  },
+  "holidays/countries/lebanon.py": {
+    "mi": 61.34219029748516,
+    "rank": "A"
+  },
+  "holidays/countries/lesotho.py": {
+    "mi": 83.34015361019298,
+    "rank": "A"
+  },
+  "holidays/countries/liberia.py": {
+    "mi": 84.52631459460481,
+    "rank": "A"
+  },
+  "holidays/countries/libya.py": {
+    "mi": 77.42649678620126,
+    "rank": "A"
+  },
+  "holidays/countries/liechtenstein.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "holidays/countries/lithuania.py": {
+    "mi": 83.62124734177465,
+    "rank": "A"
+  },
+  "holidays/countries/luxembourg.py": {
+    "mi": 88.105476189167,
+    "rank": "A"
+  },
+  "holidays/countries/macau.py": {
+    "mi": 57.269149061398,
+    "rank": "A"
+  },
+  "holidays/countries/madagascar.py": {
+    "mi": 81.41629938782862,
+    "rank": "A"
+  },
+  "holidays/countries/malawi.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "holidays/countries/malaysia.py": {
+    "mi": 39.15701007725499,
+    "rank": "A"
+  },
+  "holidays/countries/maldives.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "holidays/countries/mali.py": {
+    "mi": 79.50521491452893,
+    "rank": "A"
+  },
+  "holidays/countries/malta.py": {
+    "mi": 58.41564304674834,
+    "rank": "A"
+  },
+  "holidays/countries/marshall_islands.py": {
+    "mi": 74.40853179387108,
+    "rank": "A"
+  },
+  "holidays/countries/martinique.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "holidays/countries/mauritania.py": {
+    "mi": 86.95532903413692,
+    "rank": "A"
+  },
+  "holidays/countries/mauritius.py": {
+    "mi": 75.44603280331445,
+    "rank": "A"
+  },
+  "holidays/countries/mayotte.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "holidays/countries/mexico.py": {
+    "mi": 75.61178110544078,
+    "rank": "A"
+  },
+  "holidays/countries/micronesia.py": {
+    "mi": 66.12861906161893,
+    "rank": "A"
+  },
+  "holidays/countries/moldova.py": {
+    "mi": 83.14431244108354,
+    "rank": "A"
+  },
+  "holidays/countries/monaco.py": {
+    "mi": 82.40207964066286,
+    "rank": "A"
+  },
+  "holidays/countries/mongolia.py": {
+    "mi": 67.32486378428551,
+    "rank": "A"
+  },
+  "holidays/countries/montenegro.py": {
+    "mi": 77.00418428840746,
+    "rank": "A"
+  },
+  "holidays/countries/montserrat.py": {
+    "mi": 77.36536495890964,
+    "rank": "A"
+  },
+  "holidays/countries/morocco.py": {
+    "mi": 76.83611952745551,
+    "rank": "A"
+  },
+  "holidays/countries/mozambique.py": {
+    "mi": 91.56887401324988,
+    "rank": "A"
+  },
+  "holidays/countries/myanmar.py": {
+    "mi": 73.39879381252416,
+    "rank": "A"
+  },
+  "holidays/countries/namibia.py": {
+    "mi": 84.09045565127094,
+    "rank": "A"
+  },
+  "holidays/countries/nauru.py": {
+    "mi": 82.31720947352837,
+    "rank": "A"
+  },
+  "holidays/countries/nepal.py": {
+    "mi": 69.66154425300678,
+    "rank": "A"
+  },
+  "holidays/countries/netherlands.py": {
+    "mi": 79.27745282829473,
+    "rank": "A"
+  },
+  "holidays/countries/new_caledonia.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "holidays/countries/new_zealand.py": {
+    "mi": 60.19148657689013,
+    "rank": "A"
+  },
+  "holidays/countries/nicaragua.py": {
+    "mi": 86.98010148370945,
+    "rank": "A"
+  },
+  "holidays/countries/niger.py": {
+    "mi": 76.06062781018697,
+    "rank": "A"
+  },
+  "holidays/countries/nigeria.py": {
+    "mi": 74.53285494455378,
+    "rank": "A"
+  },
+  "holidays/countries/niue.py": {
+    "mi": 84.50193521885043,
+    "rank": "A"
+  },
+  "holidays/countries/norfolk_island.py": {
+    "mi": 87.78067997637734,
+    "rank": "A"
+  },
+  "holidays/countries/northern_mariana_islands.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "holidays/countries/north_korea.py": {
+    "mi": 68.10894684926066,
+    "rank": "A"
+  },
+  "holidays/countries/north_macedonia.py": {
+    "mi": 63.86832207698606,
+    "rank": "A"
+  },
+  "holidays/countries/norway.py": {
+    "mi": 87.82843577859812,
+    "rank": "A"
+  },
+  "holidays/countries/oman.py": {
+    "mi": 73.61934423659372,
+    "rank": "A"
+  },
+  "holidays/countries/pakistan.py": {
+    "mi": 74.80136052423369,
+    "rank": "A"
+  },
+  "holidays/countries/palau.py": {
+    "mi": 76.48235059408418,
+    "rank": "A"
+  },
+  "holidays/countries/palestine.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "holidays/countries/panama.py": {
+    "mi": 78.66374846904075,
+    "rank": "A"
+  },
+  "holidays/countries/papua_new_guinea.py": {
+    "mi": 73.32445722653522,
+    "rank": "A"
+  },
+  "holidays/countries/paraguay.py": {
+    "mi": 78.38074587614352,
+    "rank": "A"
+  },
+  "holidays/countries/peru.py": {
+    "mi": 80.1213294793397,
+    "rank": "A"
+  },
+  "holidays/countries/philippines.py": {
+    "mi": 64.48619057132211,
+    "rank": "A"
+  },
+  "holidays/countries/pitcairn_islands.py": {
+    "mi": 86.96914073181225,
+    "rank": "A"
+  },
+  "holidays/countries/poland.py": {
+    "mi": 70.81811680219882,
+    "rank": "A"
+  },
+  "holidays/countries/portugal.py": {
+    "mi": 63.3135215948433,
+    "rank": "A"
+  },
+  "holidays/countries/puerto_rico.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "holidays/countries/qatar.py": {
+    "mi": 78.99461223778769,
+    "rank": "A"
+  },
+  "holidays/countries/reunion.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "holidays/countries/romania.py": {
+    "mi": 77.62945309590255,
+    "rank": "A"
+  },
+  "holidays/countries/russia.py": {
+    "mi": 66.64241420990568,
+    "rank": "A"
+  },
+  "holidays/countries/rwanda.py": {
+    "mi": 75.3527875331327,
+    "rank": "A"
+  },
+  "holidays/countries/saint_barthelemy.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "holidays/countries/saint_helena_ascension_and_tristan_da_cunha.py": {
+    "mi": 76.7083122631807,
+    "rank": "A"
+  },
+  "holidays/countries/saint_kitts_and_nevis.py": {
+    "mi": 80.33709789217197,
+    "rank": "A"
+  },
+  "holidays/countries/saint_lucia.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "holidays/countries/saint_martin.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "holidays/countries/saint_pierre_and_miquelon.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "holidays/countries/saint_vincent_and_the_grenadines.py": {
+    "mi": 84.68901253662608,
+    "rank": "A"
+  },
+  "holidays/countries/samoa.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "holidays/countries/san_marino.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "holidays/countries/sao_tome_and_principe.py": {
+    "mi": 84.55493211290946,
+    "rank": "A"
+  },
+  "holidays/countries/saudi_arabia.py": {
+    "mi": 72.4241562405212,
+    "rank": "A"
+  },
+  "holidays/countries/senegal.py": {
+    "mi": 76.45108383774604,
+    "rank": "A"
+  },
+  "holidays/countries/serbia.py": {
+    "mi": 89.71214029918931,
+    "rank": "A"
+  },
+  "holidays/countries/seychelles.py": {
+    "mi": 80.85404977057654,
+    "rank": "A"
+  },
+  "holidays/countries/sierra_leone.py": {
+    "mi": 82.28932291694224,
+    "rank": "A"
+  },
+  "holidays/countries/singapore.py": {
+    "mi": 78.23598111824877,
+    "rank": "A"
+  },
+  "holidays/countries/sint_maarten.py": {
+    "mi": 80.24297811311435,
+    "rank": "A"
+  },
+  "holidays/countries/slovakia.py": {
+    "mi": 73.52946552668713,
+    "rank": "A"
+  },
+  "holidays/countries/slovenia.py": {
+    "mi": 74.88207551998671,
+    "rank": "A"
+  },
+  "holidays/countries/solomon_islands.py": {
+    "mi": 75.68773992821802,
+    "rank": "A"
+  },
+  "holidays/countries/somalia.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "holidays/countries/south_africa.py": {
+    "mi": 68.50324522568278,
+    "rank": "A"
+  },
+  "holidays/countries/south_georgia_and_the_south_sandwich_islands.py": {
+    "mi": 72.66525030414708,
+    "rank": "A"
+  },
+  "holidays/countries/south_korea.py": {
+    "mi": 53.197499398189485,
+    "rank": "A"
+  },
+  "holidays/countries/south_sudan.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "holidays/countries/spain.py": {
+    "mi": 28.674068869235604,
+    "rank": "A"
+  },
+  "holidays/countries/sri_lanka.py": {
+    "mi": 71.8078673862607,
+    "rank": "A"
+  },
+  "holidays/countries/sudan.py": {
+    "mi": 77.29033412912308,
+    "rank": "A"
+  },
+  "holidays/countries/suriname.py": {
+    "mi": 71.83476973995104,
+    "rank": "A"
+  },
+  "holidays/countries/svalbard_and_jan_mayen.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "holidays/countries/sweden.py": {
+    "mi": 72.3154171682455,
+    "rank": "A"
+  },
+  "holidays/countries/switzerland.py": {
+    "mi": 48.64446572006779,
+    "rank": "A"
+  },
+  "holidays/countries/syrian_arab_republic.py": {
+    "mi": 81.6210051636803,
+    "rank": "A"
+  },
+  "holidays/countries/taiwan.py": {
+    "mi": 58.07762199859017,
+    "rank": "A"
+  },
+  "holidays/countries/tajikistan.py": {
+    "mi": 79.30150326222467,
+    "rank": "A"
+  },
+  "holidays/countries/tanzania.py": {
+    "mi": 63.63387707321176,
+    "rank": "A"
+  },
+  "holidays/countries/thailand.py": {
+    "mi": 33.39379478105433,
+    "rank": "A"
+  },
+  "holidays/countries/timor_leste.py": {
+    "mi": 75.09755265778891,
+    "rank": "A"
+  },
+  "holidays/countries/togo.py": {
+    "mi": 79.65510466541016,
+    "rank": "A"
+  },
+  "holidays/countries/tokelau.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "holidays/countries/tonga.py": {
+    "mi": 65.9673200187524,
+    "rank": "A"
+  },
+  "holidays/countries/trinidad_and_tobago.py": {
+    "mi": 74.89491176705901,
+    "rank": "A"
+  },
+  "holidays/countries/tunisia.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "holidays/countries/turkey.py": {
+    "mi": 71.74736919942418,
+    "rank": "A"
+  },
+  "holidays/countries/turkmenistan.py": {
+    "mi": 70.64791172184698,
+    "rank": "A"
+  },
+  "holidays/countries/turks_and_caicos_islands.py": {
+    "mi": 79.72508241249028,
+    "rank": "A"
+  },
+  "holidays/countries/tuvalu.py": {
+    "mi": 77.31705557088104,
+    "rank": "A"
+  },
+  "holidays/countries/uganda.py": {
+    "mi": 80.46953661264152,
+    "rank": "A"
+  },
+  "holidays/countries/ukraine.py": {
+    "mi": 65.68157009988815,
+    "rank": "A"
+  },
+  "holidays/countries/united_arab_emirates.py": {
+    "mi": 73.76694829383254,
+    "rank": "A"
+  },
+  "holidays/countries/united_kingdom.py": {
+    "mi": 67.5251728423793,
+    "rank": "A"
+  },
+  "holidays/countries/united_states.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "holidays/countries/united_states_minor_outlying_islands.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "holidays/countries/united_states_virgin_islands.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "holidays/countries/uruguay.py": {
+    "mi": 65.62674315473518,
+    "rank": "A"
+  },
+  "holidays/countries/uzbekistan.py": {
+    "mi": 75.17771476106948,
+    "rank": "A"
+  },
+  "holidays/countries/vanuatu.py": {
+    "mi": 85.62195289000645,
+    "rank": "A"
+  },
+  "holidays/countries/vatican_city.py": {
+    "mi": 65.40919039513598,
+    "rank": "A"
+  },
+  "holidays/countries/venezuela.py": {
+    "mi": 76.42341234660876,
+    "rank": "A"
+  },
+  "holidays/countries/vietnam.py": {
+    "mi": 69.77737523693457,
+    "rank": "A"
+  },
+  "holidays/countries/wallis_and_futuna.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "holidays/countries/western_sahara.py": {
+    "mi": 78.84650307253956,
+    "rank": "A"
+  },
+  "holidays/countries/yemen.py": {
+    "mi": 72.75396511704197,
+    "rank": "A"
+  },
+  "holidays/countries/zambia.py": {
+    "mi": 75.49281500595225,
+    "rank": "A"
+  },
+  "holidays/countries/zimbabwe.py": {
+    "mi": 86.68775189665827,
+    "rank": "A"
+  },
+  "holidays/countries/__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "holidays/deprecations/v1_incompatibility.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "holidays/financial/australian_securities_exchange.py": {
+    "mi": 78.31121384757368,
+    "rank": "A"
+  },
+  "holidays/financial/bolsas_y_mercados_argentinos.py": {
+    "mi": 88.37042138419872,
+    "rank": "A"
+  },
+  "holidays/financial/bolsas_y_mercados_espanoles.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "holidays/financial/bolsa_de_valores_de_colombia.py": {
+    "mi": 84.41635429681024,
+    "rank": "A"
+  },
+  "holidays/financial/bolsa_mexicana_de_valores.py": {
+    "mi": 71.75552635250335,
+    "rank": "A"
+  },
+  "holidays/financial/bombay_stock_exchange.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "holidays/financial/borsa_istanbul.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "holidays/financial/brasil_bolsa_balcao.py": {
+    "mi": 73.83547327625325,
+    "rank": "A"
+  },
+  "holidays/financial/chicago_mercantile_exchange.py": {
+    "mi": 78.8062211425506,
+    "rank": "A"
+  },
+  "holidays/financial/european_central_bank.py": {
+    "mi": 91.84575115478522,
+    "rank": "A"
+  },
+  "holidays/financial/germany_exchange.py": {
+    "mi": 88.20006654840408,
+    "rank": "A"
+  },
+  "holidays/financial/hong_kong_stock_exchange.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "holidays/financial/ice_futures_europe.py": {
+    "mi": 92.60277291500563,
+    "rank": "A"
+  },
+  "holidays/financial/japan_exchange.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "holidays/financial/johannesburg_stock_exchange.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "holidays/financial/korea_exchange.py": {
+    "mi": 90.59893029640972,
+    "rank": "A"
+  },
+  "holidays/financial/london_stock_exchange.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "holidays/financial/nasdaq.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "holidays/financial/national_stock_exchange_of_india.py": {
+    "mi": 69.43841951418203,
+    "rank": "A"
+  },
+  "holidays/financial/new_zealand_exchange.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "holidays/financial/ny_stock_exchange.py": {
+    "mi": 53.061000688088185,
+    "rank": "A"
+  },
+  "holidays/financial/shanghai_stock_exchange.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "holidays/financial/shenzhen_stock_exchange.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "holidays/financial/singapore_exchange.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "holidays/financial/six_swiss_exchange.py": {
+    "mi": 88.71813902612165,
+    "rank": "A"
+  },
+  "holidays/financial/taiwan_stock_exchange.py": {
+    "mi": 83.19322426279537,
+    "rank": "A"
+  },
+  "holidays/financial/toronto_stock_exchange.py": {
+    "mi": 80.1037209169137,
+    "rank": "A"
+  },
+  "holidays/financial/warsaw_stock_exchange.py": {
+    "mi": 88.72981325668154,
+    "rank": "A"
+  },
+  "holidays/financial/__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "holidays/groups/balinese_saka.py": {
+    "mi": 80.57855209755772,
+    "rank": "A"
+  },
+  "holidays/groups/buddhist.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "holidays/groups/burmese.py": {
+    "mi": 52.71912243638989,
+    "rank": "A"
+  },
+  "holidays/groups/chinese.py": {
+    "mi": 61.607272153300656,
+    "rank": "A"
+  },
+  "holidays/groups/christian.py": {
+    "mi": 32.972557142288565,
+    "rank": "A"
+  },
+  "holidays/groups/custom.py": {
+    "mi": 79.01429339594267,
+    "rank": "A"
+  },
+  "holidays/groups/eastern.py": {
+    "mi": 92.79676315956984,
+    "rank": "A"
+  },
+  "holidays/groups/hebrew.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "holidays/groups/hindu.py": {
+    "mi": 29.458124342633027,
+    "rank": "A"
+  },
+  "holidays/groups/international.py": {
+    "mi": 49.78064984617092,
+    "rank": "A"
+  },
+  "holidays/groups/islamic.py": {
+    "mi": 56.76751327825634,
+    "rank": "A"
+  },
+  "holidays/groups/mandaean.py": {
+    "mi": 73.16674508869083,
+    "rank": "A"
+  },
+  "holidays/groups/mongolian.py": {
+    "mi": 80.58641487200103,
+    "rank": "A"
+  },
+  "holidays/groups/persian.py": {
+    "mi": 68.74258615501662,
+    "rank": "A"
+  },
+  "holidays/groups/sinhala.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "holidays/groups/thai.py": {
+    "mi": 64.11858367766187,
+    "rank": "A"
+  },
+  "holidays/groups/tibetan.py": {
+    "mi": 81.2827458441903,
+    "rank": "A"
+  },
+  "holidays/groups/__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "holidays/mixins/child_entity.py": {
+    "mi": 67.18266744238761,
+    "rank": "A"
+  },
+  "holidays/mixins/preferred_discretionary_holidays.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "holidays/mixins/__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/common.py": {
+    "mi": 19.126477076137856,
+    "rank": "A"
+  },
+  "tests/test_docs.py": {
+    "mi": 50.35518164258353,
+    "rank": "A"
+  },
+  "tests/test_generate_ics.py": {
+    "mi": 27.409139648684462,
+    "rank": "A"
+  },
+  "tests/test_helpers.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/test_holiday_base.py": {
+    "mi": 0.28544373433850484,
+    "rank": "C"
+  },
+  "tests/test_ical.py": {
+    "mi": 43.96478082697989,
+    "rank": "A"
+  },
+  "tests/test_imports.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/test_l10n.py": {
+    "mi": 74.81906865215012,
+    "rank": "A"
+  },
+  "tests/test_observed_holiday_base.py": {
+    "mi": 94.28308329025445,
+    "rank": "A"
+  },
+  "tests/test_package.py": {
+    "mi": 92.06153690088404,
+    "rank": "A"
+  },
+  "tests/test_registry.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/test_utils.py": {
+    "mi": 43.917527061235965,
+    "rank": "A"
+  },
+  "tests/__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/calendars/test_burmese.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/calendars/test_chinese.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/calendars/test_ethiopian.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/calendars/test_gregorian.py": {
+    "mi": 77.09678616606415,
+    "rank": "A"
+  },
+  "tests/calendars/test_islamic.py": {
+    "mi": 80.06180076516692,
+    "rank": "A"
+  },
+  "tests/calendars/test_julian.py": {
+    "mi": 97.0644955795705,
+    "rank": "A"
+  },
+  "tests/calendars/test_persian.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/calendars/test_thai.py": {
+    "mi": 60.882028311507405,
+    "rank": "A"
+  },
+  "tests/calendars/__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/countries/test_afghanistan.py": {
+    "mi": 55.443097842164036,
+    "rank": "A"
+  },
+  "tests/countries/test_aland_islands.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/countries/test_albania.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/countries/test_algeria.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/countries/test_american_samoa.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/countries/test_andorra.py": {
+    "mi": 36.68132808901544,
+    "rank": "A"
+  },
+  "tests/countries/test_angola.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/countries/test_anguilla.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/countries/test_antarctica.py": {
+    "mi": 95.41969091377425,
+    "rank": "A"
+  },
+  "tests/countries/test_antigua_and_barbuda.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/countries/test_argentina.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "tests/countries/test_armenia.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/countries/test_aruba.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/countries/test_australia.py": {
+    "mi": 0.5826352517212569,
+    "rank": "C"
+  },
+  "tests/countries/test_austria.py": {
+    "mi": 45.12454758659365,
+    "rank": "A"
+  },
+  "tests/countries/test_azerbaijan.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/countries/test_bahamas.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/countries/test_bahrain.py": {
+    "mi": 64.09723231420699,
+    "rank": "A"
+  },
+  "tests/countries/test_bangladesh.py": {
+    "mi": 58.9442785900286,
+    "rank": "A"
+  },
+  "tests/countries/test_barbados.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/countries/test_belarus.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/countries/test_belgium.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/countries/test_belize.py": {
+    "mi": 52.944615846746586,
+    "rank": "A"
+  },
+  "tests/countries/test_benin.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/countries/test_bermuda.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/countries/test_bhutan.py": {
+    "mi": 54.06793473459905,
+    "rank": "A"
+  },
+  "tests/countries/test_bolivia.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/countries/test_bonaire_sint_eustatius_and_saba.py": {
+    "mi": 47.817302068121336,
+    "rank": "A"
+  },
+  "tests/countries/test_bosnia_and_herzegovina.py": {
+    "mi": 30.345002647034057,
+    "rank": "A"
+  },
+  "tests/countries/test_botswana.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/countries/test_bouvet_island.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/countries/test_brazil.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "tests/countries/test_british_indian_ocean_territory.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/countries/test_british_virgin_islands.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/countries/test_brunei.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/countries/test_bulgaria.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/countries/test_burkina_faso.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/countries/test_burundi.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/countries/test_cabo_verde.py": {
+    "mi": 18.836805264869493,
+    "rank": "B"
+  },
+  "tests/countries/test_cambodia.py": {
+    "mi": 47.927307491211636,
+    "rank": "A"
+  },
+  "tests/countries/test_cameroon.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/countries/test_canada.py": {
+    "mi": 20.033226056812758,
+    "rank": "A"
+  },
+  "tests/countries/test_cayman_islands.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/countries/test_central_african_republic.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/countries/test_chad.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/countries/test_chile.py": {
+    "mi": 48.25729177156267,
+    "rank": "A"
+  },
+  "tests/countries/test_china.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/countries/test_christmas_island.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/countries/test_cocos_islands.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/countries/test_colombia.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/countries/test_comoros.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/countries/test_congo.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/countries/test_cook_islands.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/countries/test_costa_rica.py": {
+    "mi": 49.55503978715936,
+    "rank": "A"
+  },
+  "tests/countries/test_croatia.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/countries/test_cuba.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/countries/test_curacao.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/countries/test_cyprus.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/countries/test_czechia.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/countries/test_denmark.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/countries/test_djibouti.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/countries/test_dominica.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/countries/test_dominican_republic.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/countries/test_dr_congo.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/countries/test_ecuador.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/countries/test_egypt.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/countries/test_el_salvador.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/countries/test_equatorial_guinea.py": {
+    "mi": 62.42929052286902,
+    "rank": "A"
+  },
+  "tests/countries/test_eritrea.py": {
+    "mi": 58.10518467159351,
+    "rank": "A"
+  },
+  "tests/countries/test_estonia.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/countries/test_eswatini.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/countries/test_ethiopia.py": {
+    "mi": 50.09501467363978,
+    "rank": "A"
+  },
+  "tests/countries/test_falkland_islands.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/countries/test_faroe_islands.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/countries/test_fiji.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/countries/test_finland.py": {
+    "mi": 47.924607160085316,
+    "rank": "A"
+  },
+  "tests/countries/test_france.py": {
+    "mi": 36.97049627676556,
+    "rank": "A"
+  },
+  "tests/countries/test_french_guiana.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/countries/test_french_polynesia.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/countries/test_french_southern_territories.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/countries/test_gabon.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/countries/test_gambia.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/countries/test_georgia.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/countries/test_germany.py": {
+    "mi": 33.07404112251042,
+    "rank": "A"
+  },
+  "tests/countries/test_ghana.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/countries/test_gibraltar.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/countries/test_greece.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/countries/test_greenland.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/countries/test_grenada.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/countries/test_guadeloupe.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/countries/test_guam.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/countries/test_guatemala.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/countries/test_guernsey.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/countries/test_guinea.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/countries/test_guinea_bissau.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/countries/test_guyana.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/countries/test_haiti.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/countries/test_heard_island_and_mcdonald_islands.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/countries/test_honduras.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/countries/test_hongkong.py": {
+    "mi": 25.905713941632527,
+    "rank": "A"
+  },
+  "tests/countries/test_hungary.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/countries/test_iceland.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/countries/test_india.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "tests/countries/test_indonesia.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/countries/test_iran.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/countries/test_iraq.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/countries/test_ireland.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/countries/test_isle_of_man.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/countries/test_israel.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/countries/test_italy.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/countries/test_ivory_coast.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/countries/test_jamaica.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/countries/test_japan.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/countries/test_jersey.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/countries/test_jordan.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/countries/test_kazakhstan.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/countries/test_kenya.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/countries/test_kiribati.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/countries/test_kosovo.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/countries/test_kuwait.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/countries/test_kyrgyzstan.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/countries/test_laos.py": {
+    "mi": 43.930895327282045,
+    "rank": "A"
+  },
+  "tests/countries/test_latvia.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/countries/test_lebanon.py": {
+    "mi": 47.764858683468866,
+    "rank": "A"
+  },
+  "tests/countries/test_lesotho.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/countries/test_liberia.py": {
+    "mi": 75.30489209540943,
+    "rank": "A"
+  },
+  "tests/countries/test_libya.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/countries/test_liechtenstein.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/countries/test_lithuania.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/countries/test_luxembourg.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/countries/test_macau.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/countries/test_madagascar.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/countries/test_malawi.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/countries/test_malaysia.py": {
+    "mi": 12.097922535749928,
+    "rank": "B"
+  },
+  "tests/countries/test_maldives.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/countries/test_mali.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/countries/test_malta.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/countries/test_marshall_islands.py": {
+    "mi": 59.24684126366511,
+    "rank": "A"
+  },
+  "tests/countries/test_martinique.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/countries/test_mauritania.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/countries/test_mauritius.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/countries/test_mayotte.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/countries/test_mexico.py": {
+    "mi": 64.62814293392982,
+    "rank": "A"
+  },
+  "tests/countries/test_micronesia.py": {
+    "mi": 29.922666457303166,
+    "rank": "A"
+  },
+  "tests/countries/test_moldova.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/countries/test_monaco.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/countries/test_mongolia.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/countries/test_montenegro.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/countries/test_montserrat.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/countries/test_morocco.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/countries/test_mozambique.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/countries/test_myanmar.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/countries/test_namibia.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/countries/test_nauru.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/countries/test_nepal.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/countries/test_netherlands.py": {
+    "mi": 59.164364692006906,
+    "rank": "A"
+  },
+  "tests/countries/test_new_caledonia.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/countries/test_new_zealand.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/countries/test_nicaragua.py": {
+    "mi": 71.28537554671541,
+    "rank": "A"
+  },
+  "tests/countries/test_niger.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/countries/test_nigeria.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/countries/test_niue.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/countries/test_norfolk_island.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/countries/test_northern_mariana_islands.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/countries/test_north_korea.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/countries/test_north_macedonia.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/countries/test_norway.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/countries/test_oman.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/countries/test_pakistan.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/countries/test_palau.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/countries/test_palestine.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/countries/test_panama.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/countries/test_papua_new_guinea.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/countries/test_paraguay.py": {
+    "mi": 58.9720496384667,
+    "rank": "A"
+  },
+  "tests/countries/test_peru.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/countries/test_philippines.py": {
+    "mi": 47.3937049900948,
+    "rank": "A"
+  },
+  "tests/countries/test_pitcairn_islands.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/countries/test_poland.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/countries/test_portugal.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/countries/test_puerto_rico.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/countries/test_qatar.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/countries/test_reunion.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/countries/test_romania.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/countries/test_russia.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/countries/test_rwanda.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/countries/test_saint_barthelemy.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/countries/test_saint_helena_ascension_and_tristan_da_cunha.py": {
+    "mi": 52.694850517357835,
+    "rank": "A"
+  },
+  "tests/countries/test_saint_kitts_and_nevis.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/countries/test_saint_lucia.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/countries/test_saint_martin.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/countries/test_saint_pierre_and_miquelon.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/countries/test_saint_vincent_and_the_grenadines.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/countries/test_samoa.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/countries/test_san_marino.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/countries/test_sao_tome_and_principe.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/countries/test_saudi_arabia.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/countries/test_senegal.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/countries/test_serbia.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/countries/test_seychelles.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/countries/test_sierra_leone.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/countries/test_singapore.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/countries/test_sint_maarten.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/countries/test_slovakia.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/countries/test_slovenia.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/countries/test_solomon_islands.py": {
+    "mi": 55.57379720461857,
+    "rank": "A"
+  },
+  "tests/countries/test_somalia.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/countries/test_south_africa.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/countries/test_south_georgia_and_the_south_sandwich_islands.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/countries/test_south_korea.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/countries/test_south_sudan.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/countries/test_spain.py": {
+    "mi": 44.03811593576968,
+    "rank": "A"
+  },
+  "tests/countries/test_sri_lanka.py": {
+    "mi": 58.55374892214859,
+    "rank": "A"
+  },
+  "tests/countries/test_sudan.py": {
+    "mi": 70.84616876879005,
+    "rank": "A"
+  },
+  "tests/countries/test_suriname.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/countries/test_svalbard_and_jan_mayen.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/countries/test_sweden.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/countries/test_switzerland.py": {
+    "mi": 11.111124178483024,
+    "rank": "B"
+  },
+  "tests/countries/test_syrian_arab_republic.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/countries/test_taiwan.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/countries/test_tajikistan.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/countries/test_tanzania.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/countries/test_thailand.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/countries/test_timor_leste.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/countries/test_togo.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/countries/test_tokelau.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/countries/test_tonga.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/countries/test_trinidad_and_tobago.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/countries/test_tunisia.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/countries/test_turkey.py": {
+    "mi": 54.82721183613806,
+    "rank": "A"
+  },
+  "tests/countries/test_turkmenistan.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/countries/test_turks_and_caicos_islands.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/countries/test_tuvalu.py": {
+    "mi": 39.41070400794206,
+    "rank": "A"
+  },
+  "tests/countries/test_uganda.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/countries/test_ukraine.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/countries/test_united_arab_emirates.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/countries/test_united_kingdom.py": {
+    "mi": 38.82084102917517,
+    "rank": "A"
+  },
+  "tests/countries/test_united_states.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "tests/countries/test_united_states_minor_outlying_islands.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/countries/test_united_states_virgin_islands.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/countries/test_uruguay.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/countries/test_uzbekistan.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/countries/test_vanuatu.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/countries/test_vatican_city.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/countries/test_venezuela.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/countries/test_vietnam.py": {
+    "mi": 57.22630571225544,
+    "rank": "A"
+  },
+  "tests/countries/test_wallis_and_futuna.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/countries/test_western_sahara.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/countries/test_yemen.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/countries/test_zambia.py": {
+    "mi": 53.00359932073096,
+    "rank": "A"
+  },
+  "tests/countries/test_zimbabwe.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/countries/__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/financial/test_australian_securities_exchange.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/financial/test_bolsas_y_mercados_argentinos.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/financial/test_bolsas_y_mercados_espanoles.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/financial/test_bolsa_de_valores_de_colombia.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/financial/test_bolsa_mexicana_de_valores.py": {
+    "mi": 54.99214273792972,
+    "rank": "A"
+  },
+  "tests/financial/test_bombay_stock_exchange.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/financial/test_borsa_istanbul.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/financial/test_brasil_bolsa_balcao.py": {
+    "mi": 67.14424620662733,
+    "rank": "A"
+  },
+  "tests/financial/test_chicago_mercantile_exchange.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/financial/test_european_central_bank.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/financial/test_germany_exchange.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/financial/test_hong_kong_stock_exchange.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/financial/test_ice_futures_europe.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/financial/test_japan_exchange.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/financial/test_johannesburg_stock_exchange.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/financial/test_korea_exchange.py": {
+    "mi": 74.68879079471694,
+    "rank": "A"
+  },
+  "tests/financial/test_london_stock_exchange.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/financial/test_nasdaq.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/financial/test_national_stock_exchange_of_india.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/financial/test_new_zealand_exchange.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/financial/test_ny_stock_exchange.py": {
+    "mi": 57.60428048413557,
+    "rank": "A"
+  },
+  "tests/financial/test_shanghai_stock_exchange.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/financial/test_shenzhen_stock_exchange.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/financial/test_singapore_exchange.py": {
+    "mi": 72.85555506701711,
+    "rank": "A"
+  },
+  "tests/financial/test_six_swiss_exchange.py": {
+    "mi": 68.5705875643972,
+    "rank": "A"
+  },
+  "tests/financial/test_taiwan_stock_exchange.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/financial/test_toronto_stock_exchange.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/financial/test_warsaw_stock_exchange.py": {
+    "mi": 68.89186842399592,
+    "rank": "A"
+  },
+  "tests/financial/__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/groups/test_balinese_saka.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/groups/test_burmese.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/groups/test_christian.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/groups/test_international.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/groups/test_mandaean.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/groups/test_persian.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/groups/test_thai.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/groups/test_tibetan.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/groups/__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/scripts/test_generate_site_assets.py": {
+    "mi": 98.17177096292004,
+    "rank": "A"
+  },
+  "tests/scripts/__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/third_party/test_numpy.py": {
+    "mi": 100.0,
+    "rank": "A"
+  }
+}
